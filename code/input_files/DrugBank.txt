@@ -1,0 +1,9626 @@
+Drug	GeneID
+Ergoloid mesylate	285242
+Dihydroergocornine	285242
+Gilteritinib	285242
+Ethanol	285242
+Paroxetine	285242
+Dihydroergocristine	285242
+Diazepam	200959
+Prazepam	200959
+Triazolam	200959
+Quazepam	200959
+Nitrazepam	200959
+Estazolam	200959
+Halazepam	200959
+Flurazepam	200959
+Clotiazepam	200959
+Oxazepam	200959
+Temazepam	200959
+Bromazepam	200959
+Flavin mononucleotide	6446
+Quinidine	3775
+Quinidine barbiturate	3775
+Ibutilide	3775
+Pregnenolone	6820
+Prasterone	6820
+Mifamurtide	7099
+Lauric acid	7099
+Naloxone	7099
+Papain	7099
+Cyclobenzaprine	7099
+NADH	4728
+Glutamic acid	2918
+Fostamatinib	658
+Sucrose	475
+Cisplatin	475
+Dextromethorphan	10857
+Nortriptyline	10857
+Sertraline	10857
+Copper	1192
+Nimodipine	785
+Dronedarone	785
+Trimebutine	785
+Manidipine	785
+Phenytoin	785
+Topiramate	785
+Bioallethrin	785
+Lacidipine	785
+Spironolactone	785
+Butamben	785
+Fish oil	785
+Levomenthol	785
+Ranolazine	785
+Ergocalciferol	785
+Copanlisib	5293
+Duvelisib	5293
+Fostamatinib	5293
+Idelalisib	5293
+Caffeine	5293
+Glutamic acid	6512
+Caffeine	5138
+Fostamatinib	10733
+Isoprenaline	5296
+Ascorbic acid	5352
+NADH	4697
+Fostamatinib	2166
+Thiopental	2166
+Ergocalciferol	773
+Levomenthol	773
+Trimebutine	773
+Bioallethrin	773
+Bepridil	773
+Manidipine	773
+Verapamil	773
+Phenytoin	773
+Loperamide	773
+Spironolactone	773
+Lacidipine	773
+Butamben	773
+Estazolam	2568
+Alprazolam	2568
+Flurazepam	2568
+Butabarbital	2568
+Enflurane	2568
+Nitrazepam	2568
+Quazepam	2568
+Methoxyflurane	2568
+Pentobarbital	2568
+Temazepam	2568
+Stiripentol	2568
+Medroxyprogesterone acetate	2568
+Sevoflurane	2568
+Halazepam	2568
+Lamotrigine	2568
+Desflurane	2568
+Oxazepam	2568
+Triazolam	2568
+Prasterone	2568
+Butalbital	2568
+Talbutal	2568
+Brexanolone	2568
+Clonazepam	2568
+Etomidate	2568
+Isoflurane	2568
+Methyprylon	2568
+Acamprosate	2568
+Clorazepic acid	2568
+Glutethimide	2568
+Lorazepam	2568
+Halothane	2568
+Prazepam	2568
+Meprobamate	2568
+Ethchlorvynol	2568
+Diazepam	2568
+Eszopiclone	2568
+Primidone	2568
+Propofol	2568
+Bromazepam	2568
+Chlordiazepoxide	2568
+Clotiazepam	2568
+Clobazam	2568
+Apalutamide	2568
+Phenytoin	2568
+Flumazenil	2568
+Amoxapine	2568
+Ethanol	2568
+Taurine	2568
+Memantine	2568
+Fostamatinib	5287
+Biotin	32
+Adenine	32
+Pyridoxine	8566
+Pyridoxine	105372824
+Succinic acid	6392
+Hexachlorophene	6392
+Zinc acetate	26330
+Zinc chloride	26330
+NADH	26330
+Zinc	26330
+NADH	4706
+Fostamatinib	11113
+Hyaluronic acid	1463
+Zinc acetate	9973
+Zinc chloride	9973
+Zinc	9973
+Epirubicin	1105
+Halothane	3777
+Doxapram	3777
+Glycerin	1787
+Pentamidine	1787
+Fostamatinib	8780
+Lithium citrate	3613
+Lithium carbonate	3613
+Zidovudine	7015
+Succinic acid	8630
+Fostamatinib	1111
+Ethanol	2563
+Prasterone	2563
+Memantine	2563
+Sevoflurane	2563
+Ethchlorvynol	2563
+Estazolam	2563
+Alprazolam	2563
+Chlordiazepoxide	2563
+Bromazepam	2563
+Propofol	2563
+Triazolam	2563
+Acamprosate	2563
+Butabarbital	2563
+Lamotrigine	2563
+Oxazepam	2563
+Clonazepam	2563
+Methoxyflurane	2563
+Eszopiclone	2563
+Pentobarbital	2563
+Apalutamide	2563
+Flumazenil	2563
+Prazepam	2563
+Quazepam	2563
+Lorazepam	2563
+Temazepam	2563
+Flurazepam	2563
+Desflurane	2563
+Clotiazepam	2563
+Diazepam	2563
+Primidone	2563
+Halothane	2563
+Taurine	2563
+Clorazepic acid	2563
+Brexanolone	2563
+Clobazam	2563
+Enflurane	2563
+Stiripentol	2563
+Amoxapine	2563
+Halazepam	2563
+Nitrazepam	2563
+Medroxyprogesterone acetate	2563
+Meprobamate	2563
+Isoflurane	2563
+Etomidate	2563
+Butalbital	2563
+Talbutal	2563
+Methyprylon	2563
+Phenytoin	2563
+Ketazolam	2563
+Glutethimide	2563
+Palifermin	8829
+Pegaptanib	8829
+Lenalidomide	8600
+Denosumab	8600
+Zinc	8542
+Zinc acetate	8542
+Zinc chloride	8542
+Moroctocog alfa	5264
+Ascorbic acid	5264
+Antihemophilic factor, human recombinant	5264
+Lonoctocog alfa	5264
+Glutamic acid	26873
+Icosapent	2864
+Glutathione	4259
+Arsenic trioxide	3551
+Auranofin	3551
+Acetylsalicylic acid	3551
+Mesalazine	3551
+Fostamatinib	3551
+Sulfasalazine	3551
+Acetylcysteine	3551
+Fostamatinib	8573
+Choline	5338
+Choline salicylate	5338
+Calcium phosphate dihydrate	845
+Calcium Citrate	845
+Calcium Phosphate	845
+Citric acid	9146
+Fostamatinib	6790
+Fostamatinib	2580
+Selinexor	7514
+Glutamic acid	5198
+Fostamatinib	9201
+Mesalazine	1147
+Sulfasalazine	1147
+Acetylcysteine	1147
+Aminosalicylic acid	1147
+Fostamatinib	4593
+Glutathione	2941
+NADH	4694
+Fostamatinib	5603
+Pyridoxal phosphate	10558
+Pyridoxal phosphate	9517
+Zinc acetate	10572
+Zinc chloride	10572
+Zinc	10572
+Zinc acetate	7161
+Zinc	7161
+Zinc chloride	7161
+Pyruvic acid	9122
+Pyruvic acid	9121
+Vorinostat	8841
+Panobinostat	8841
+Belinostat	8841
+Pyridoxal phosphate	587
+Glutamic acid	587
+Reserpine	332
+Berberine	332
+Prasterone	2906
+Glutamic acid	2906
+Acetylcysteine	2906
+Magnesium carbonate	2906
+Tramadol	2906
+Memantine	2906
+Guaifenesin	2906
+Milnacipran	2906
+Aripiprazole	2906
+Atomoxetine	2906
+Meperidine	2906
+Methadone	2906
+Magnesium acetate tetrahydrate	2906
+Secobarbital	2906
+Esketamine	2906
+Pentobarbital	2906
+Orphenadrine	2906
+Donepezil	2906
+Phenobarbital	2906
+Fluciclovine (18F)	2906
+Acamprosate	2906
+Pyruvic acid	9120
+Pyruvic acid	9123
+Curcumin	10057
+Succinic acid	8974
+Crotalus adamanteus antivenin	8399
+Agkistrodon piscivorus antivenin	8399
+Alfacalcidol	1594
+Celecoxib	5170
+Fostamatinib	5170
+Clotrimazole	3783
+Enflurane	3783
+Halothane	3783
+Procaine	3783
+Miconazole	3783
+Quinine	3783
+Trimebutine	3783
+Tretinoin	1592
+NADH	26227
+NADH	4724
+Erythromycin	2862
+Ornithine	6545
+L-Lysine	6545
+Glycerin	9061
+Fostamatinib	9175
+Fostamatinib	1613
+Fostamatinib	8767
+Glutamic acid	2895
+Miglitol	8972
+Acarbose	8972
+Verapamil	8913
+Ethosuximide	8913
+Manidipine	8913
+Zonisamide	8913
+Butamben	8913
+Bioallethrin	8913
+Ergocalciferol	8913
+Flunarizine	8913
+Trimethadione	8913
+Spironolactone	8913
+Cinnarizine	8913
+Methsuximide	8913
+Cannabidiol	8913
+Trimebutine	8913
+Ezogabine	3786
+Amitriptyline	3786
+Meclofenamic acid	3786
+Gabapentin	3786
+Ezogabine	3785
+Amitriptyline	3785
+Meclofenamic acid	3785
+Benzthiazide	771
+Hydroflumethiazide	771
+Acetazolamide	771
+Zonisamide	771
+Pidolic acid	3060
+Suvorexant	3061
+Lemborexant	3061
+Suvorexant	3062
+Lemborexant	3062
+Palmitic Acid	27095
+NADH	4711
+NADH	4709
+NADH	4717
+NADH	4695
+Glutathione	2954
+Dichloroacetic acid	2954
+Acetylsalicylic acid	5565
+Fostamatinib	5565
+Adenosine phosphate	5565
+Lipoic acid	11019
+Levocarnitine	788
+Asparagine	4677
+NADH	3420
+NADH	4725
+Sulindac	57016
+Fostamatinib	9891
+Butamben	10368
+Bioallethrin	10368
+Spironolactone	10368
+Ergocalciferol	10368
+Esketamine	116444
+Memantine	116444
+Guaifenesin	116444
+Tramadol	116444
+Acamprosate	116444
+Glutamic acid	116444
+Glycine	116444
+Secobarbital	116444
+Magnesium acetate tetrahydrate	116444
+Prasterone	116444
+Aripiprazole	116444
+Magnesium carbonate	116444
+Orphenadrine	116444
+Pentobarbital	116444
+Methadone	116444
+Milnacipran	116444
+Fluciclovine (18F)	116444
+Atomoxetine	116444
+Halothane	116444
+Donepezil	116444
+Phenobarbital	116444
+Icosapent	3992
+alpha-Linolenic acid	3992
+Rosiglitazone	2182
+Icosapent	2182
+Troglitazone	2182
+Hydroxocobalamin	8029
+Streptozocin	10724
+N-Acetylglucosamine	8703
+N-Acetylglucosamine	8702
+Succinic acid	8985
+Ascorbic acid	8985
+Tuberculin Purified Protein Derivative	7097
+Lyme disease vaccine (recombinant OspA)	7097
+Phenolphthalein	54600
+Caffeine	5151
+Galsulfase	10226
+Idursulfase	10226
+Pyruvic acid	9194
+Fedratinib	3717
+Tofacitinib	3717
+Fostamatinib	3717
+Baricitinib	3717
+Zanubrutinib	3717
+Entrectinib	3717
+Ruxolitinib	3717
+Copper	7358
+NADH	7358
+Nicorandil	10060
+Glyburide	10060
+Glutathione	27306
+Glycerin	27306
+Vitamin A	27306
+Tretinoin	27306
+Thiamine	10560
+Manidipine	778
+Bioallethrin	778
+Lacidipine	778
+Ergocalciferol	778
+Dronedarone	778
+Butamben	778
+Spironolactone	778
+Topiramate	778
+Nimodipine	778
+Trimebutine	778
+Cinnarizine	778
+Clevidipine	778
+Levomenthol	778
+Phenytoin	778
+Fish oil	778
+Ranolazine	778
+Pramlintide	10267
+Pramlintide	10266
+Pramlintide	10268
+N-Acetylglucosamine	8704
+Cystine	1497
+Dichlorobenzyl alcohol	6327
+Ranolazine	6327
+Oxcarbazepine	6327
+Valproic acid	6327
+Brivaracetam	6327
+Fish oil	6327
+Zonisamide	6327
+Isopropyl alcohol	8732
+Palivizumab	2215
+Alemtuzumab	2215
+Alefacept	2215
+Muromonab	2215
+Catumaxomab	2215
+Gemtuzumab ozogamicin	2215
+Basiliximab	2215
+Sarilumab	2215
+Ibritumomab tiuxetan	2215
+Trastuzumab	2215
+Natalizumab	2215
+Human immunoglobulin G	2215
+Etanercept	2215
+Abciximab	2215
+Bevacizumab	2215
+Cetuximab	2215
+Efalizumab	2215
+Tositumomab	2215
+Fostamatinib	9475
+Netarsudil	9475
+NADH	374291
+NADH	4720
+Ivermectin	8001
+Glycine	8001
+Taurine	8001
+Cannabidiol	8001
+Lindane	8001
+Memantine	8001
+Hyaluronic acid	3161
+Calcium Phosphate	10016
+Calcium	10016
+Zinc chloride	10016
+Calcium phosphate dihydrate	10016
+Calcium Citrate	10016
+Zinc acetate	10016
+Zinc	10016
+NADH	4726
+Fostamatinib	8408
+Citric acid	1431
+NADH	4707
+Fostamatinib	2081
+Chenodeoxycholic acid	8856
+Ethinylestradiol	8856
+Clotrimazole	8856
+Pregnenolone	8856
+Oxiconazole	8856
+Pyrethrum extract	8856
+Ritonavir	8856
+Spironolactone	8856
+Lindane	8856
+Nifedipine	8856
+Ethotoin	8856
+Phenytoin	8856
+Estradiol acetate	8856
+Pentobarbital	8856
+Rifampicin	8856
+Warfarin	8856
+Flutamide	8856
+Resveratrol	8856
+Troleandomycin	8856
+Methylphenobarbital	8856
+Phenobarbital	8856
+Fenofibric acid	8856
+Estradiol dienanthate	8856
+Rilpivirine	8856
+Rifaximin	8856
+Sulfinpyrazone	8856
+Fenofibrate	8856
+Phenolphthalein	8856
+Myrrh	8856
+Paclitaxel	8856
+Diethylstilbestrol	8856
+D-alpha-Tocopherol acetate	8856
+Permethrin	8856
+Estradiol valerate	8856
+Vitamin E	8856
+Bezafibrate	8856
+Dexamethasone	8856
+Estradiol benzoate	8856
+Econazole	8856
+alpha-Tocopherol succinate	8856
+Carbamazepine	8856
+Clonazepam	8856
+Ketoconazole	8856
+Mifepristone	8856
+Docetaxel	8856
+Tamoxifen	8856
+Erlotinib	8856
+Estradiol cypionate	8856
+Cyclophosphamide	8856
+Mephenytoin	8856
+Miconazole	8856
+Ifosfamide	8856
+Prasterone	8856
+Estradiol	8856
+Triclosan	8856
+NADH	4722
+Zonisamide	770
+Pyridoxal phosphate	23464
+Glycine	23464
+Zinc acetate	8547
+Zinc chloride	8547
+Zinc	8547
+Flavin mononucleotide	8986
+Glutathione	2880
+Fostamatinib	8576
+Aspartic acid	8604
+Fostamatinib	5288
+Butamben	8989
+Levomenthol	8989
+Cannabidiol	8989
+Camphor	8989
+Calcium Citrate	10518
+Calcium phosphate dihydrate	10518
+Calcium Phosphate	10518
+Ivosidenib	3417
+Glutamic acid	5188
+Copper	6341
+gamma-Aminobutyric acid	9568
+Baclofen	9568
+Vitamin A	9249
+Fostamatinib	5063
+Ascorbic acid	8424
+Succinic acid	8424
+alpha-Tocopherol succinate	23541
+Vitamin E	23541
+D-alpha-Tocopherol acetate	23541
+Palmitic Acid	23541
+Theophylline	8654
+Vardenafil	8654
+Caffeine	8654
+Avanafil	8654
+Tadalafil	8654
+Pentoxifylline	8654
+Dipyridamole	8654
+Fostamatinib	8654
+Citric acid	8654
+Udenafil	8654
+Sildenafil	8654
+Levocarnitine	6584
+Caffeine	5152
+Citrulline	23576
+Dexlansoprazole	23576
+Pantoprazole	23576
+Esomeprazole	23576
+Fostamatinib	9262
+Tretinoin	8854
+NADH	8854
+Vitamin A	8854
+Fostamatinib	6793
+Pyridoxal phosphate	11212
+Glutamic acid	2744
+Telaprevir	11309
+Gemfibrozil	11309
+Dofetilide	3776
+Dronedarone	3776
+NADH	4712
+NADH	4696
+NADH	4710
+NADH	4714
+NADH	4708
+Butamben	8912
+Bioallethrin	8912
+Zonisamide	8912
+Spironolactone	8912
+Ergocalciferol	8912
+Manidipine	8912
+Verapamil	8912
+Nitrendipine	8912
+Trimebutine	8912
+Cinnarizine	8912
+Cannabidiol	8912
+Amiodarone	8912
+Isradipine	8912
+Bepridil	8912
+Nifedipine	8912
+Felodipine	8912
+Flunarizine	8912
+NADH	4701
+Ornithine	4947
+Vitamin A	9227
+Imipramine	3756
+Astemizole	3756
+Caffeine	8622
+Dihydroergocornine	9177
+Ergoloid mesylate	9177
+Dihydroergocristine	9177
+Dopamine	9177
+Ethanol	9177
+Paroxetine	9177
+Gilteritinib	9177
+Carvedilol	4718
+NADH	4718
+NADH	4705
+Glyburide	8647
+Clofazimine	8647
+Phenylalanine	10667
+Fostamatinib	9064
+Pyridoxal phosphate	8879
+Glyburide	19
+Probucol	19
+NADH	9563
+Icosapent	2181
+Aurothioglucose	111
+Pseudoephedrine	4772
+Levocabastine	23620
+Diethylstilbestrol	2103
+Flavone	2103
+Fostamatinib	9943
+Zoledronic acid	9453
+Heparin	9965
+Fostamatinib	9448
+Flavin adenine dinucleotide	9131
+Fostamatinib	9113
+Glucagon	9340
+Teduglutide	9340
+alpha-Linolenic acid	9415
+Citrulline	23564
+Glutathione	51060
+Pyruvic acid	23539
+Pyridoxal phosphate	10841
+Glutamic acid	10841
+NADH	4716
+Fostamatinib	10298
+Fostamatinib	11200
+Chromium gluconate	1528
+Chromium nicotinate	1528
+Chromic nitrate	1528
+Chromous sulfate	1528
+Chromium	1528
+Fomepizole	125
+Glycerin	125
+NADH	125
+NADH	126
+Cholic Acid	126
+Fomepizole	126
+NADH	3939
+Copper	3939
+Stiripentol	3939
+Nicotinamide	3939
+Tretinoin	216
+Vitamin A	216
+NADH	216
+Aluminum chloride	2746
+Glutamic acid	2746
+NADH	2746
+Hexachlorophene	2746
+Gentamicin	1719
+NADH	1719
+Pralatrexate	1719
+Trimethoprim	1719
+Proguanil	1719
+Trimetrexate	1719
+Pemetrexed	1719
+Pyrimethamine	1719
+Methotrexate	1719
+Copper	1727
+NADH	1727
+Flavin adenine dinucleotide	1727
+Glutathione	2936
+Cannabidiol	2936
+Flavin adenine dinucleotide	2936
+Carmustine	2936
+Glutathione disulfide	2936
+NADH	2936
+Copper	2936
+Oxygen	4512
+Cholic Acid	4512
+Cholic Acid	4513
+Cholic Acid	4514
+Norepinephrine	5053
+Droxidopa	5053
+Phenylalanine	5053
+Sapropterin	5053
+Cannabidiol	6647
+Zinc chloride	6647
+Dopamine	6647
+Isoprenaline	6647
+Zinc acetate	6647
+Zinc	6647
+Zinc acetate	1356
+Ferrous fumarate	1356
+Ferrous gluconate	1356
+Calcium	1356
+Zinc chloride	1356
+Silver	1356
+Drotrecogin alfa	1356
+Ferrous ascorbate	1356
+Ferrous succinate	1356
+Ferrous glycine sulfate	1356
+Iron	1356
+Zinc	1356
+Damoctocog alfa pegol	2157
+Vonicog Alfa	2157
+Nonacog beta pegol	2157
+Coagulation Factor IX Human	2157
+Thrombin	2157
+Von Willebrand Factor Human	2157
+Human Thrombin	2157
+Thrombin alfa	2157
+Drotrecogin alfa	2157
+Coagulation Factor IX (Recombinant)	2157
+Anti-inhibitor coagulant complex	2157
+Ornithine	5009
+Citrulline	5009
+Human Thrombin	2162
+Thrombin alfa	2162
+Anti-inhibitor coagulant complex	2162
+Prothrombin	2162
+Thrombin	2162
+Propylene glycol	2162
+Cladribine	4860
+Didanosine	4860
+5-O-phosphono-alpha-D-ribofuranosyl diphosphate	3251
+Mercaptopurine	3251
+Azathioprine	3251
+Aspartic acid	2806
+Pyridoxal phosphate	2806
+Glutamic acid	2806
+Imatinib	25
+Ponatinib	25
+Regorafenib	25
+Fostamatinib	25
+Nilotinib	25
+Bosutinib	25
+Brigatinib	25
+Dasatinib	25
+Erlotinib	1956
+Foreskin keratinocyte (neonatal)	1956
+Necitumumab	1956
+Vandetanib	1956
+Cetuximab	1956
+Fostamatinib	1956
+Dacomitinib	1956
+Osimertinib	1956
+Gefitinib	1956
+Zanubrutinib	1956
+Neratinib	1956
+Lapatinib	1956
+Afatinib	1956
+Panitumumab	1956
+Brigatinib	1956
+Lidocaine	1956
+Trastuzumab	1956
+Copper	5230
+Palmitic Acid	3906
+Turoctocog alfa	2147
+Anti-inhibitor coagulant complex	2147
+Turoctocog alfa pegol	2147
+Menadione	2147
+Kappadione	2147
+Zinc chloride	2147
+Thrombomodulin Alfa	2147
+Human C1-esterase inhibitor	2147
+Dabigatran etexilate	2147
+Coagulation Factor IX Human	2147
+Bivalirudin	2147
+Ximelagatran	2147
+Argatroban	2147
+Coagulation Factor IX (Recombinant)	2147
+Antithrombin Alfa	2147
+Copper	2147
+Zinc acetate	2147
+Lepirudin	2147
+Conestat alfa	2147
+Zinc	2147
+Drotrecogin alfa	2147
+Proflavine	2147
+Zinc acetate	3250
+Zinc	3250
+Zinc chloride	3250
+Copper	3250
+Emicizumab	2158
+Antihemophilic factor human	2158
+Antihemophilic factor, human recombinant	2158
+Turoctocog alfa	2158
+Turoctocog alfa pegol	2158
+Moroctocog alfa	2158
+Coagulation factor VII human	2158
+Menadione	2158
+Lonoctocog alfa	2158
+Kappadione	2158
+Apixaban	2159
+Nonacog beta pegol	2159
+Emicizumab	2159
+Heparin	2159
+Moroctocog alfa	2159
+Turoctocog alfa	2159
+Antithrombin Alfa	2159
+Coagulation Factor IX (Recombinant)	2159
+Betrixaban	2159
+Protamine sulfate	2159
+Bemiparin	2159
+Antihemophilic factor, human recombinant	2159
+Turoctocog alfa pegol	2159
+Rivaroxaban	2159
+Menadione	2159
+Edoxaban	2159
+Antihemophilic factor human	2159
+Enoxaparin	2159
+Fondaparinux	2159
+Albutrepenonacog alfa	2159
+Coagulation Factor IX Human	2159
+Coagulation factor VII human	2159
+Kappadione	2159
+Protein S human	2159
+Anti-inhibitor coagulant complex	2159
+Coagulation factor VIIa Recombinant Human	2159
+Lonoctocog alfa	2159
+Tenecteplase	5340
+Copper	5340
+Urokinase	5340
+Alteplase	5340
+Streptokinase	5340
+Reteplase	5340
+Anistreplase	5340
+Aminocaproic acid	5340
+Tranexamic acid	5340
+Aprotinin	5340
+Zinc chloride	2161
+Conestat alfa	2161
+Human C1-esterase inhibitor	2161
+Zinc acetate	2161
+Zinc	2161
+Ethanolamine oleate	2161
+Amiloride	5328
+Urokinase	5328
+Conestat alfa	5327
+Human C1-esterase inhibitor	5327
+Dexibuprofen	5327
+Iloprost	5327
+Urokinase	5327
+Aminocaproic acid	5327
+Zinc acetate	629
+Zinc	629
+Zinc chloride	629
+Minoxidil	5972
+Lisinopril	5972
+Aliskiren	5972
+Dipyridamole	100
+Pentostatin	100
+Estradiol benzoate	4508
+Estradiol valerate	4508
+Estradiol acetate	4508
+Estradiol dienanthate	4508
+Estradiol cypionate	4508
+Estradiol	4508
+Topiramate	759
+Amlodipine	759
+Dorzolamide	759
+Methyclothiazide	759
+Quinethazone	759
+Zonisamide	759
+Ethinamate	759
+Acetazolamide	759
+Bendroflumethiazide	759
+Benzthiazide	759
+Trichlormethiazide	759
+Hydroflumethiazide	759
+Sodium carbonate	759
+Methocarbamol	759
+Chlorthalidone	759
+Methazolamide	759
+Diazoxide	759
+Sodium sulfate	759
+Brinzolamide	759
+Cyclothiazide	759
+Chlorothiazide	759
+Diclofenamide	759
+Benzthiazide	760
+Zonisamide	760
+Urea	760
+Celecoxib	760
+Quinethazone	760
+Trichlormethiazide	760
+Acetazolamide	760
+Brinzolamide	760
+Diclofenamide	760
+Topiramate	760
+Bendroflumethiazide	760
+Chlorothiazide	760
+Methyclothiazide	760
+Ethinamate	760
+Hydroflumethiazide	760
+Diazoxide	760
+Sodium sulfate	760
+Sulpiride	760
+Dorzolamide	760
+Sodium carbonate	760
+Valdecoxib	760
+Methazolamide	760
+Cyclothiazide	760
+Furosemide	760
+Aspartic acid	445
+Citrulline	445
+Heparin	462
+Dalteparin	462
+Protamine sulfate	462
+Sulodexide	462
+Fondaparinux	462
+Bemiparin	462
+Copper	462
+Antithrombin III human	462
+Tinzaparin	462
+Enoxaparin	462
+Danaparoid	462
+Ardeparin	462
+Nadroparin	462
+Zinc acetate	5265
+Copper	5265
+Zinc	5265
+Zinc chloride	5265
+Zinc	12
+Zinc acetate	12
+Zinc chloride	12
+Copper	183
+Zinc acetate	183
+Zinc chloride	183
+Zinc	183
+Silver	2
+Cisplatin	2
+Bacitracin	2
+Zinc	2
+Zinc acetate	2
+Becaplermin	2
+Ocriplasmin	2
+Zinc chloride	2
+Zinc chloride	718
+Copper	718
+Zinc	718
+Zinc acetate	718
+Human immunoglobulin G	718
+Zinc acetate	727
+Human immunoglobulin G	727
+Zinc	727
+Eculizumab	727
+Zinc chloride	727
+Copper	727
+Ravulizumab	727
+Copper	3827
+Zinc chloride	3827
+Zinc	3827
+Zinc acetate	3827
+Pseudoephedrine	2353
+Nadroparin	2353
+Acetylsalicylic acid	4609
+Nadroparin	4609
+Porfimer sodium	3949
+Cholecystokinin	1950
+Sucralfate	1950
+Clenbuterol	4803
+Oxytocin	5020
+Loperamide	5443
+Phentermine	4852
+Zinc chloride	3630
+Zinc acetate	3630
+Zinc	3630
+Oxetacaine	2520
+Etanercept	4049
+Foreskin keratinocyte (neonatal)	7124
+Binimetinib	7124
+Isopropyl alcohol	7124
+Pomalidomide	7124
+Glycyrrhizic acid	7124
+Amrinone	7124
+Etanercept	7124
+Glucosamine	7124
+Certolizumab pegol	7124
+Epinephrine	7124
+Golimumab	7124
+Thalidomide	7124
+Foreskin fibroblast (neonatal)	7124
+Clenbuterol	7124
+Adalimumab	7124
+Pseudoephedrine	7124
+Chloroquine	7124
+Infliximab	7124
+Glucosamine	3458
+Foreskin fibroblast (neonatal)	3458
+Olsalazine	3458
+Foreskin keratinocyte (neonatal)	3458
+Emapalumab	3458
+Rilonacept	3552
+Foreskin keratinocyte (neonatal)	3553
+Binimetinib	3553
+Minocycline	3553
+Donepezil	3553
+Canakinumab	3553
+Rilonacept	3553
+Gallium nitrate	3553
+Basiliximab	3559
+Aldesleukin	3559
+Denileukin diftitox	3559
+Zinc acetate	3512
+Zinc chloride	3512
+Zinc	3512
+Zinc chloride	NA
+Zinc	NA
+Zinc acetate	NA
+Copper	NA
+Pidolic acid	NA
+Ibalizumab	920
+Antithymocyte immunoglobulin (rabbit)	920
+Coccidioides immitis spherule	3105
+Coccidioides immitis spherule	3122
+Insulin pork	3117
+Insulin pork	3118
+Coccidioides immitis spherule	3123
+Insulin pork	3119
+Nitrous acid	4151
+Carbon monoxide	4151
+Vonicog Alfa	1277
+Von Willebrand Factor Human	1277
+Collagenase clostridium histolyticum	1277
+Clove oil	1277
+Collagenase clostridium histolyticum	1280
+Collagenase clostridium histolyticum	1281
+Zinc chloride	3861
+Zinc	3861
+Zinc acetate	3861
+Zinc chloride	3853
+Zinc acetate	3853
+Zinc	3853
+Calcium	7125
+Felodipine	7125
+Zinc chloride	335
+Zinc	335
+Copper	335
+Zinc acetate	335
+Zinc acetate	348
+Zinc chloride	348
+Copper	348
+Zinc	348
+Zinc chloride	336
+Copper	336
+Zinc acetate	336
+Zinc	336
+Copper	344
+Copper	345
+Thrombin	2243
+Alteplase	2243
+Sucralfate	2243
+Ancrod	2243
+Zinc	2243
+Anistreplase	2243
+Anti-inhibitor coagulant complex	2243
+Thrombin alfa	2243
+Prothrombin	2243
+Reteplase	2243
+Zinc acetate	2243
+Human Thrombin	2243
+Zinc chloride	2243
+Tenecteplase	2243
+Anti-inhibitor coagulant complex	2244
+Human Thrombin	2244
+Thrombin alfa	2244
+Thrombin	2244
+Prothrombin	2244
+Sucralfate	2244
+Thrombin	2266
+Sucralfate	2266
+Human Thrombin	2266
+Thrombin alfa	2266
+Oleic Acid	5375
+Palmitic Acid	5375
+Galantamine	1134
+Copper	325
+Zinc chloride	325
+Zinc	325
+Zinc acetate	325
+Muromonab	712
+Gemtuzumab ozogamicin	712
+Basiliximab	712
+Alemtuzumab	712
+Cetuximab	712
+Trastuzumab	712
+Ibritumomab tiuxetan	712
+Abciximab	712
+Palivizumab	712
+Natalizumab	712
+Efalizumab	712
+Tositumomab	712
+Etanercept	712
+Bevacizumab	712
+Alefacept	712
+Zinc acetate	713
+Basiliximab	713
+Bevacizumab	713
+Abciximab	713
+Gemtuzumab ozogamicin	713
+Alemtuzumab	713
+Etanercept	713
+Efalizumab	713
+Tositumomab	713
+Muromonab	713
+Zinc chloride	713
+Zinc	713
+Natalizumab	713
+Cetuximab	713
+Palivizumab	713
+Trastuzumab	713
+Ibritumomab tiuxetan	713
+Alefacept	713
+Copper	714
+Palivizumab	714
+Muromonab	714
+Natalizumab	714
+Bevacizumab	714
+Abciximab	714
+Cetuximab	714
+Tositumomab	714
+Efalizumab	714
+Basiliximab	714
+Zinc chloride	714
+Ibritumomab tiuxetan	714
+Trastuzumab	714
+Gemtuzumab ozogamicin	714
+Etanercept	714
+Alefacept	714
+Zinc acetate	714
+Alemtuzumab	714
+Zinc	714
+Copper	735
+Copper	350
+Copper	116844
+Ocriplasmin	2335
+Zinc acetate	2335
+Zinc chloride	2335
+Zinc	2335
+Tretinoin	5950
+Chlorpromazine	5004
+Amsacrine	5004
+Lidocaine	5004
+Thalidomide	5004
+Progesterone	5004
+Dipyridamole	5004
+Zinc	197
+Zinc acetate	197
+Copper	197
+Zinc chloride	197
+Zinc	7276
+Copper	7276
+Zinc chloride	7276
+Tafamidis	7276
+Zinc acetate	7276
+Pyridostigmine	213
+Norelgestromin	213
+Silver	213
+Phenol	213
+Amsacrine	213
+Cefotaxime	213
+Patent Blue	213
+Guaiacol	213
+Vitamin D	2638
+Copper	5473
+Drotrecogin alfa	5196
+Heparin	5196
+Clove oil	3627
+Ferrous succinate	7037
+Ferrous fumarate	7037
+Ferrous ascorbate	7037
+Ferric cation	7037
+Ferrous gluconate	7037
+Iron	7037
+Ferrous glycine sulfate	7037
+Tetraferric tricitrate decahydrate	7037
+Copper	7018
+Zinc	7018
+Zinc chloride	7018
+Ferrous succinate	7018
+Iron	7018
+Ferrous ascorbate	7018
+Ferrous fumarate	7018
+Ferrous glycine sulfate	7018
+Manganese	7018
+Isoflurophate	7018
+Zinc acetate	7018
+Ferrous gluconate	7018
+Aluminum acetate	7018
+Aluminium phosphate	7018
+Aluminium	7018
+Cisplatin	7018
+Parecoxib	4057
+Lauric acid	4057
+Nimesulide	4057
+Iron Dextran	2512
+Sodium ferric gluconate complex	2512
+Ferric pyrophosphate citrate	2512
+Ferrous ascorbate	2495
+Ferric pyrophosphate citrate	2495
+Ferrous fumarate	2495
+Iron Dextran	2495
+Ferrous gluconate	2495
+Iron	2495
+Ferrous glycine sulfate	2495
+Ferrous succinate	2495
+Zinc acetate	4502
+Zinc chloride	4502
+Silver	4502
+Zinc	4502
+Phylloquinone	632
+Gallium nitrate	632
+Menadione	632
+Estradiol acetate	2099
+Melatonin	2099
+Dobutamine	2099
+Zinc chloride	2099
+Desogestrel	2099
+Hexachlorophene	2099
+Phenolphthalein	2099
+Diethylstilbestrol	2099
+Bazedoxifene	2099
+Fulvestrant	2099
+Estradiol benzoate	2099
+Arzoxifene	2099
+Mitotane	2099
+Testosterone undecanoate	2099
+Estrone sulfate	2099
+Synthetic Conjugated Estrogens, A	2099
+Estradiol cypionate	2099
+Tibolone	2099
+Permethrin	2099
+Estradiol	2099
+Ospemifene	2099
+Raloxifene	2099
+Testosterone cypionate	2099
+Methyltestosterone	2099
+Levonorgestrel	2099
+Testosterone enanthate	2099
+Etonogestrel	2099
+Clomifene	2099
+Ethinylestradiol	2099
+Lindane	2099
+Prasterone	2099
+Homosalate	2099
+Estramustine	2099
+Estriol	2099
+Estradiol dienanthate	2099
+Danazol	2099
+Oxybenzone	2099
+Quinestrol	2099
+Tamoxifen	2099
+Gestrinone	2099
+Lasofoxifene	2099
+Medroxyprogesterone acetate	2099
+Octocrylene	2099
+Norethynodrel	2099
+Estradiol valerate	2099
+Mestranol	2099
+Fluoxymesterone	2099
+Zinc acetate	2099
+Trilostane	2099
+Resveratrol	2099
+Toremifene	2099
+Progesterone	2099
+Eugenol	2099
+Synthetic Conjugated Estrogens, B	2099
+Naloxone	2099
+Zinc	2099
+Norgestimate	2099
+Enzacamene	2099
+Dienestrol	2099
+Estrone	2099
+Testosterone	2099
+Ethynodiol diacetate	2099
+Polyestradiol phosphate	2099
+Conjugated estrogens	2099
+NADH	4535
+Sevoflurane	4535
+Desflurane	4535
+Halothane	4535
+Methoxyflurane	4535
+NADH	4536
+NADH	4537
+NADH	4539
+NADH	4538
+Iodine	4540
+NADH	4540
+NADH	4541
+Pidolic acid	283
+Citric acid	283
+Coagulation Factor IX (Recombinant)	2160
+Coagulation Factor IX Human	2160
+Conestat alfa	2160
+Human C1-esterase inhibitor	2160
+Thrombin alfa	2160
+Thrombin	2160
+Human Thrombin	2160
+Human C1-esterase inhibitor	3818
+Zinc	3818
+Lanadelumab	3818
+Zinc acetate	3818
+Ecallantide	3818
+Conestat alfa	3818
+Zinc chloride	3818
+Coccidioides immitis spherule	3106
+Zinc chloride	722
+Zinc	722
+Zinc acetate	722
+Copper	722
+Zinc chloride	7448
+Zinc acetate	7448
+Abciximab	7448
+Copper	7448
+Zinc	7448
+NADH	3156
+Fluvastatin	3156
+Lovastatin	3156
+Cannabidiol	3156
+Atorvastatin	3156
+Cerivastatin	3156
+Rosuvastatin	3156
+Simvastatin	3156
+Pitavastatin	3156
+Pravastatin	3156
+Fomepizole	847
+Cannabidiol	847
+Fostamatinib	5894
+Cholecystokinin	5894
+Regorafenib	5894
+Dabrafenib	5894
+Sorafenib	5894
+Cholic Acid	5319
+Azelastine	5319
+Sulfasalazine	5319
+Velaglucerase alfa	2629
+Cupric Chloride	5624
+Protein S human	5624
+Menadione	5624
+Kappadione	5624
+Sodium tetradecyl sulfate	5624
+Zinc chloride	226
+Zinc acetate	226
+Zinc	226
+Cupric Chloride	1476
+Hydrocortisone	301
+Hydrocortisone phosphate	301
+Methylprednisolone	301
+Hydrocortisone cypionate	301
+Amcinonide	301
+Fluocinolone acetonide	301
+Hydrocortisone acetate	301
+Budesonide	301
+Hydrocortisone valerate	301
+Hydrocortisone probutate	301
+Hydrocortisone butyrate	301
+Dexamethasone	301
+Fluoxymesterone	2908
+Hydrocortisone acetate	2908
+Flumethasone	2908
+Fluocinonide	2908
+Drospirenone	2908
+Cortisone acetate	2908
+Fluticasone	2908
+Ulipristal	2908
+Flurandrenolide	2908
+Budesonide	2908
+Fluorometholone	2908
+Fluticasone propionate	2908
+Betamethasone	2908
+Prednisolone acetate	2908
+Megestrol acetate	2908
+Difluocortolone	2908
+Segesterone acetate	2908
+Desoximetasone	2908
+Hydrocortisone valerate	2908
+Hydrocortisone phosphate	2908
+Hydrocortisone butyrate	2908
+Deflazacort	2908
+Hydrocortisone probutate	2908
+Difluprednate	2908
+Hydrocortamate	2908
+Tixocortol	2908
+Mifepristone	2908
+Loteprednol etabonate	2908
+Hydrocortisone cypionate	2908
+Triamcinolone	2908
+Prednicarbate	2908
+Alclometasone	2908
+Flunisolide	2908
+Fludrocortisone	2908
+Desonide	2908
+Spironolactone	2908
+Clocortolone	2908
+Beclomethasone dipropionate	2908
+Progesterone	2908
+Mometasone	2908
+Amcinonide	2908
+Prednisone	2908
+Medrysone	2908
+Fluocinolone acetonide	2908
+Ciclesonide	2908
+Rimexolone	2908
+Gestrinone	2908
+Diflorasone	2908
+Fluticasone furoate	2908
+Mometasone furoate	2908
+Methylprednisolone	2908
+Ulobetasol	2908
+Prednisolone	2908
+Clobetasol propionate	2908
+Norethisterone	2908
+Clobetasone	2908
+Dexamethasone	2908
+Hydrocortisone	2908
+Levonorgestrel	2908
+Raloxifene	7031
+Tetracycline	5621
+Ornithine	4942
+Pyridoxal phosphate	4942
+Zinc	1
+Copper	1
+Zinc chloride	1
+Zinc acetate	1
+Glatiramer	3123
+Blinatumomab	915
+Muromonab	915
+Copper	3848
+Zinc chloride	3848
+Zinc	3848
+Zinc acetate	3848
+Calcium Citrate	6285
+Calcium	6285
+Olopatadine	6285
+Calcium Phosphate	6285
+Calcium phosphate dihydrate	6285
+Lonoctocog alfa	7450
+Moroctocog alfa	7450
+Susoctocog alfa	7450
+Efmoroctocog alfa	7450
+Simoctocog alfa	7450
+Antihemophilic Factor (Recombinant), PEGylated	7450
+Antihemophilic factor, human recombinant	7450
+Caplacizumab	7450
+Levonorgestrel	6462
+Estriol	6462
+Masoprocol	6462
+Toremifene	6462
+Zinc	6462
+Dioxybenzone	6462
+Gestrinone	6462
+Phenolphthalein	6462
+Spironolactone	6462
+Norethynodrel	6462
+Diethylstilbestrol	6462
+Ethinylestradiol	6462
+Estrone	6462
+Dienestrol	6462
+Clomifene	6462
+Progesterone	6462
+Zinc chloride	6462
+Zinc acetate	6462
+Tamoxifen	6462
+Zinc	6406
+Zinc acetate	6406
+Zinc chloride	6406
+NADH	2597
+Xanthinol	2597
+Copper	2597
+Trastuzumab emtansine	2064
+Trastuzumab	2064
+Zanubrutinib	2064
+Fostamatinib	2064
+Pertuzumab	2064
+Lapatinib	2064
+Afatinib	2064
+Brigatinib	2064
+Fostamatinib	4914
+Cenegermin	4914
+Entrectinib	4914
+Regorafenib	4914
+Amitriptyline	4914
+Imatinib	4914
+Larotrectinib	4914
+Zinc	7157
+Zinc acetate	7157
+Zinc chloride	7157
+Acetylsalicylic acid	7157
+Nitric Oxide	4489
+Zinc	4489
+Zinc chloride	4489
+Silver	4489
+Zinc acetate	4489
+Silver	4493
+Silver	4494
+Pidolic acid	278
+Pidolic acid	276
+Pidolic acid	277
+Acarbose	279
+Pidolic acid	279
+Tegafur	7298
+Trifluridine	7298
+Pemetrexed	7298
+Raltitrexed	7298
+Methotrexate	7298
+Capecitabine	7298
+Pralatrexate	7298
+Gemcitabine	7298
+Tegafur-uracil	7298
+Trimethoprim	7298
+Fluorouracil	7298
+Floxuridine	7298
+Dextromethorphan	1536
+Digoxin	476
+Bepridil	476
+Ciclopirox	476
+Aluminium phosphate	476
+Magnesium acetate	476
+Magnesium cation	476
+Acetyldigitoxin	476
+Diazoxide	476
+Ouabain	476
+Digitoxin	476
+Potassium	476
+Potassium acetate	476
+Almitrine	476
+Hydroflumethiazide	476
+Aluminium	476
+Aluminum acetate	476
+Potassium sulfate	476
+Potassium cation	476
+Deslanoside	476
+Etacrynic acid	476
+Bretylium	476
+Trichlormethiazide	476
+Deferoxamine	351
+Zinc	351
+Resveratrol	351
+Flutemetamol (18F)	351
+Florbetaben (18F)	351
+Florbetapir (18F)	351
+Copper	351
+Zinc chloride	351
+Aluminium phosphate	351
+Aluminium	351
+Aluminum acetate	351
+Zinc acetate	351
+Dimercaprol	351
+Ornithine	383
+Manganese	383
+Urea	383
+Copper	347
+Vitamin A	347
+Disulfiram	217
+Guanidine	217
+NADH	217
+Spironolactone	1586
+Progesterone	1586
+Abiraterone	1586
+NADH	1586
+Ketoconazole	1586
+Cannabidiol	1586
+Antithymocyte immunoglobulin (rabbit)	3690
+Eptifibatide	3690
+Abciximab	3690
+Levothyroxine	3690
+Resveratrol	3690
+Tirofiban	3690
+Aminoglutethimide	1583
+Zinc acetate	6279
+Copper	6279
+Zinc	6279
+Calcium	6279
+Zinc chloride	6279
+Reslizumab	3567
+Mepolizumab	3567
+Urokinase	5055
+Tenecteplase	5055
+Copper	5054
+Drotrecogin alfa	5054
+Alteplase	5054
+Reteplase	5054
+Urokinase	5054
+Troglitazone	5054
+Anistreplase	5054
+Tenecteplase	5054
+Fostamatinib	5582
+Tamoxifen	5582
+Clodronic acid	292
+Urokinase	5104
+Drotrecogin alfa	5104
+Copper	710
+Copper	3426
+Zinc chloride	3426
+Zinc acetate	3426
+Zinc	3426
+Zinc acetate	2165
+Thrombin alfa	2165
+Zinc	2165
+Thrombin	2165
+Human Thrombin	2165
+Zinc chloride	2165
+Catridecacog	2165
+Melatonin	4353
+Mesalazine	4353
+Levocarnitine	4353
+Cefdinir	4353
+Nomifensine	4353
+Biotin	5095
+Biotin	5096
+Valine	5096
+Diacerein	1544
+Isoniazid	1544
+Cannabidiol	1544
+Diacerein	1571
+Calcium	250
+Foreskin fibroblast (neonatal)	2246
+Pazopanib	2246
+Amlexanox	2246
+Pentosan polysulfate	2246
+Foreskin keratinocyte (neonatal)	2246
+Heparin	2246
+Foreskin keratinocyte (neonatal)	3569
+Binimetinib	3569
+Ginseng	3569
+Foreskin fibroblast (neonatal)	3569
+Siltuximab	3569
+Natalizumab	3383
+Hyaluronic acid	3383
+Irbesartan	3725
+Pseudoephedrine	3725
+Vinblastine	3725
+Arsenic trioxide	3725
+Tenecteplase	7123
+Copper	7123
+Copper	6906
+Ardeparin	3053
+Zinc	3053
+Bemiparin	3053
+Copper	3053
+Zinc acetate	3053
+Zinc chloride	3053
+Sulodexide	3053
+Antithymocyte immunoglobulin (rabbit)	3688
+Cholecystokinin	5579
+Vitamin E	5579
+alpha-Tocopherol succinate	5579
+Tamoxifen	5579
+D-alpha-Tocopherol acetate	5579
+Tenecteplase	3856
+Copper	3856
+Coagulation factor VIIa Recombinant Human	3249
+Antithymocyte immunoglobulin (rabbit)	909
+Insulin glulisine	3643
+Mecasermin	3643
+Insulin human	3643
+Mecasermin rinfabate	3643
+Fostamatinib	3643
+Insulin aspart	3643
+Insulin glargine	3643
+Insulin pork	3643
+Chromic chloride	3643
+Insulin detemir	3643
+Insulin lispro	3643
+Brigatinib	3643
+Insulin degludec	3643
+Ponatinib	3932
+Fostamatinib	3932
+Zanubrutinib	3932
+Nintedanib	3932
+Dasatinib	3932
+Fostamatinib	2534
+Dasatinib	2534
+Dipivefrin	590
+Tacrine	590
+Mivacurium	590
+Ketamine	590
+Rivastigmine	590
+Choline	590
+Pyridostigmine	590
+Donepezil	590
+Malathion	590
+Hexafluronium	590
+Isoflurophate	590
+Galantamine	590
+Demecarium	590
+Edrophonium	590
+Pralidoxime	590
+Choline salicylate	590
+Echothiophate	590
+Migalastat	2717
+Fluorescein	NA
+Isopropyl alcohol	NA
+Zinc chloride	2934
+Zinc acetate	2934
+Zinc	2934
+Copper	2934
+Insulin pork	5925
+Insulin human	5925
+Fluticasone	5241
+Mitotane	5241
+Desogestrel	5241
+Norelgestromin	5241
+Norgestimate	5241
+Oxybenzone	5241
+Darolutamide	5241
+Hydroxyprogesterone caproate	5241
+Mifepristone	5241
+Spironolactone	5241
+Mometasone	5241
+Lindane	5241
+Danazol	5241
+Gestrinone	5241
+Megestrol acetate	5241
+Norethisterone	5241
+Fluticasone propionate	5241
+Norgestrel	5241
+Progesterone	5241
+Mometasone furoate	5241
+Etonogestrel	5241
+Dienogest	5241
+Ulipristal	5241
+Homosalate	5241
+Segesterone acetate	5241
+Medrogestone	5241
+Drospirenone	5241
+Medroxyprogesterone acetate	5241
+Fluticasone furoate	5241
+Levonorgestrel	5241
+Ethynodiol diacetate	5241
+Enzacamene	5241
+Dydrogesterone	5241
+Fostamatinib	983
+Zinc chloride	6280
+Zinc	6280
+Zinc acetate	6280
+Calcium	6280
+Calcium phosphate dihydrate	6277
+Calcium Phosphate	6277
+Calcium Citrate	6277
+Zinc	337
+Zinc acetate	337
+Zinc chloride	337
+Copper	337
+Alefacept	914
+Creatine	1158
+Zinc	2023
+Zinc acetate	2023
+Zinc chloride	2023
+Copper	2023
+Pyridoxal phosphate	5836
+Adenosine phosphate	5836
+Copper	2821
+Cytarabine	5423
+Ferrous glycine sulfate	5423
+Ferrous gluconate	5423
+Iron	5423
+Ferrous succinate	5423
+Ferrous fumarate	5423
+Ferrous ascorbate	5423
+Levothyroxine	3685
+Antithymocyte immunoglobulin (rabbit)	3685
+Corticotropin	1392
+Tyloxapol	4023
+Glycyrrhizic acid	4023
+Omega-3-carboxylic acids	4023
+Aluminum acetate	3816
+Aluminium	3816
+Aprotinin	3816
+Aluminium phosphate	3816
+Galcanezumab	796
+Fremanezumab	796
+Orlistat	8513
+Tyrosine	7054
+Sapropterin	7054
+Metyrosine	7054
+Phenylalanine	7054
+NADH	3945
+Stiripentol	3945
+Dextrothyroxine	7173
+Triclosan	7173
+Methimazole	7173
+Resorcinol	7173
+Propylthiouracil	7173
+Carbimazole	7173
+2-mercaptobenzothiazole	7173
+Cannabidiol	2876
+Glutathione	2876
+Drotrecogin alfa	7056
+Dexibuprofen	7056
+Ibuprofen	7056
+Menadione	5627
+Kappadione	5627
+Drotrecogin alfa	5627
+Sodium tetradecyl sulfate	5627
+Zinc chloride	5034
+Zinc	5034
+Copper	5034
+Zinc acetate	5034
+Ribostamycin	5034
+Mifepristone	354
+Cyproterone acetate	354
+Moroctocog alfa	433
+Antihemophilic factor, human recombinant	433
+Lonoctocog alfa	433
+Fomepizole	124
+NADH	124
+Fostamatinib	2242
+Fostamatinib	1436
+Pexidartinib	1436
+Sunitinib	1436
+Imatinib	1436
+Erdafitinib	1436
+Insulin pork	1509
+Fluocinolone acetonide	302
+Tenecteplase	302
+Zinc	731
+Zinc chloride	731
+Zinc acetate	731
+Zinc	732
+Zinc chloride	732
+Zinc acetate	732
+Copper	732
+Ibuprofen	2811
+Dexibuprofen	2811
+Zinc	733
+Zinc acetate	733
+Citric acid	733
+Zinc chloride	733
+Lauric acid	733
+Vinorelbine	203068
+Podofilox	203068
+Vinblastine	203068
+Vinflunine	203068
+Colchicine	203068
+Vincristine	203068
+Copper	203068
+Silver	4490
+Zonisamide	761
+Brinzolamide	761
+Sulpiride	761
+Topiramate	761
+Valdecoxib	761
+Acetazolamide	761
+Diclofenamide	761
+Dorzolamide	761
+Celecoxib	761
+Methazolamide	761
+Aprotinin	5644
+Isopropyl alcohol	5645
+Fostamatinib	1448
+Galantamine	1146
+Nebivolol	154
+Orciprenaline	154
+Oxprenolol	154
+Arbutamine	154
+Desipramine	154
+Aripiprazole	154
+Vilanterol	154
+Protokylol	154
+Droxidopa	154
+Propranolol	154
+Dobutamine	154
+Pseudoephedrine	154
+Penbutolol	154
+Dihydroergocristine	154
+Timolol	154
+Racepinephrine	154
+Salbutamol	154
+Nortriptyline	154
+Procaterol	154
+Indacaterol	154
+Bisoprolol	154
+Carvedilol	154
+Etafedrine	154
+Phenoxybenzamine	154
+Dihydroergocornine	154
+Arformoterol	154
+Bethanidine	154
+Phenylpropanolamine	154
+Epinephrine	154
+Olanzapine	154
+Clenbuterol	154
+Formoterol	154
+Olodaterol	154
+DL-Methylephedrine	154
+Levosalbutamol	154
+Ritodrine	154
+Carteolol	154
+Metipranolol	154
+Mephentermine	154
+Trimipramine	154
+Nadolol	154
+Paroxetine	154
+Propafenone	154
+Cabergoline	154
+Fenoterol	154
+Amphetamine	154
+Dipivefrin	154
+Betaxolol	154
+Acebutolol	154
+Ergoloid mesylate	154
+Pindolol	154
+Isoetharine	154
+Sotalol	154
+Pirbuterol	154
+Salmeterol	154
+Atenolol	154
+Celiprolol	154
+Asenapine	154
+Labetalol	154
+Metoprolol	154
+Norepinephrine	154
+Terbutaline	154
+Levobunolol	154
+Isoprenaline	154
+Tromethamine	1634
+Pyrimethamine	3074
+Fostamatinib	1514
+Citric acid	353
+Adenine	353
+5-O-phosphono-alpha-D-ribofuranosyl diphosphate	353
+Catumaxomab	916
+Muromonab	916
+Glutamic acid	2058
+NADH	3948
+Copper	3320
+Rifabutin	3320
+Nedocromil	3320
+Dasatinib	7525
+Fostamatinib	7525
+Dasatinib	4067
+Fostamatinib	4067
+Ponatinib	4067
+Bosutinib	4067
+Nintedanib	4067
+Regorafenib	5979
+Vandetanib	5979
+Lenvatinib	5979
+Ponatinib	5979
+Sorafenib	5979
+Cabozantinib	5979
+Fostamatinib	5979
+Aspartic acid	6035
+Guanidine	6035
+Isopropyl alcohol	6035
+Citric acid	6035
+Mecasermin rinfabate	3480
+Insulin pork	3480
+Insulin human	3480
+Somatrem	3480
+Insulin glulisine	3480
+Insulin aspart	3480
+Mecasermin	3480
+Insulin lispro	3480
+Brigatinib	3480
+Insulin glargine	3480
+Insulin detemir	3480
+Insulin degludec	3480
+Halothane	6010
+Palmitic Acid	6010
+Collagenase clostridium histolyticum	1278
+Nicardipine	1129
+Disopyramide	1129
+Diphenhydramine	1129
+Revefenacin	1129
+Homatropine methylbromide	1129
+Pizotifen	1129
+Glycopyrronium	1129
+Lamotrigine	1129
+Desipramine	1129
+Promazine	1129
+Acetylcholine	1129
+Thonzylamine	1129
+Methscopolamine bromide	1129
+Clozapine	1129
+Loxapine	1129
+Aripiprazole	1129
+Tropicamide	1129
+Doxepin	1129
+Propiomazine	1129
+Brompheniramine	1129
+Atropine	1129
+Methotrimeprazine	1129
+Carbamoylcholine	1129
+Pipecuronium	1129
+Mivacurium	1129
+Dimetindene	1129
+Trihexyphenidyl	1129
+Hyoscyamine	1129
+Nortriptyline	1129
+Hexocyclium	1129
+Cocaine	1129
+Tiotropium	1129
+Aclidinium	1129
+Profenamine	1129
+Olanzapine	1129
+Maprotiline	1129
+Succinylcholine	1129
+Dosulepin	1129
+Pilocarpine	1129
+Terfenadine	1129
+Amoxapine	1129
+Diphenidol	1129
+Umeclidinium	1129
+Metixene	1129
+Promethazine	1129
+Cryptenamine	1129
+Doxacurium	1129
+Cinnarizine	1129
+Pancuronium	1129
+Paroxetine	1129
+Scopolamine	1129
+Darifenacin	1129
+Chlorprothixene	1129
+Rocuronium	1129
+Tolterodine	1129
+Propiverine	1129
+Homatropine	1129
+Imipramine	1129
+Rapacuronium	1129
+Solifenacin	1129
+Quetiapine	1129
+Triflupromazine	1129
+Ziprasidone	1129
+Fesoterodine	1129
+Aripiprazole lauroxil	1129
+Ipratropium	1129
+Oxyphencyclimine	1129
+Flavoxate	1129
+Anisotropine methylbromide	1129
+Gallamine triethiodide	1129
+Amitriptyline	1129
+Metocurine	1129
+Procyclidine	1129
+Cyproheptadine	1129
+Trimipramine	1129
+Meperidine	1129
+Dicyclomine	1129
+Ketamine	1129
+Oxybutynin	1129
+Bethanechol	1129
+Trimebutine	1129
+Butylscopolamine	1129
+Isopropamide	1132
+Revefenacin	1132
+Ketamine	1132
+Amoxapine	1132
+Aclidinium	1132
+Thonzylamine	1132
+Promethazine	1132
+Clozapine	1132
+Desipramine	1132
+Metixene	1132
+Nicardipine	1132
+Hyoscyamine	1132
+Methotrimeprazine	1132
+Brompheniramine	1132
+Tolterodine	1132
+Olanzapine	1132
+Bethanechol	1132
+Cinnarizine	1132
+Procyclidine	1132
+Terfenadine	1132
+Trimipramine	1132
+Amitriptyline	1132
+Doxepin	1132
+Homatropine	1132
+Propiomazine	1132
+Homatropine methylbromide	1132
+Atropine	1132
+Aripiprazole	1132
+Dosulepin	1132
+Promazine	1132
+Loxapine	1132
+Trimebutine	1132
+Aripiprazole lauroxil	1132
+Pilocarpine	1132
+Fesoterodine	1132
+Propiverine	1132
+Nortriptyline	1132
+Tropicamide	1132
+Solifenacin	1132
+Chlorprothixene	1132
+Meperidine	1132
+Quetiapine	1132
+Imipramine	1132
+Ziprasidone	1132
+Trihexyphenidyl	1132
+Maprotiline	1132
+Darifenacin	1132
+Paroxetine	1132
+Tiotropium	1132
+Umeclidinium	1132
+Carbamoylcholine	1132
+Acetylcholine	1132
+Cryptenamine	1132
+Lamotrigine	1132
+Scopolamine	1132
+Hexocyclium	1132
+Chloramphenicol	1604
+Tocofersolan	5243
+Roxithromycin	5243
+Fentanyl	5243
+Miltefosine	5243
+Medroxyprogesterone acetate	5243
+Zinc acetate	866
+Copper	866
+Zinc	866
+Zinc chloride	866
+Fluticasone furoate	4306
+Fludrocortisone	4306
+Nimodipine	4306
+Drospirenone	4306
+Spironolactone	4306
+Testosterone undecanoate	4306
+Progesterone	4306
+Felodipine	4306
+Eplerenone	4306
+Fluticasone propionate	4306
+Testosterone enanthate	4306
+Testosterone cypionate	4306
+Desoxycorticosterone acetate	4306
+Testosterone	4306
+Fluticasone	4306
+Aspartic acid	440
+Asparagine	440
+Glutamic acid	440
+Filgrastim	1991
+Alpha-1-proteinase inhibitor	1991
+Captopril	4313
+Glutathione	2938
+NADH	127
+Sacubitril	4311
+Calcium	4256
+Abciximab	3674
+Tirofiban	3674
+Aminocaproic acid	4018
+NADH	5160
+Cabozantinib	4233
+Fostamatinib	4233
+Crizotinib	4233
+Brigatinib	4233
+Ergoloid mesylate	153
+Phenylpropanolamine	153
+Arbutamine	153
+Aripiprazole	153
+Oxprenolol	153
+Vortioxetine	153
+Levobetaxolol	153
+Trimipramine	153
+Isoprenaline	153
+Penbutolol	153
+Salbutamol	153
+Amphetamine	153
+Carvedilol	153
+Bethanidine	153
+Epinephrine	153
+Nortriptyline	153
+Nebivolol	153
+Propafenone	153
+Nadolol	153
+Metipranolol	153
+Atenolol	153
+Xamoterol	153
+Clenbuterol	153
+Dihydroergocornine	153
+Olanzapine	153
+Ranolazine	153
+Acebutolol	153
+Dobutamine	153
+Celiprolol	153
+Desipramine	153
+Paroxetine	153
+Mephentermine	153
+Amiodarone	153
+Esmolol	153
+Metoprolol	153
+Fenoterol	153
+Labetalol	153
+Formoterol	153
+Timolol	153
+Dronedarone	153
+Pindolol	153
+DL-Methylephedrine	153
+Pirbuterol	153
+Bisoprolol	153
+Propranolol	153
+Norepinephrine	153
+Pseudoephedrine	153
+Sotalol	153
+Isoetharine	153
+Dihydroergocristine	153
+Racepinephrine	153
+Betaxolol	153
+Levobunolol	153
+Practolol	153
+Salmeterol	153
+Lamotrigine	153
+Asenapine	153
+Cabergoline	153
+Terbutaline	153
+Droxidopa	153
+Carteolol	153
+Loxapine	153
+Zinc chloride	3075
+Zinc acetate	3075
+Copper	3075
+Zinc	3075
+Pentosan polysulfate	2249
+Heparin	2249
+Fostamatinib	3055
+Bosutinib	3055
+Natalizumab	2214
+Abciximab	2214
+Ibritumomab tiuxetan	2214
+Catumaxomab	2214
+Etanercept	2214
+Muromonab	2214
+Benralizumab	2214
+Efalizumab	2214
+Alemtuzumab	2214
+Tositumomab	2214
+Cetuximab	2214
+Palivizumab	2214
+Human immunoglobulin G	2214
+Sarilumab	2214
+Bevacizumab	2214
+Alefacept	2214
+Basiliximab	2214
+Trastuzumab	2214
+Gemtuzumab ozogamicin	2214
+Resveratrol	3678
+Glutathione	1576
+Diacerein	1576
+Isoniazid	1576
+Ketoconazole	1589
+Copper	5345
+Ocriplasmin	5345
+Zinc acetate	3562
+Zinc	3562
+Zinc chloride	3562
+Amlexanox	3562
+Menadione	2155
+Coagulation Factor IX (Recombinant)	2155
+Anti-inhibitor coagulant complex	2155
+Kappadione	2155
+Coagulation Factor IX Human	2155
+Coagulation factor VIIa Recombinant Human	2155
+Nonacog beta pegol	2155
+Primaquine	3855
+Copper	308
+Fluocinolone acetonide	308
+Zinc	3868
+Zinc acetate	3868
+Zinc chloride	3868
+Copper	3921
+Tocilizumab	3570
+Sarilumab	3570
+Lisuride	3350
+Dihydroergocristine	3350
+Nortriptyline	3350
+Iloperidone	3350
+Risperidone	3350
+Desipramine	3350
+Aripiprazole	3350
+Quetiapine	3350
+Gilteritinib	3350
+Cabergoline	3350
+Imipramine	3350
+Escitalopram	3350
+Flibanserin	3350
+Pipotiazine	3350
+Yohimbine	3350
+Apomorphine	3350
+Cariprazine	3350
+Propranolol	3350
+Bromocriptine	3350
+Doxepin	3350
+Pizotifen	3350
+Aripiprazole lauroxil	3350
+Amitriptyline	3350
+Penbutolol	3350
+Eletriptan	3350
+Trimipramine	3350
+Ketamine	3350
+Paliperidone	3350
+Pramipexole	3350
+Naratriptan	3350
+Loxapine	3350
+Methysergide	3350
+Nefazodone	3350
+Pergolide	3350
+Haloperidol	3350
+Buspirone	3350
+Trazodone	3350
+Brexpiprazole	3350
+Ziprasidone	3350
+Molindone	3350
+Ondansetron	3350
+Asenapine	3350
+Vortioxetine	3350
+Pindolol	3350
+Clozapine	3350
+Lofexidine	3350
+Mianserin	3350
+Dosulepin	3350
+Methylphenidate	3350
+Olanzapine	3350
+Chlorpromazine	3350
+Ergoloid mesylate	3350
+Vilazodone	3350
+Zolmitriptan	3350
+Rotigotine	3350
+Sumatriptan	3350
+Dopamine	3350
+Paroxetine	3350
+Amoxapine	3350
+Alverine	3350
+Ergotamine	3350
+Dihydroergocornine	3350
+Cannabidiol	3350
+Lurasidone	3350
+Promazine	1133
+Brompheniramine	1133
+Clozapine	1133
+Amoxapine	1133
+Maprotiline	1133
+Ketamine	1133
+Aclidinium	1133
+Desipramine	1133
+Thonzylamine	1133
+Nicardipine	1133
+Scopolamine	1133
+Loxapine	1133
+Gallamine triethiodide	1133
+Methotrimeprazine	1133
+Trimipramine	1133
+Fesoterodine	1133
+Promethazine	1133
+Homatropine	1133
+Revefenacin	1133
+Cinnarizine	1133
+Tolterodine	1133
+Metixene	1133
+Ziprasidone	1133
+Aripiprazole lauroxil	1133
+Quetiapine	1133
+Propiverine	1133
+Imipramine	1133
+Doxepin	1133
+Propiomazine	1133
+Darifenacin	1133
+Trihexyphenidyl	1133
+Umeclidinium	1133
+Terfenadine	1133
+Atropine	1133
+Cryptenamine	1133
+Dosulepin	1133
+Lamotrigine	1133
+Paroxetine	1133
+Aripiprazole	1133
+Homatropine methylbromide	1133
+Solifenacin	1133
+Amitriptyline	1133
+Meperidine	1133
+Chlorprothixene	1133
+Nortriptyline	1133
+Tiotropium	1133
+Nefazodone	150
+Dihydroergocornine	150
+Amitriptyline	150
+Asenapine	150
+Paliperidone	150
+Bromocriptine	150
+Ziprasidone	150
+Tizanidine	150
+Guanfacine	150
+Levonordefrin	150
+Fenoldopam	150
+Lurasidone	150
+Carvedilol	150
+Haloperidol	150
+Pseudoephedrine	150
+Norepinephrine	150
+Prazosin	150
+Desipramine	150
+Nortriptyline	150
+Periciazine	150
+Dosulepin	150
+Quetiapine	150
+Metamfetamine	150
+Dipivefrin	150
+Chlorpromazine	150
+Apomorphine	150
+Amoxapine	150
+Loxapine	150
+DL-Methylephedrine	150
+Methyldopa	150
+Tolazoline	150
+Methotrimeprazine	150
+Epinephrine	150
+Trimipramine	150
+Benzphetamine	150
+Lamotrigine	150
+Racepinephrine	150
+Dexmedetomidine	150
+Maprotiline	150
+Ropinirole	150
+Guanabenz	150
+Droxidopa	150
+Ergotamine	150
+Rilmenidine	150
+Moxisylyte	150
+Apraclonidine	150
+Dihydroergocristine	150
+Mianserin	150
+Pizotifen	150
+Moxonidine	150
+Tramadol	150
+Indigotindisulfonic acid	150
+Bethanidine	150
+Lofexidine	150
+Xylometazoline	150
+Brimonidine	150
+Paroxetine	150
+Mephentermine	150
+Prochlorperazine	150
+Pergolide	150
+Dihydroergotamine	150
+Aripiprazole	150
+Mirtazapine	150
+Aripiprazole lauroxil	150
+Clozapine	150
+Clonidine	150
+Celiprolol	150
+Dronedarone	150
+Ergoloid mesylate	150
+Escitalopram	150
+Zuclopenthixol	150
+Yohimbine	150
+Phenylpropanolamine	150
+Oxymetazoline	150
+Cabergoline	150
+Pramipexole	150
+Amphetamine	150
+Phentolamine	150
+Risperidone	150
+Epinastine	150
+Lorpiprazole	150
+Lisuride	150
+Naphazoline	150
+Trazodone	150
+Phenoxybenzamine	150
+Fostamatinib	6098
+Entrectinib	6098
+Sucralfate	2247
+Pentosan polysulfate	2247
+Heparin	2247
+Sirolimus	2247
+Trimetazidine	30
+Dopamine	1621
+Ascorbic acid	1621
+Disulfiram	1621
+Glutathione	2939
+Chloroquine	2939
+Troglitazone	2950
+Sulfamethoxazole	2950
+Deoxycholic acid	2950
+Clozapine	2950
+Carbocisteine	2950
+Glycerin	2950
+Glutathione	2950
+Clomipramine	2950
+Curcumin	2950
+Etacrynic acid	2950
+NADH	5860
+Acitretin	5947
+Vitamin A	5947
+Glycerin	5047
+Palmitic Acid	5047
+Adenosine phosphate	2203
+Calcium phosphate dihydrate	6678
+Calcium Phosphate	6678
+Calcium Citrate	6678
+Glutathione	2944
+Copper	307
+Fluocinolone acetonide	307
+NADH	3162
+Sorafenib	5159
+Erdafitinib	5159
+Pazopanib	5159
+Regorafenib	5159
+Pexidartinib	5159
+Foreskin fibroblast (neonatal)	5159
+Becaplermin	5159
+Imatinib	5159
+Nintedanib	5159
+Sunitinib	5159
+Midostaurin	5159
+Fostamatinib	5159
+Dasatinib	5159
+NADH	1738
+Flavin adenine dinucleotide	1738
+Cholic Acid	1345
+Muromonab	917
+Fostamatinib	2268
+Dasatinib	2268
+Zanubrutinib	2268
+Gluconolactone	3938
+Ascorbic acid	3938
+Zinc acetate	716
+Zinc	716
+Muromonab	716
+Abciximab	716
+Gemtuzumab ozogamicin	716
+Trastuzumab	716
+Ibritumomab tiuxetan	716
+Cetuximab	716
+Etanercept	716
+Conestat alfa	716
+Zinc chloride	716
+Copper	716
+Human C1-esterase inhibitor	716
+Basiliximab	716
+Olaparib	142
+Niraparib	142
+Zinc chloride	142
+Nicotinamide	142
+Zinc acetate	142
+Talazoparib	142
+Theophylline	142
+Zinc	142
+Rucaparib	142
+Clofarabine	5422
+Fludarabine	5422
+Nelarabine	5422
+Cladribine	5422
+Zileuton	240
+Balsalazide	240
+Diacerein	240
+Resveratrol	240
+D-alpha-Tocopherol acetate	240
+Fostamatinib	240
+Montelukast	240
+Vitamin E	240
+Mesalazine	240
+alpha-Tocopherol succinate	240
+Aminosalicylic acid	240
+Diethylcarbamazine	240
+Meclofenamic acid	240
+Minocycline	240
+Masoprocol	240
+Sulfasalazine	240
+Pirfenidone	5045
+Captopril	4048
+Human immunoglobulin G	110384692
+Human immunoglobulin G	720
+Zinc chloride	100293534
+Zinc chloride	721
+Zinc acetate	100293534
+Zinc acetate	721
+Human immunoglobulin G	100293534
+Human immunoglobulin G	721
+Copper	100293534
+Copper	721
+Zinc	100293534
+Zinc	721
+Fostamatinib	100130827
+Sucralfate	5222
+Silver	645745
+Adenosine	140
+Caffeine	140
+Aminophylline	140
+Fostamatinib	140
+Enprofylline	140
+Pimozide	801
+Loperamide	801
+Bepridil	801
+Perphenazine	801
+Nicardipine	801
+Calcium phosphate dihydrate	801
+Calcium Citrate	801
+Promethazine	801
+Phenoxybenzamine	801
+Felodipine	801
+Isoflurane	801
+Chlorpromazine	801
+Melatonin	801
+Prenylamine	801
+Flunarizine	801
+Calcium Phosphate	801
+Trifluoperazine	801
+Nifedipine	801
+Cinchocaine	801
+Calcium levulinate	801
+Calcium	801
+Fluphenazine	801
+Calcium Phosphate	805
+Calcium Citrate	805
+Calcium phosphate dihydrate	805
+Calcium phosphate dihydrate	808
+Calcium Citrate	808
+Calcium Phosphate	808
+Fremanezumab	797
+Galcanezumab	797
+Mitotane	2230
+Cholic Acid	1351
+Miglitol	2548
+Acarbose	2548
+Nilutamide	367
+Nandrolone phenpropionate	367
+Homosalate	367
+Spironolactone	367
+Oxymetholone	367
+Danazol	367
+Prasterone	367
+Norelgestromin	367
+Ulipristal	367
+Testosterone cypionate	367
+Apalutamide	367
+Darolutamide	367
+Norethisterone	367
+Bicalutamide	367
+Ketoconazole	367
+Diethylstilbestrol	367
+Dienogest	367
+Drospirenone	367
+Esculin	367
+Testosterone propionate	367
+Enzacamene	367
+Flufenamic acid	367
+Periciazine	367
+Testosterone enanthate	367
+Triclosan	367
+Testosterone	367
+Norgestrel	367
+Cyproterone acetate	367
+Stanozolol	367
+Oxandrolone	367
+Tamoxifen	367
+Levonorgestrel	367
+Gestrinone	367
+Estrone	367
+Fluoxymesterone	367
+Acetophenazine	367
+Oxybenzone	367
+Testosterone undecanoate	367
+Fluphenazine	367
+Norethynodrel	367
+Mitotane	367
+Flutamide	367
+Enzalutamide	367
+Progesterone	367
+Norgestimate	367
+Nandrolone decanoate	367
+Methyltestosterone	367
+Segesterone acetate	367
+Eugenol	367
+Tazarotene	5914
+Acitretin	5914
+Alitretinoin	5914
+Tretinoin	5914
+Adapalene	5914
+Isotretinoin	5914
+Trifarotene	5914
+Copper	3008
+Isosorbide	596
+Ibuprofen	596
+Dexibuprofen	596
+Venetoclax	596
+Eribulin	596
+Rasagiline	596
+Docetaxel	596
+Glycine betaine	596
+Paclitaxel	596
+NADH	1737
+Cholic Acid	1329
+Glutathione	4257
+Palmitic Acid	1558
+Isoniazid	1558
+Cannabidiol	107987479
+Cannabidiol	1565
+Cannabidiol	107987478
+Diacerein	107987479
+Diacerein	1565
+Diacerein	107987478
+Lansoprazole	4137
+Astemizole	4137
+Docetaxel	4137
+Paclitaxel	4137
+Dalteparin	7035
+Coagulation factor VIIa Recombinant Human	7035
+Andexanet alfa	7035
+Amifostine	251
+Levamisole	251
+Sorafenib	3815
+Ponatinib	3815
+Sunitinib	3815
+Pexidartinib	3815
+Midostaurin	3815
+Imatinib	3815
+Dasatinib	3815
+Fostamatinib	3815
+Lenvatinib	3815
+Ancestim	3815
+Pazopanib	3815
+Nilotinib	3815
+Regorafenib	3815
+Erdafitinib	3815
+Vitamin A	5949
+Glutathione	2098
+Copper	3329
+Alitretinoin	5915
+Trifarotene	5915
+Acitretin	5915
+Tazarotene	5915
+Adapalene	5915
+Tretinoin	5915
+Levothyroxine	7067
+Liotrix	7067
+Dronedarone	7067
+Dextrothyroxine	7067
+Liothyronine	7067
+Amiodarone	7067
+Amiodarone	7068
+Dextrothyroxine	7068
+Levothyroxine	7068
+Liotrix	7068
+Liothyronine	7068
+Zinc chloride	1191
+Copper	1191
+Zinc acetate	1191
+Zinc	1191
+Pegvisomant	2690
+Somatrem	2690
+Somatotropin	2690
+Hyaluronic acid	1404
+Copper	3375
+Lonoctocog alfa	3309
+Moroctocog alfa	3309
+Acetylsalicylic acid	3309
+Copper	3309
+Antihemophilic factor, human recombinant	3309
+Paclitaxel	4133
+Estramustine	4133
+Docetaxel	4133
+Copper	3312
+Dasatinib	3312
+Carboxymethylcellulose	6513
+Resveratrol	6513
+Streptozocin	6514
+Pyruvic acid	5162
+NADH	5162
+Pyridoxal phosphate	5834
+Pyridoxal phosphate	5837
+Brompheniramine	1128
+Hexocyclium	1128
+Pizotifen	1128
+Diphenidol	1128
+Amoxapine	1128
+Propiomazine	1128
+Terfenadine	1128
+Homatropine	1128
+Ipratropium	1128
+Methscopolamine bromide	1128
+Maprotiline	1128
+Doxylamine	1128
+Fesoterodine	1128
+Chlorprothixene	1128
+Amitriptyline	1128
+Atropine	1128
+Succinylcholine	1128
+Metoclopramide	1128
+Clidinium	1128
+Flupentixol	1128
+Propiverine	1128
+Dicyclomine	1128
+Cycrimine	1128
+Nortriptyline	1128
+Dosulepin	1128
+Bethanechol	1128
+Chlorpromazine	1128
+Nicardipine	1128
+Cyproheptadine	1128
+Tiotropium	1128
+Disopyramide	1128
+Flavoxate	1128
+Propantheline	1128
+Pirenzepine	1128
+Revefenacin	1128
+Meperidine	1128
+Procyclidine	1128
+Pyrantel	1128
+Carbamoylcholine	1128
+Promethazine	1128
+Cryptenamine	1128
+Trimebutine	1128
+Clozapine	1128
+Quetiapine	1128
+Paroxetine	1128
+Methantheline	1128
+Solifenacin	1128
+Metixene	1128
+Aripiprazole lauroxil	1128
+Olanzapine	1128
+Oxyphenonium	1128
+Aripiprazole	1128
+Hyoscyamine	1128
+Trihexyphenidyl	1128
+Tolterodine	1128
+Mepenzolate	1128
+Ziprasidone	1128
+Oxyphencyclimine	1128
+Promazine	1128
+Escitalopram	1128
+Gallamine triethiodide	1128
+Profenamine	1128
+Trimipramine	1128
+Lamotrigine	1128
+Imipramine	1128
+Glycopyrronium	1128
+Loxapine	1128
+Aclidinium	1128
+Methotrimeprazine	1128
+Homatropine methylbromide	1128
+Cevimeline	1128
+Umeclidinium	1128
+Tropicamide	1128
+Tramadol	1128
+Benzatropine	1128
+Pilocarpine	1128
+Darifenacin	1128
+Acetylcholine	1128
+Anisotropine methylbromide	1128
+Ketamine	1128
+Doxepin	1128
+Trospium	1128
+Minaprine	1128
+Thonzylamine	1128
+Scopolamine	1128
+Oxybutynin	1128
+Molindone	1128
+Cinnarizine	1128
+Desipramine	1128
+Buclizine	1128
+Triflupromazine	1128
+Biperiden	1128
+Cocaine	1128
+Cyclopentolate	1128
+Galantamine	1140
+Imatinib	613
+Bosutinib	613
+Ponatinib	613
+Dasatinib	613
+Fostamatinib	5292
+Adenosine phosphate	5292
+Flavin adenine dinucleotide	34
+Erdafitinib	2260
+Ponatinib	2260
+Sorafenib	2260
+Nintedanib	2260
+Palifermin	2260
+Lenvatinib	2260
+Regorafenib	2260
+Fostamatinib	2260
+Heparin	2260
+Sodium stibogluconate	7150
+Irinotecan	7150
+Trastuzumab deruxtecan	7150
+Topotecan	7150
+Hexylresorcinol	7150
+Finafloxacin	7153
+Dexrazoxane	7153
+Amsacrine	7153
+Epirubicin	7153
+Lomefloxacin	7153
+Trovafloxacin	7153
+Sparfloxacin	7153
+Moxifloxacin	7153
+Levofloxacin	7153
+Mitoxantrone	7153
+Teniposide	7153
+Doxorubicin	7153
+Ciprofloxacin	7153
+Valrubicin	7153
+Daunorubicin	7153
+Idarubicin	7153
+Pefloxacin	7153
+Norfloxacin	7153
+Dactinomycin	7153
+Podofilox	7153
+Ofloxacin	7153
+Enoxacin	7153
+Etoposide	7153
+Glycolic acid	2539
+Paricalcitol	7421
+Curcumin	7421
+Calcifediol	7421
+Doxercalciferol	7421
+Calcipotriol	7421
+Vitamin D	7421
+Ergocalciferol	7421
+Alfacalcidol	7421
+Cholesterol	7421
+Calcitriol	7421
+Cholecalciferol	7421
+Dihydrotachysterol	7421
+Flavone	2101
+Troglitazone	2101
+Diethylstilbestrol	2101
+Pyruvic acid	5091
+Biotin	5091
+Estrone	1588
+Testolactone	1588
+Letrozole	1588
+Exemestane	1588
+Nicotine	1588
+Aminoglutethimide	1588
+Anastrozole	1588
+Golodirsen	1756
+NADH	4522
+Melatonin	8288
+Diacerein	1559
+Mecasermin	3482
+Mecasermin rinfabate	3482
+Cerliponase alfa	3482
+Lauric acid	128
+NADH	128
+Palbociclib	1019
+Abemaciclib	1019
+Ribociclib	1019
+Fostamatinib	1019
+Obinutuzumab	931
+Technetium Tc-99m nofetumomab merpentan	931
+Rituximab	931
+Ibritumomab tiuxetan	931
+Ofatumumab	931
+Ocrelizumab	931
+Tositumomab	931
+Pyridoxal phosphate	4953
+Eflornithine	4953
+Acetylsalicylic acid	5111
+Liothyronine	5111
+Dexibuprofen	2169
+Ibuprofen	2169
+Clodronic acid	291
+Clodronic acid	293
+Thrombin	2153
+Thrombin alfa	2153
+Thrombomodulin Alfa	2153
+Human Thrombin	2153
+Protein S human	2153
+Anti-inhibitor coagulant complex	2153
+Drotrecogin alfa	2153
+Mycophenolic acid	3615
+Mercaptopurine	3615
+NADH	3615
+Mycophenolate mofetil	3615
+Ribavirin	3615
+Vitamin A	6017
+Creatine	1152
+Muromonab	2209
+Alefacept	2209
+Basiliximab	2209
+Gemtuzumab ozogamicin	2209
+Alemtuzumab	2209
+Natalizumab	2209
+Trastuzumab	2209
+Trastuzumab deruxtecan	2209
+Sarilumab	2209
+Cetuximab	2209
+Palivizumab	2209
+Catumaxomab	2209
+Etanercept	2209
+Tositumomab	2209
+Porfimer sodium	2209
+Efalizumab	2209
+Human immunoglobulin G	2209
+Methyl aminolevulinate	2209
+Abciximab	2209
+Bevacizumab	2209
+Ibritumomab tiuxetan	2209
+Efalizumab	9103
+Efalizumab	2212
+Palivizumab	9103
+Palivizumab	2212
+Cetuximab	9103
+Cetuximab	2212
+Etanercept	9103
+Etanercept	2212
+Natalizumab	9103
+Natalizumab	2212
+Tositumomab	9103
+Tositumomab	2212
+Alemtuzumab	9103
+Alemtuzumab	2212
+Alefacept	9103
+Alefacept	2212
+Trastuzumab	9103
+Trastuzumab	2212
+Gemtuzumab ozogamicin	9103
+Gemtuzumab ozogamicin	2212
+Ibritumomab tiuxetan	9103
+Ibritumomab tiuxetan	2212
+Basiliximab	9103
+Basiliximab	2212
+Catumaxomab	9103
+Catumaxomab	2212
+Bevacizumab	9103
+Bevacizumab	2212
+Sarilumab	9103
+Sarilumab	2212
+Human immunoglobulin G	9103
+Human immunoglobulin G	2212
+Muromonab	9103
+Muromonab	2212
+Abciximab	9103
+Abciximab	2212
+Benzylpenicilloyl polylysine	2205
+Omalizumab	2205
+Fluocinolone acetonide	306
+Difluocortolone	306
+Creatine	548596
+Creatine	1159
+Calcium	652
+Citric acid	6037
+Copper	87
+Human calcitonin	87
+Benazepril	1636
+Quinapril	1636
+Moexipril	1636
+Ramipril	1636
+Enalapril	1636
+Fosinopril	1636
+Spirapril	1636
+Trandolapril	1636
+Lisinopril	1636
+Cilazapril	1636
+Enalaprilat	1636
+Rescinnamine	1636
+Captopril	1636
+Perindopril	1636
+Zofenopril	1636
+Nintedanib	6714
+Citric acid	6714
+Dasatinib	6714
+Fostamatinib	6714
+Ponatinib	6714
+Bosutinib	6714
+Cholic Acid	1327
+Pyridoxal phosphate	211
+Glycine	211
+Dextromethorphan	1535
+Danazol	6347
+Chondroitin sulfate	6347
+Bumetanide	1080
+Dexibuprofen	1080
+Glyburide	1080
+Crofelemer	1080
+Elexacaftor	1080
+Lumacaftor	1080
+Ibuprofen	1080
+Ivacaftor	1080
+Tezacaftor	1080
+Hyaluronic acid	1462
+Tinzaparin	3676
+Vedolizumab	3676
+Natalizumab	3676
+Acitretin	5916
+Trifarotene	5916
+Tretinoin	5916
+Alitretinoin	5916
+Tazarotene	5916
+Isotretinoin	5916
+Adapalene	5916
+Ouabain	478
+Moxetumomab Pasudotox	1938
+Esketamine	1938
+Silver	4495
+Zinc acetate	3858
+Zinc chloride	3858
+Copper	3858
+Zinc	3858
+Zinc chloride	3852
+Zinc acetate	3852
+Zinc	3852
+Ascorbic acid	5033
+Succinic acid	5033
+Hydralazine	5033
+Isopropyl alcohol	54
+Calcium Phosphate	7178
+Calcium phosphate dihydrate	7178
+Calcium Citrate	7178
+Aminolevulinic acid	210
+Coagulation factor VII human	2152
+Coagulation factor VIIa Recombinant Human	2152
+Sargramostim	5553
+Chymopapain	5553
+Coccidioides immitis spherule	3126
+Droxidopa	155
+Mirabegron	155
+Clenbuterol	155
+Salmeterol	155
+Salbutamol	155
+Bethanidine	155
+Fenoterol	155
+Propranolol	155
+Nebivolol	155
+Nortriptyline	155
+Dihydroergocornine	155
+Mephentermine	155
+Pindolol	155
+Racepinephrine	155
+Olanzapine	155
+Arbutamine	155
+Dihydroergocristine	155
+Trimipramine	155
+Amphetamine	155
+Norepinephrine	155
+Isoprenaline	155
+Ergoloid mesylate	155
+Terbutaline	155
+Formoterol	155
+Oxprenolol	155
+DL-Methylephedrine	155
+Paroxetine	155
+Celiprolol	155
+NADH	10797
+NADH	3283
+Hydrocortisone acetate	3283
+Hydrocortisone phosphate	3283
+Hydrocortisone cypionate	3283
+Hydrocortisone butyrate	3283
+Hydrocortisone probutate	3283
+Trilostane	3283
+Hydrocortisone valerate	3283
+NADH	3292
+Prasterone	3292
+Citric acid	4282
+Folic acid	2350
+Heparin	3082
+Pamidronic acid	2224
+Zoledronic acid	2224
+Alendronic acid	2224
+Ibandronate	2224
+Risedronic acid	2224
+Acarbose	6476
+Scopolamine	6476
+Acetophenazine	1813
+Iloperidone	1813
+Methotrimeprazine	1813
+Aripiprazole lauroxil	1813
+Brexpiprazole	1813
+Lumateperone	1813
+Cariprazine	1813
+Zotepine	1813
+Nortriptyline	1813
+Desipramine	1813
+Thiethylperazine	1813
+Promazine	1813
+Aripiprazole	1813
+Amphetamine	1813
+Cinnarizine	1813
+Levodopa	1813
+Apomorphine	1813
+Chlorprothixene	1813
+Fluphenazine	1813
+Rotigotine	1813
+Tetrabenazine	1813
+Remoxipride	1813
+Thioridazine	1813
+Clozapine	1813
+Bromocriptine	1813
+Trifluoperazine	1813
+Molindone	1813
+Flupentixol	1813
+Mesoridazine	1813
+Pimozide	1813
+Haloperidol	1813
+Lisuride	1813
+Droperidol	1813
+Paroxetine	1813
+Asenapine	1813
+Pipotiazine	1813
+Mianserin	1813
+Fluspirilene	1813
+Chlorpromazine	1813
+Ergoloid mesylate	1813
+Triflupromazine	1813
+Escitalopram	1813
+Ropinirole	1813
+Amantadine	1813
+Ziprasidone	1813
+Maprotiline	1813
+Minaprine	1813
+Ketamine	1813
+Perphenazine	1813
+Ergotamine	1813
+Lurasidone	1813
+Metoclopramide	1813
+Memantine	1813
+Quinagolide	1813
+Imipramine	1813
+Zuclopenthixol	1813
+Cabergoline	1813
+Domperidone	1813
+Loxapine	1813
+Dihydro-alpha-ergocryptine	1813
+Paliperidone	1813
+Propiomazine	1813
+Lamotrigine	1813
+Pramipexole	1813
+Prochlorperazine	1813
+Dopamine	1813
+Sertindole	1813
+Epicriptine	1813
+Trimipramine	1813
+Amisulpride	1813
+Pergolide	1813
+Buspirone	1813
+Yohimbine	1813
+Amoxapine	1813
+Dihydroergocristine	1813
+Promethazine	1813
+Olanzapine	1813
+Quetiapine	1813
+Thiothixene	1813
+Risperidone	1813
+Pimavanserin	1813
+Sulpiride	1813
+Urokinase	4811
+Copper	10327
+Isopropyl alcohol	5320
+Indomethacin	5320
+Lauric acid	5320
+Ginkgo biloba	5320
+Dextromethorphan	653361
+Fostamatinib	3645
+Copper	5315
+Pyruvic acid	5315
+Copper	7184
+Rifabutin	7184
+NADH	7299
+Hexylresorcinol	7299
+Hydroquinone	7299
+Azelaic acid	7299
+Monobenzone	7299
+Arbutin	7299
+Bacitracin	3416
+Insulin pork	3416
+Quinine	2815
+Foreskin fibroblast (neonatal)	3554
+Anakinra	3554
+Captopril	4318
+Zinc acetate	4318
+Glutathione	4318
+Zinc	4318
+Glucosamine	4318
+Minocycline	4318
+Zinc chloride	4318
+Aldesleukin	3560
+Denileukin diftitox	3560
+Basiliximab	3560
+Cholic Acid	1340
+Copper	3191
+Ethchlorvynol	2554
+Clonazepam	2554
+Carisoprodol	2554
+Thiamylal	2554
+Butabarbital	2554
+Eszopiclone	2554
+Butobarbital	2554
+Sevoflurane	2554
+Desflurane	2554
+Zolpidem	2554
+Estazolam	2554
+Prazepam	2554
+Isoflurane	2554
+Pentobarbital	2554
+Bromazepam	2554
+Methoxyflurane	2554
+Flurazepam	2554
+Acamprosate	2554
+Methylphenobarbital	2554
+Memantine	2554
+Diazepam	2554
+Olanzapine	2554
+Clobazam	2554
+Amobarbital	2554
+Etomidate	2554
+Lorazepam	2554
+Methyprylon	2554
+Butalbital	2554
+Meprobamate	2554
+Amoxapine	2554
+Zopiclone	2554
+Flunitrazepam	2554
+Triazolam	2554
+Halothane	2554
+Propofol	2554
+Secobarbital	2554
+Quazepam	2554
+Talbutal	2554
+Zaleplon	2554
+Glutethimide	2554
+Methohexital	2554
+Clotiazepam	2554
+Taurine	2554
+Oxazepam	2554
+Temazepam	2554
+Clorazepic acid	2554
+Halazepam	2554
+Phenytoin	2554
+Topiramate	2554
+Phenobarbital	2554
+Ketazolam	2554
+Midazolam	2554
+Alprazolam	2554
+Prasterone	2554
+Flumazenil	2554
+Lamotrigine	2554
+Chlordiazepoxide	2554
+Enflurane	2554
+Medroxyprogesterone acetate	2554
+Ethanol	2554
+Nitrazepam	2554
+Primidone	2554
+Brexanolone	2554
+Stiripentol	2554
+Apalutamide	2554
+Quinidine barbiturate	2554
+Lormetazepam	2554
+Thiopental	2554
+Ginkgo biloba	2554
+Aspartic acid	1615
+Nitric Oxide	3620
+Cannabidiol	3620
+Flavin adenine dinucleotide	1610
+Benzoic acid	1610
+Zinc chloride	3728
+Zinc	3728
+Zinc acetate	3728
+Regorafenib	673
+Sorafenib	673
+Vemurafenib	673
+Fostamatinib	673
+Encorafenib	673
+Dabrafenib	673
+Citric acid	1360
+Glutamic acid	2752
+L-Glutamine	2752
+Sulindac	231
+NADH	231
+Citric acid	231
+Glutathione	231
+Icatibant	290
+Ezetimibe	290
+Dextromethorphan	5880
+Zinc acetate	1369
+Zinc	1369
+Zinc chloride	1369
+Interferon gamma-1b	3459
+N-Acetylglucosamine	2683
+Sipuleucel-T	55
+Folic acid	2348
+Pseudoephedrine	1386
+Tisagenlecleucel	930
+Blinatumomab	930
+Axicabtagene ciloleucel	930
+NADH	3248
+Rofecoxib	2006
+Clove oil	1438
+Foreskin fibroblast (neonatal)	1438
+Foreskin keratinocyte (neonatal)	1438
+Sargramostim	1438
+Zinc acetate	4830
+Copper	4830
+Zinc chloride	4830
+Zinc	4830
+Mitotane	1584
+Metyrapone	1584
+Cannabidiol	1728
+Flavin adenine dinucleotide	1728
+Menadione	1728
+Dicoumarol	1728
+Vandetanib	7422
+Chondroitin sulfate	7422
+Minocycline	7422
+Pidolic acid	7422
+Foreskin keratinocyte (neonatal)	7422
+Dalteparin	7422
+Bevacizumab	7422
+Gliclazide	7422
+Carvedilol	7422
+Tromethamine	7422
+Brolucizumab	7422
+Aflibercept	7422
+Ranibizumab	7422
+Copper	3543
+Copper	6187
+Zinc	1832
+Zinc chloride	1832
+Zinc acetate	1832
+Cholic Acid	1350
+Resveratrol	246
+Isosorbide dinitrate	4881
+Erythrityl tetranitrate	4881
+Nitroglycerin	4881
+Nitroprusside	4881
+Amyl Nitrite	4881
+Nesiritide	4881
+Hyaluronic acid	960
+Flavin adenine dinucleotide	4835
+Resveratrol	4835
+Primaquine	4835
+Menadione	4835
+NADH	4835
+Melatonin	4835
+Crizanlizumab	6403
+Heparin	6403
+Nadroparin	6403
+Dalteparin	6403
+Curcumin	873
+Resveratrol	873
+Rutin	873
+NADH	35
+Flavin adenine dinucleotide	35
+Naloxone	1385
+Adenosine phosphate	1385
+Orlistat	5406
+Ponatinib	5156
+Erdafitinib	5156
+Midostaurin	5156
+Nintedanib	5156
+Foreskin keratinocyte (neonatal)	5156
+Pazopanib	5156
+Sunitinib	5156
+Olaratumab	5156
+Regorafenib	5156
+Fostamatinib	5156
+Imatinib	5156
+Becaplermin	5156
+Lenvatinib	5156
+Dalfampridine	3737
+Ipilimumab	1493
+Hypromellose	4072
+Technetium Tc-99m nofetumomab merpentan	4072
+Catumaxomab	4072
+Flavin adenine dinucleotide	5447
+Flavin mononucleotide	5447
+Cilastatin	1800
+Cysteine	4255
+Zinc chloride	4255
+Zinc acetate	4255
+Zinc	4255
+Fluoxymesterone	5618
+Somatotropin	5618
+Thyrotropin alfa	7253
+Caffeine	5145
+Insulin pork	5126
+Carvedilol	6401
+Fostamatinib	2241
+Carvedilol	4879
+Oxymetholone	4879
+Insulin pork	1363
+Insulin human	1363
+Glycerin	4668
+Aspartic acid	2805
+Cysteine	2805
+Copper	2805
+Glutamic acid	2805
+Pyridoxal phosphate	2805
+Interferon beta-1b	3454
+Peginterferon alfa-2a	3454
+Interferon alfa-2a, Recombinant	3454
+Interferon alfa-2b	3454
+Interferon beta-1a	3454
+Peginterferon alfa-2b	3454
+Interferon alfacon-1	3454
+Interferon alfa-n3	3454
+Interferon alfa-n1	3454
+alpha-Tocopherol succinate	5578
+Tamoxifen	5578
+Ingenol mebutate	5578
+Vitamin E	5578
+Midostaurin	5578
+D-alpha-Tocopherol acetate	5578
+Phosphatidyl serine	5578
+Carvedilol	2697
+Nesiritide	4883
+Amlodipine	6609
+Chlorpromazine	6609
+Desipramine	6609
+NADH	1109
+Aprotinin	1504
+Creatine	1160
+Pseudoephedrine	11016
+NADH	4713
+Fostamatinib	5566
+Dalfampridine	NA
+Ademetionine	262
+Tromethamine	262
+Pyridoxal phosphate	6898
+Tyrosine	6898
+Phenylalanine	6898
+Glutamic acid	6898
+Sapropterin	7166
+Telotristat ethyl	7166
+Atropine	1141
+Varenicline	1141
+Ethanol	1141
+Dextromethorphan	1141
+Isoflurane	1141
+Galantamine	1141
+Scopolamine	1141
+Methadone	1141
+Nicotine	1141
+Decamethonium	1141
+Mecamylamine	1141
+Physostigmine	1141
+L-Glutamine	1503
+Lauric acid	2760
+Isopropyl alcohol	2760
+Lactose	3958
+Mecasermin	3486
+Alitretinoin	3486
+Axitinib	2321
+Sunitinib	2321
+Regorafenib	2321
+Fostamatinib	2321
+Foreskin fibroblast (neonatal)	2321
+Pazopanib	2321
+Sorafenib	2321
+Lenvatinib	2321
+Nintedanib	2321
+Tiludronic acid	5770
+Guanfacine	151
+Rotigotine	151
+Nortriptyline	151
+Brimonidine	151
+Apomorphine	151
+Bromocriptine	151
+Loxapine	151
+Asenapine	151
+Quetiapine	151
+Paliperidone	151
+Mianserin	151
+Fenoldopam	151
+Dihydroergocristine	151
+Levonordefrin	151
+Aripiprazole lauroxil	151
+Celiprolol	151
+Bethanidine	151
+Dihydroergocornine	151
+Norepinephrine	151
+Metamfetamine	151
+Tizanidine	151
+Paroxetine	151
+Apraclonidine	151
+Haloperidol	151
+Guanabenz	151
+Methotrimeprazine	151
+Phenylpropanolamine	151
+Ziprasidone	151
+Clonidine	151
+Ropinirole	151
+Ergotamine	151
+Tolazoline	151
+Ergoloid mesylate	151
+Moxisylyte	151
+Aripiprazole	151
+DL-Methylephedrine	151
+Trimipramine	151
+Prazosin	151
+Pizotifen	151
+Amoxapine	151
+Desipramine	151
+Indigotindisulfonic acid	151
+Prochlorperazine	151
+Lorpiprazole	151
+Escitalopram	151
+Chlorpromazine	151
+Droxidopa	151
+Risperidone	151
+Etomidate	151
+Dronedarone	151
+Tramadol	151
+Dosulepin	151
+Pergolide	151
+Lisuride	151
+Phenoxybenzamine	151
+Epinephrine	151
+Oxymetazoline	151
+Yohimbine	151
+Amphetamine	151
+Clozapine	151
+Maprotiline	151
+Xylometazoline	151
+Cabergoline	151
+Mephentermine	151
+Carvedilol	151
+Racepinephrine	151
+Glutathione	2877
+Finasteride	6715
+Levonorgestrel	6715
+Spironolactone	6715
+Dutasteride	6715
+Norgestrel	6715
+Abacavir	3106
+Desflurane	2560
+Phenytoin	2560
+Triazolam	2560
+Prasterone	2560
+Taurine	2560
+Lamotrigine	2560
+Prazepam	2560
+gamma-Hydroxybutyric acid	2560
+Chlordiazepoxide	2560
+Flumazenil	2560
+Acamprosate	2560
+Memantine	2560
+Lindane	2560
+Propofol	2560
+Ketazolam	2560
+Quazepam	2560
+Clonazepam	2560
+Pentobarbital	2560
+Brexanolone	2560
+Methoxyflurane	2560
+Primidone	2560
+Halothane	2560
+Alprazolam	2560
+Ethchlorvynol	2560
+Flurazepam	2560
+Clorazepic acid	2560
+Oxazepam	2560
+Stiripentol	2560
+Etomidate	2560
+Temazepam	2560
+Butabarbital	2560
+Estazolam	2560
+Apalutamide	2560
+Talbutal	2560
+Amoxapine	2560
+Eszopiclone	2560
+Ethanol	2560
+Lorazepam	2560
+Isoflurane	2560
+Glutethimide	2560
+Bromazepam	2560
+Clobazam	2560
+Halazepam	2560
+Sevoflurane	2560
+Nitrazepam	2560
+Methyprylon	2560
+Meprobamate	2560
+Enflurane	2560
+Clotiazepam	2560
+Butalbital	2560
+Medroxyprogesterone acetate	2560
+Diazepam	2560
+Clonazepam	2566
+Methoxyflurane	2566
+Meprobamate	2566
+Amoxapine	2566
+Eszopiclone	2566
+Enflurane	2566
+Estazolam	2566
+Bromazepam	2566
+Carisoprodol	2566
+Prasterone	2566
+Pentobarbital	2566
+Triazolam	2566
+Prazepam	2566
+Phenytoin	2566
+Chlordiazepoxide	2566
+Clotiazepam	2566
+Clobazam	2566
+Isoflurane	2566
+Talbutal	2566
+Etomidate	2566
+Medroxyprogesterone acetate	2566
+Sevoflurane	2566
+Oxazepam	2566
+Desflurane	2566
+Memantine	2566
+Nitrazepam	2566
+Lorazepam	2566
+Flurazepam	2566
+Primidone	2566
+Butalbital	2566
+Halothane	2566
+Clorazepic acid	2566
+Temazepam	2566
+Lormetazepam	2566
+Flumazenil	2566
+Lamotrigine	2566
+Diazepam	2566
+Quazepam	2566
+Stiripentol	2566
+Halazepam	2566
+Glutethimide	2566
+Methyprylon	2566
+Ginkgo biloba	2566
+Brexanolone	2566
+Alprazolam	2566
+Propofol	2566
+Taurine	2566
+Olanzapine	2566
+Acamprosate	2566
+Butabarbital	2566
+Ethchlorvynol	2566
+Apalutamide	2566
+Flunitrazepam	2566
+Zolpidem	2566
+Rilonacept	3557
+Vardenafil	5148
+Sildenafil	5148
+Copper	5223
+Ergoloid mesylate	152
+Levonordefrin	152
+Methotrimeprazine	152
+Metamfetamine	152
+Pergolide	152
+Phenoxybenzamine	152
+Clonidine	152
+Brimonidine	152
+DL-Methylephedrine	152
+Apomorphine	152
+Lisuride	152
+Nortriptyline	152
+Bethanidine	152
+Haloperidol	152
+Ropinirole	152
+Yohimbine	152
+Loxapine	152
+Dihydroergocornine	152
+Phenylpropanolamine	152
+Norepinephrine	152
+Mianserin	152
+Dosulepin	152
+Asenapine	152
+Tolazoline	152
+Aripiprazole	152
+Dihydroergocristine	152
+Pizotifen	152
+Bromocriptine	152
+Paroxetine	152
+Indigotindisulfonic acid	152
+Paliperidone	152
+Aripiprazole lauroxil	152
+Amoxapine	152
+Xylometazoline	152
+Lorpiprazole	152
+Moxisylyte	152
+Tizanidine	152
+Quetiapine	152
+Carvedilol	152
+Fenoldopam	152
+Ziprasidone	152
+Desipramine	152
+Lurasidone	152
+Clozapine	152
+Amphetamine	152
+Dronedarone	152
+Prochlorperazine	152
+Droxidopa	152
+Maprotiline	152
+Escitalopram	152
+Cabergoline	152
+Risperidone	152
+Tramadol	152
+Racepinephrine	152
+Brexpiprazole	152
+Iloperidone	152
+Mephentermine	152
+Chlorpromazine	152
+Oxymetazoline	152
+Celiprolol	152
+Pseudoephedrine	466
+Pseudoephedrine	467
+Pseudoephedrine	468
+Pseudoephedrine	22926
+Bleomycin	3978
+Ascorbic acid	5066
+Spironolactone	1585
+Pyridoxal phosphate	3067
+Methoxy polyethylene glycol-epoetin beta	2057
+Peginesatide	2057
+Darbepoetin alfa	2057
+Erythropoietin	2057
+Clove oil	7412
+Carvedilol	7412
+Ethanol	7412
+NADH	4729
+Tasonermin	7132
+Glutathione	2678
+Fostamatinib	5610
+Amiloride	6548
+Lidocaine	5005
+Zinc acetate	5005
+Zinc	5005
+Chlorpromazine	5005
+Thalidomide	5005
+Zinc chloride	5005
+Imipramine	5005
+Disopyramide	5005
+Fostamatinib	1459
+Tretinoin	6256
+Alfacalcidol	6256
+Alitretinoin	6256
+Acitretin	6256
+Doconexent	6256
+alpha-Linolenic acid	6256
+Etodolac	6256
+Bexarotene	6256
+Rosiglitazone	6256
+Bezafibrate	6256
+Adapalene	6256
+Oleic Acid	6256
+Amiloride	26
+Calcium	26
+Zinc	3698
+Zinc chloride	3698
+Zinc acetate	3698
+Copper	3698
+Zinc	3697
+Zinc acetate	3697
+Zinc chloride	3697
+Taurocholic acid	1056
+Glycyrrhizic acid	4790
+Thalidomide	4790
+Fish oil	4790
+Donepezil	4790
+Pseudoephedrine	4790
+Triflusal	4790
+Dextromethorphan	4688
+Pidolic acid	280
+Tipiracil	1890
+Hydroxocobalamin	6947
+Pyridoxal phosphate	10993
+Gemtuzumab ozogamicin	945
+Inotuzumab ozogamicin	933
+Moxetumomab Pasudotox	933
+Terfenadine	1131
+Amitriptyline	1131
+Brompheniramine	1131
+Tropicamide	1131
+Cyproheptadine	1131
+Pipecuronium	1131
+Nortriptyline	1131
+Glycopyrronium	1131
+Atropine	1131
+Revefenacin	1131
+Trimipramine	1131
+Promazine	1131
+Acetylcholine	1131
+Trimebutine	1131
+Homatropine methylbromide	1131
+Quetiapine	1131
+Paroxetine	1131
+Lamotrigine	1131
+Propiomazine	1131
+Diphenidol	1131
+Pizotifen	1131
+Amoxapine	1131
+Diphemanil	1131
+Chlorpromazine	1131
+Maprotiline	1131
+Disopyramide	1131
+Darifenacin	1131
+Carbamoylcholine	1131
+Dosulepin	1131
+Haloperidol	1131
+Tolterodine	1131
+Mepenzolate	1131
+Anisotropine methylbromide	1131
+Nicardipine	1131
+Isopropamide	1131
+Clozapine	1131
+Solifenacin	1131
+Oxyphencyclimine	1131
+Methscopolamine bromide	1131
+Fesoterodine	1131
+Tiotropium	1131
+Succinylcholine	1131
+Ipratropium	1131
+Cevimeline	1131
+Mivacurium	1131
+Aripiprazole lauroxil	1131
+Thiopental	1131
+Hyoscyamine	1131
+Pancuronium	1131
+Cinnarizine	1131
+Imipramine	1131
+Hexocyclium	1131
+Thonzylamine	1131
+Loxapine	1131
+Bethanechol	1131
+Aclidinium	1131
+Olanzapine	1131
+Ziprasidone	1131
+Aripiprazole	1131
+Chlorprothixene	1131
+Meperidine	1131
+Procyclidine	1131
+Scopolamine	1131
+Oxybutynin	1131
+Methotrimeprazine	1131
+Metixene	1131
+Tramadol	1131
+Butylscopolamine	1131
+Homatropine	1131
+Methacholine	1131
+Doxepin	1131
+Cryptenamine	1131
+Desipramine	1131
+Propiverine	1131
+Ketamine	1131
+Umeclidinium	1131
+Pilocarpine	1131
+Promethazine	1131
+Trihexyphenidyl	1131
+Tasonermin	7133
+Etanercept	7133
+Nesiritide	4882
+Erythrityl tetranitrate	4882
+Carfilzomib	5689
+Bortezomib	5689
+Alglucosidase alfa	4074
+Dexlansoprazole	495
+Lansoprazole	495
+Omeprazole	495
+Rabeprazole	495
+Esomeprazole	495
+Pantoprazole	495
+Cholic Acid	9377
+Lifitegrast	3683
+Efalizumab	3683
+Pitavastatin	3683
+Antithymocyte immunoglobulin (rabbit)	3683
+Lovastatin	3683
+Simvastatin	3683
+Rosuvastatin	3683
+Benserazide	1644
+Pyridoxal phosphate	1644
+Methyldopa	1644
+Carbidopa	1644
+Zinc chloride	5858
+Zinc acetate	5858
+Zinc	5858
+Calcium	831
+Bifonazole	1555
+Diacerein	1577
+Cannabidiol	1577
+Mycophenolic acid	3614
+Ribavirin	3614
+Mycophenolate mofetil	3614
+Mercaptopurine	3614
+NADH	3614
+Zinc	725
+Zinc acetate	725
+Zinc chloride	725
+Muromonab	919
+Glutathione	2947
+Gallium nitrate	526
+Thonzonium	528
+Phenelzine	4128
+Zonisamide	4128
+Amphetamine	4128
+Selegiline	4128
+Phentermine	4128
+Nialamide	4128
+Moclobemide	4128
+Tranylcypromine	4128
+Metamfetamine	4128
+Zimelidine	4128
+Pargyline	4128
+Nomifensine	4128
+Procaine	4128
+Isocarboxazid	4128
+Minaprine	4128
+Procarbazine	4128
+Flavin adenine dinucleotide	4128
+Siponimod	1901
+Asfotase alfa	1901
+Nedocromil	2357
+Glycine	189
+Pyridoxal phosphate	189
+Nabilone	1268
+Dronabinol	1268
+Rimonabant	1268
+Cannabidiol	1268
+Pentoxifylline	4907
+NADH	2819
+Metformin	2819
+Fostamatinib	2041
+Haloperidol	1812
+Lisuride	1812
+Flupentixol	1812
+Zuclopenthixol	1812
+Bromocriptine	1812
+Methylergometrine	1812
+Propiomazine	1812
+Triflupromazine	1812
+Cabergoline	1812
+Ergoloid mesylate	1812
+Thiethylperazine	1812
+Lamotrigine	1812
+Ziprasidone	1812
+Clozapine	1812
+Dihydro-alpha-ergocryptine	1812
+Risperidone	1812
+Aripiprazole lauroxil	1812
+Apomorphine	1812
+Quinagolide	1812
+Epicriptine	1812
+Olanzapine	1812
+Cinnarizine	1812
+Trimipramine	1812
+Asenapine	1812
+Acetophenazine	1812
+Pipradrol	1812
+Paliperidone	1812
+Periciazine	1812
+Thiothixene	1812
+Aripiprazole	1812
+Loxapine	1812
+Paroxetine	1812
+Perphenazine	1812
+Methotrimeprazine	1812
+Zotepine	1812
+Dopamine	1812
+Chlorprothixene	1812
+Pergolide	1812
+Rotigotine	1812
+Amoxapine	1812
+Mianserin	1812
+Chlorpromazine	1812
+Minaprine	1812
+Thioridazine	1812
+Fenoldopam	1812
+Ergotamine	1812
+Promazine	1812
+Lumateperone	1812
+Phenylpropanolamine	1812
+Iloperidone	1812
+Pipotiazine	1812
+Fluphenazine	1812
+Levodopa	1812
+Dihydroergocristine	1812
+Imipramine	1812
+Quetiapine	1812
+Cannabidiol	7416
+Regorafenib	2263
+Erdafitinib	2263
+Ponatinib	2263
+Heparin	2263
+Foreskin fibroblast (neonatal)	2263
+Nintedanib	2263
+Palifermin	2263
+Thalidomide	2263
+Lenvatinib	2263
+Fostamatinib	2263
+Foreskin keratinocyte (neonatal)	2263
+Tetracaine	6261
+Caffeine	6261
+Dantrolene	6261
+Succinic acid	6390
+Pergolide	1815
+Epicriptine	1815
+Buspirone	1815
+Ropinirole	1815
+Flibanserin	1815
+Olanzapine	1815
+Bromocriptine	1815
+Aripiprazole lauroxil	1815
+Cabergoline	1815
+Asenapine	1815
+Pramipexole	1815
+Thiethylperazine	1815
+Risperidone	1815
+Apomorphine	1815
+Ziprasidone	1815
+Quetiapine	1815
+Propiomazine	1815
+Lisuride	1815
+Dopamine	1815
+Ergoloid mesylate	1815
+Chlorpromazine	1815
+Loxapine	1815
+Clozapine	1815
+Methotrimeprazine	1815
+Levodopa	1815
+Paliperidone	1815
+Dihydroergocristine	1815
+Amoxapine	1815
+Promazine	1815
+Remoxipride	1815
+Aripiprazole	1815
+Rotigotine	1815
+Iloperidone	1815
+Aripiprazole	1816
+Dopamine	1816
+Ergoloid mesylate	1816
+Olanzapine	1816
+Ziprasidone	1816
+Mianserin	1816
+Cinnarizine	1816
+Ergotamine	1816
+Zuclopenthixol	1816
+Zotepine	1816
+Aripiprazole lauroxil	1816
+Dihydro-alpha-ergocryptine	1816
+Apomorphine	1816
+Quetiapine	1816
+Methotrimeprazine	1816
+Quinagolide	1816
+Bromocriptine	1816
+Chlorpromazine	1816
+Loxapine	1816
+Cabergoline	1816
+Rotigotine	1816
+Dihydroergocristine	1816
+Imipramine	1816
+Fenoldopam	1816
+Levodopa	1816
+Epicriptine	1816
+Pergolide	1816
+Pipradrol	1816
+Trimipramine	1816
+Paroxetine	1816
+Lisuride	1816
+Lamotrigine	1816
+Tolcapone	1312
+Ademetionine	1312
+Opicapone	1312
+Entacapone	1312
+Nialamide	1312
+Hexylresorcinol	7052
+Dalfampridine	3738
+Cyanocobalamin	4594
+Hydroxocobalamin	4594
+Pemetrexed	2618
+Aspartic acid	10606
+Huperzine A	43
+Tubocurarine	43
+Ranitidine	43
+Rivastigmine	43
+Isoflurophate	43
+Minaprine	43
+Choline salicylate	43
+Galantamine	43
+Ambenonium	43
+Choline	43
+Neostigmine	43
+Acetylcholine	43
+Ephedrine	43
+Donepezil	43
+Dipivefrin	43
+Physostigmine	43
+Carbamoylcholine	43
+Demecarium	43
+Pyridostigmine	43
+Edrophonium	43
+Tacrine	43
+Tyrothricin	43
+Gallamine triethiodide	43
+Decamethonium	43
+Pralidoxime	43
+Fostamatinib	54658
+Glutathione	2878
+Ribavirin	5167
+Amifostine	5167
+Polyethylene glycol 400	5167
+Lenvatinib	2264
+Palifermin	2264
+Heparin	2264
+Ponatinib	2264
+Erdafitinib	2264
+Dalfampridine	3739
+Vernakalant	3741
+Dalfampridine	3741
+Isavuconazole	3741
+Glycine	212
+Pyridoxal phosphate	212
+Flavin adenine dinucleotide	2232
+Ponatinib	2261
+Lenvatinib	2261
+Erdafitinib	2261
+Fostamatinib	2261
+Nintedanib	2261
+Palifermin	2261
+Pazopanib	2261
+Copper	3181
+Calcium Citrate	794
+Calcium Phosphate	794
+Calcium levulinate	794
+Calcium phosphate dihydrate	794
+Fostamatinib	5567
+Benzthiazide	762
+Brinzolamide	762
+Dorzolamide	762
+Sodium carbonate	762
+Topiramate	762
+Hydroflumethiazide	762
+Diclofenamide	762
+Bendroflumethiazide	762
+Acetazolamide	762
+Trichlormethiazide	762
+Zonisamide	762
+Cyclothiazide	762
+Methazolamide	762
+Methyclothiazide	762
+Zinc	1370
+Zinc chloride	1370
+Zinc acetate	1370
+Cholic Acid	2235
+Buserelin	3973
+Lutropin alfa	3973
+Cetrorelix	3973
+Chorionic Gonadotropin (Human)	3973
+Menotropins	3973
+Goserelin	3973
+Choriogonadotropin alfa	3973
+Menadione	8858
+Technetium Tc-99m tilmanocept	4360
+Cocaine	1066
+Cyclandelate	1066
+Cholic Acid	1066
+Diamorphine	1066
+Levocarnitine	1066
+Tacrine	1066
+Meperidine	1066
+Probucol	1066
+Naloxone	1066
+Dextropropoxyphene	1066
+Choline magnesium trisalicylate	5742
+Metamizole	5742
+Tolfenamic acid	5742
+Phenyl salicylate	5742
+Mefenamic acid	5742
+Ketoprofen	5742
+Indomethacin	5742
+Sulindac	5742
+Trolamine salicylate	5742
+Ibuprofen	5742
+Oxaprozin	5742
+Mesalazine	5742
+Salicylic acid	5742
+Bufexamac	5742
+Etodolac	5742
+Tenoxicam	5742
+Lumiracoxib	5742
+Nepafenac	5742
+Tiaprofenic acid	5742
+Diclofenac	5742
+Tolmetin	5742
+Carprofen	5742
+Minoxidil	5742
+Salsalate	5742
+Ketorolac	5742
+Dexketoprofen	5742
+Flurbiprofen	5742
+Icosapent	5742
+Loxoprofen	5742
+Suprofen	5742
+Cannabidiol	5742
+Bendazac	5742
+Sulfasalazine	5742
+Menthyl salicylate	5742
+Acetylsalicylic acid	5742
+Acemetacin	5742
+Fenoprofen	5742
+Dexibuprofen	5742
+Naproxen	5742
+Meloxicam	5742
+Glycol salicylate	5742
+Piroxicam	5742
+Aceclofenac	5742
+Resveratrol	5742
+Meclofenamic acid	5742
+Nabumetone	5742
+Antrafenine	5742
+Phenylbutazone	5742
+Diethylcarbamazine	5742
+Antipyrine	5742
+Balsalazide	5742
+Bromfenac	5742
+Diflunisal	5742
+Triflusal	5742
+Acetaminophen	5742
+Lornoxicam	5742
+Flufenamic acid	5742
+Copper	6421
+Vinblastine	7283
+Mafenide	765
+Zonisamide	765
+Olopatadine	6271
+NADH	4200
+Pyridoxal phosphate	2731
+Glycine	2731
+Tryptophan	7453
+Desflurane	2741
+Zinc chloride	2741
+Ethanol	2741
+Memantine	2741
+Halothane	2741
+Enflurane	2741
+Cannabidiol	2741
+Zinc	2741
+D-Serine	2741
+Ginkgo biloba	2741
+Taurine	2741
+Methoxyflurane	2741
+Zinc acetate	2741
+Lindane	2741
+Glycine	2741
+Atropine	2741
+Sevoflurane	2741
+Copper	2741
+Isoflurane	2741
+Memantine	2742
+Ethanol	2742
+Lindane	2742
+Taurine	2742
+Glycine	2742
+Glycine	2653
+Upadacitinib	3716
+Baricitinib	3716
+Fedratinib	3716
+Fostamatinib	3716
+Ruxolitinib	3716
+Tofacitinib	3716
+Alendronic acid	5791
+Copper	191
+Isopropyl alcohol	191
+Copper	1072
+Chondroitin sulfate	627
+Esketamine	627
+Copper	627
+Vitamin E	1606
+D-alpha-Tocopherol acetate	1606
+alpha-Tocopherol succinate	1606
+Botulinum Toxin Type B	6843
+Perhexiline	1376
+Levocarnitine	1376
+Gemcitabine	6240
+Hydroxyurea	6240
+Cladribine	6240
+Clofarabine	6240
+Fludarabine	6240
+Urofollitropin	2492
+Corifollitropin alfa	2492
+Choriogonadotropin alfa	2492
+Follitropin	2492
+Menotropins	2492
+Ketamine	6530
+Methylphenidate	6530
+Desipramine	6530
+Solriamfetol	6530
+Zotepine	6530
+Nortriptyline	6530
+Trimipramine	6530
+Atomoxetine	6530
+Venlafaxine	6530
+Phenmetrazine	6530
+Clomipramine	6530
+Dextroamphetamine	6530
+Dexmethylphenidate	6530
+Chlorpheniramine	6530
+Diethylpropion	6530
+Guanadrel	6530
+Ergotamine	6530
+Ginkgo biloba	6530
+Loxapine	6530
+Ephedrine	6530
+Sibutramine	6530
+Phendimetrazine	6530
+Dopamine	6530
+Debrisoquine	6530
+Dosulepin	6530
+Paroxetine	6530
+Amphetamine	6530
+Benzatropine	6530
+Milnacipran	6530
+Pseudoephedrine	6530
+Cyclobenzaprine	6530
+Meperidine	6530
+Escitalopram	6530
+Desvenlafaxine	6530
+Bupropion	6530
+Sertraline	6530
+Cocaine	6530
+Tramadol	6530
+Amitriptyline	6530
+Imipramine	6530
+Reboxetine	6530
+Nomifensine	6530
+Amoxapine	6530
+Levomilnacipran	6530
+Protriptyline	6530
+Guanethidine	6530
+Orphenadrine	6530
+Vortioxetine	6530
+Netarsudil	6530
+Nefazodone	6530
+Mazindol	6530
+Dextromethorphan	6530
+Viloxazine	6530
+Duloxetine	6530
+Maprotiline	6530
+Phentermine	6530
+Doxepin	6530
+Mianserin	6530
+Tapentadol	6530
+Metamfetamine	6530
+Lindane	2569
+Diazepam	2569
+Estazolam	2569
+Halazepam	2569
+Nitrazepam	2569
+Prazepam	2569
+Quazepam	2569
+Clotiazepam	2569
+Flurazepam	2569
+Oxazepam	2569
+Temazepam	2569
+Bromazepam	2569
+Triazolam	2569
+Phenelzine	2875
+Glutamic acid	2875
+Pyridoxal phosphate	2875
+Cholic Acid	1346
+Cholic Acid	1349
+Encorafenib	595
+Acetylsalicylic acid	595
+Arsenic trioxide	595
+Dupilumab	3566
+Cannabidiol	1551
+Diacerein	1551
+Ambrisentan	1910
+Sitaxentan	1910
+Bosentan	1910
+Macitentan	1910
+Sulfasalazine	6916
+Adenine	52
+Sulfasalazine	38
+Cannabidiol	38
+Bosutinib	1017
+Ranitidine	3274
+Olopatadine	3274
+Nizatidine	3274
+Aripiprazole	3274
+Epinastine	3274
+Promethazine	3274
+Tolazoline	3274
+Doxepin	3274
+Asenapine	3274
+Loxapine	3274
+Amitriptyline	3274
+Cimetidine	3274
+Betazole	3274
+Histamine	3274
+Methantheline	3274
+Azelastine	3274
+Famotidine	3274
+Ketoprofen	3577
+Linaclotide	2984
+Dihydroergocornine	146
+Imipramine	146
+Ergotamine	146
+Tizanidine	146
+Paroxetine	146
+Clonidine	146
+Maprotiline	146
+Pergolide	146
+Prazosin	146
+Buspirone	146
+Pizotifen	146
+Mirtazapine	146
+Ranolazine	146
+Amoxapine	146
+Promazine	146
+DL-Methylephedrine	146
+Ropinirole	146
+Methoxamine	146
+Ergoloid mesylate	146
+Terazosin	146
+Quetiapine	146
+Amitriptyline	146
+Desipramine	146
+Escitalopram	146
+Moxisylyte	146
+Tamsulosin	146
+Quinidine	146
+Prochlorperazine	146
+Droxidopa	146
+Epinephrine	146
+Dapiprazole	146
+Dobutamine	146
+Bromocriptine	146
+Dihydroergocristine	146
+Phenylephrine	146
+Indigotindisulfonic acid	146
+Carvedilol	146
+Nortriptyline	146
+Amphetamine	146
+Silodosin	146
+Verapamil	146
+Xylometazoline	146
+Sertindole	146
+Oxymetazoline	146
+Nicardipine	146
+Chlorpromazine	146
+Mianserin	146
+Alfuzosin	146
+Dronedarone	146
+Propiomazine	146
+Racepinephrine	146
+Doxazosin	146
+Cabergoline	146
+Methotrimeprazine	146
+Doxepin	146
+Phentolamine	146
+Lorpiprazole	146
+Labetalol	146
+Fenoldopam	146
+Norepinephrine	146
+Midodrine	146
+Phenoxybenzamine	146
+Mephentermine	146
+Dosulepin	146
+Sitaxentan	1909
+Bosentan	1909
+Acetylsalicylic acid	1909
+Macitentan	1909
+Ambrisentan	1909
+Ketamine	6869
+Tramadol	6869
+Fosnetupitant	6869
+Netupitant	6869
+Rolapitant	6869
+Aprepitant	6869
+Rupatadine	5724
+Vorapaxar	2149
+Thrombin	2149
+Streptokinase	2149
+Copper	563
+Zinc	4504
+Silver	4504
+Zinc chloride	4504
+Zinc acetate	4504
+Fostamatinib	1520
+Cromoglicic acid	6286
+Acetylsalicylic acid	4792
+Vedolizumab	3695
+Procainamide	1786
+Azacitidine	1786
+Decitabine	1786
+Flucytosine	1786
+Trilostane	3284
+NADH	3284
+Flavin adenine dinucleotide	3712
+Copper	6275
+Trifluoperazine	6275
+Threonine	6897
+Valine	7407
+Tagraxofusp	3563
+Sargramostim	3563
+Zinc acetate	5444
+Zinc chloride	5444
+Copper	5444
+Zinc	5444
+Cefazolin	5444
+Amphetamine	4129
+Nomifensine	4129
+Zonisamide	4129
+Safinamide	4129
+Isocarboxazid	4129
+Pioglitazone	4129
+Procarbazine	4129
+Nialamide	4129
+Metamfetamine	4129
+Phenelzine	4129
+Flavin adenine dinucleotide	4129
+Moclobemide	4129
+Selegiline	4129
+Zimelidine	4129
+Rasagiline	4129
+Phentermine	4129
+Procaine	4129
+Pargyline	4129
+Tranylcypromine	4129
+Cholecystokinin	5595
+Acetylsalicylic acid	5595
+Sulindac	5595
+Arsenic trioxide	5595
+Fostamatinib	4140
+Alogliptin	1803
+Linagliptin	1803
+Sitagliptin	1803
+Atorvastatin	1803
+Saxagliptin	1803
+Vildagliptin	1803
+Fludarabine	1633
+Aspartic acid	790
+Moroctocog alfa	811
+Calcium phosphate dihydrate	811
+Antihemophilic factor, human recombinant	811
+Calcium Phosphate	811
+Lonoctocog alfa	811
+Melatonin	811
+Calcium Citrate	811
+Copper	811
+Tenecteplase	811
+Iloprost	5141
+Theophylline	5141
+Oxtriphylline	5141
+Pentoxifylline	5141
+Crisaborole	5141
+Roflumilast	5141
+Drotaverine	5141
+Enprofylline	5141
+Caffeine	5141
+Dipyridamole	5141
+Dyphylline	5141
+Paclitaxel	4134
+Docetaxel	4134
+Calcium Phosphate	821
+Lonoctocog alfa	821
+Tenecteplase	821
+Moroctocog alfa	821
+Calcium Citrate	821
+Antihemophilic factor, human recombinant	821
+Calcium phosphate dihydrate	821
+Isoprenaline	5295
+Carfilzomib	5696
+Carfilzomib	5698
+Carfilzomib	5693
+Bortezomib	5693
+Glutathione disulfide	2946
+Glutathione	2946
+Aripiprazole lauroxil	3352
+Ergotamine	3352
+Pergolide	3352
+Cabergoline	3352
+Dihydroergocristine	3352
+Lofexidine	3352
+Eletriptan	3352
+Quetiapine	3352
+Apomorphine	3352
+Gilteritinib	3352
+Yohimbine	3352
+Dihydroergotamine	3352
+Trimipramine	3352
+Dihydroergocornine	3352
+Almotriptan	3352
+Lisuride	3352
+Loxapine	3352
+Rizatriptan	3352
+Aripiprazole	3352
+Sumatriptan	3352
+Risperidone	3352
+Naratriptan	3352
+Clozapine	3352
+Bromocriptine	3352
+Ergoloid mesylate	3352
+Ziprasidone	3352
+Paroxetine	3352
+Amitriptyline	3352
+Ketamine	3352
+Frovatriptan	3352
+Paliperidone	3352
+Pizotifen	3352
+Zolmitriptan	3352
+Olanzapine	3352
+Propranolol	3351
+Ergotamine	3351
+Gilteritinib	3351
+Cabergoline	3351
+Eletriptan	3351
+Apomorphine	3351
+Dihydroergocristine	3351
+Methysergide	3351
+Pindolol	3351
+Rizatriptan	3351
+Yohimbine	3351
+Loxapine	3351
+Penbutolol	3351
+Dihydroergotamine	3351
+Lisuride	3351
+Amitriptyline	3351
+Quetiapine	3351
+Bromocriptine	3351
+Naratriptan	3351
+Amoxapine	3351
+Aripiprazole lauroxil	3351
+Aripiprazole	3351
+Asenapine	3351
+Zolmitriptan	3351
+Frovatriptan	3351
+Sumatriptan	3351
+Paroxetine	3351
+Ondansetron	3351
+Vortioxetine	3351
+Ziprasidone	3351
+Pizotifen	3351
+Clozapine	3351
+Ergoloid mesylate	3351
+Ketamine	3351
+Almotriptan	3351
+Pergolide	3351
+Olanzapine	3351
+Dihydroergocornine	3351
+Lorpiprazole	3356
+Propiomazine	3356
+Yohimbine	3356
+Asenapine	3356
+Mirtazapine	3356
+Trimipramine	3356
+Cabergoline	3356
+Bromocriptine	3356
+Amitriptyline	3356
+Clomipramine	3356
+Quetiapine	3356
+Nortriptyline	3356
+Trazodone	3356
+Methotrimeprazine	3356
+Doxepin	3356
+Butriptyline	3356
+Amoxapine	3356
+Promethazine	3356
+Haloperidol	3356
+Epinastine	3356
+Cyproheptadine	3356
+Zuclopenthixol	3356
+Paroxetine	3356
+Pergolide	3356
+Desipramine	3356
+Lumateperone	3356
+Cyclobenzaprine	3356
+Pimavanserin	3356
+Imipramine	3356
+Lurasidone	3356
+Tegaserod	3356
+Flupentixol	3356
+Mianserin	3356
+Brexpiprazole	3356
+Chlorprothixene	3356
+Ergotamine	3356
+Dosulepin	3356
+Lamotrigine	3356
+Amisulpride	3356
+Pipotiazine	3356
+Aripiprazole	3356
+Minaprine	3356
+Ketamine	3356
+Dihydroergocristine	3356
+Paliperidone	3356
+Lisuride	3356
+Apomorphine	3356
+Chlorpromazine	3356
+Risperidone	3356
+Pizotifen	3356
+Thiothixene	3356
+Mesoridazine	3356
+Thioridazine	3356
+Clozapine	3356
+Sertindole	3356
+Nefazodone	3356
+Cisapride	3356
+Methysergide	3356
+Aripiprazole lauroxil	3356
+Flibanserin	3356
+Olanzapine	3356
+Dihydroergocornine	3356
+Molindone	3356
+Maprotiline	3356
+Zotepine	3356
+Gilteritinib	3356
+Donepezil	3356
+Ziprasidone	3356
+Ergoloid mesylate	3356
+Fluphenazine	3356
+Loxapine	3356
+Cannabidiol	3356
+Cariprazine	3356
+Fenfluramine	3356
+Iloperidone	3356
+Fluspirilene	3356
+Promazine	3356
+Escitalopram	3356
+Remoxipride	3356
+Nicotine	1103
+NADH	4719
+Pizotifen	3358
+Amitriptyline	3358
+Asenapine	3358
+Methysergide	3358
+Lorcaserin	3358
+Fenfluramine	3358
+Escitalopram	3358
+Dihydroergocristine	3358
+Gilteritinib	3358
+Chlorpromazine	3358
+Mianserin	3358
+Yohimbine	3358
+Aripiprazole lauroxil	3358
+Desipramine	3358
+Clomipramine	3358
+Cyproheptadine	3358
+Aripiprazole	3358
+Ziprasidone	3358
+Trimipramine	3358
+Nefazodone	3358
+Loxapine	3358
+Haloperidol	3358
+Dihydroergocornine	3358
+Risperidone	3358
+Pergolide	3358
+Tegaserod	3358
+Cabergoline	3358
+Promazine	3358
+Minaprine	3358
+Imipramine	3358
+Fluphenazine	3358
+Methotrimeprazine	3358
+Lisuride	3358
+Chlorprothixene	3358
+Paroxetine	3358
+Cyclobenzaprine	3358
+Nortriptyline	3358
+Agomelatine	3358
+Paliperidone	3358
+Sertindole	3358
+Ergoloid mesylate	3358
+Tramadol	3358
+Trazodone	3358
+Apomorphine	3358
+Quetiapine	3358
+Maprotiline	3358
+Lorpiprazole	3358
+Fluoxetine	3358
+Clozapine	3358
+Olanzapine	3358
+Ergotamine	3358
+Dexfenfluramine	3358
+Lofexidine	3358
+Mirtazapine	3358
+Bromocriptine	3358
+Propiomazine	3358
+Ketamine	3358
+Amoxapine	3358
+Doxepin	3358
+Chlordiazepoxide	2562
+Temazepam	2562
+Memantine	2562
+Brexanolone	2562
+Clonazepam	2562
+Propofol	2562
+Ethanol	2562
+Lorazepam	2562
+Pentobarbital	2562
+Triazolam	2562
+Flurazepam	2562
+Desflurane	2562
+Flumazenil	2562
+Methoxyflurane	2562
+Estazolam	2562
+Piperazine	2562
+Prasterone	2562
+Primidone	2562
+Clorazepic acid	2562
+Isoflurane	2562
+Acamprosate	2562
+Lindane	2562
+Halazepam	2562
+Stiripentol	2562
+Phenytoin	2562
+Taurine	2562
+Butalbital	2562
+Sevoflurane	2562
+Prazepam	2562
+Fospropofol	2562
+Flunitrazepam	2562
+Etomidate	2562
+Methyprylon	2562
+Oxazepam	2562
+Nitrazepam	2562
+Enflurane	2562
+Lamotrigine	2562
+Eszopiclone	2562
+Medroxyprogesterone acetate	2562
+Meprobamate	2562
+Clotiazepam	2562
+Apalutamide	2562
+Clobazam	2562
+Diazepam	2562
+Glutethimide	2562
+Ethchlorvynol	2562
+Butabarbital	2562
+Amoxapine	2562
+Quazepam	2562
+Alprazolam	2562
+Bromazepam	2562
+Halothane	2562
+Ivermectin	2562
+Talbutal	2562
+Prazepam	2570
+Temazepam	2570
+Quazepam	2570
+Flurazepam	2570
+Clotiazepam	2570
+Oxazepam	2570
+Halazepam	2570
+Estazolam	2570
+Diazepam	2570
+Nitrazepam	2570
+Bromazepam	2570
+Triazolam	2570
+Arsenic trioxide	5594
+Turpentine	5594
+Isoprenaline	5594
+Acetylsalicylic acid	5594
+Methysergide	3354
+Eletriptan	3354
+Ketamine	3354
+Loxapine	3354
+Ziprasidone	3354
+Aripiprazole lauroxil	3354
+Dihydroergocristine	3354
+Olanzapine	3354
+Dihydroergocornine	3354
+Ergoloid mesylate	3354
+Clozapine	3354
+Gilteritinib	3354
+Paroxetine	3354
+Aripiprazole	3354
+Quetiapine	3354
+Calcium phosphate dihydrate	25801
+Calcium Phosphate	25801
+Calcium Citrate	25801
+Rosiglitazone	6257
+Adapalene	6257
+Alitretinoin	6257
+Tretinoin	6257
+Acitretin	6257
+Doconexent	6257
+Bexarotene	6257
+Bezafibrate	6257
+Tazarotene	6257
+NADH	3290
+Glycyrrhizic acid	3290
+Daratumumab	952
+Brentuximab vedotin	943
+Olopatadine	6273
+Zinc chloride	6273
+Calcium	6273
+Zinc acetate	6273
+Zinc	6273
+Copper	6273
+Alendronic acid	5775
+Insulin pork	5122
+Lithium citrate	3612
+Lithium carbonate	3612
+Lamotrigine	135
+Defibrotide	135
+Theophylline	135
+Adenosine	135
+Regadenoson	135
+Mefloquine	135
+Caffeine	135
+Dyphylline	135
+Enprofylline	135
+Oxtriphylline	135
+Pentoxifylline	135
+Istradefylline	135
+Adenosine	136
+Caffeine	136
+Enprofylline	136
+Defibrotide	136
+Theophylline	136
+Regorafenib	1969
+Fostamatinib	1969
+Dasatinib	1969
+Fostamatinib	2042
+Fostamatinib	2046
+Fostamatinib	2048
+Zinc chloride	4350
+Zinc acetate	4350
+Cisplatin	4350
+Zinc	4350
+Fostamatinib	4058
+Copper	7086
+Risankizumab	3593
+Ustekinumab	3593
+Tildrakizumab	3593
+Minocycline	834
+Acetylsalicylic acid	834
+Miconazole	4846
+Levamlodipine	4846
+Citrulline	4846
+Sapropterin	4846
+Citrulline	4842
+Flavin mononucleotide	4842
+Flavin adenine dinucleotide	4842
+Donepezil	4842
+Ketamine	4842
+Methylene blue	4842
+D-Serine	6317
+Arsenic trioxide	5371
+Fostamatinib	7297
+Tofacitinib	7297
+Zinc chloride	5267
+Copper	5267
+Zinc	5267
+Zinc acetate	5267
+NADH	5161
+Acetazolamide	358
+Dequalinium	1259
+NADH	8659
+Isopropyl alcohol	9588
+Copper	9588
+NADH	645
+Flavin mononucleotide	645
+Riboflavin	645
+Auranofin	25824
+Benzoic acid	25824
+Desflurane	513
+Sevoflurane	513
+Halothane	513
+Isoflurane	513
+Enflurane	513
+Methoxyflurane	513
+Omega-3-carboxylic acids	1892
+Gemcitabine	51727
+Copper	5037
+Zinc chloride	2923
+Zinc acetate	2923
+Zinc	2923
+Copper	2923
+Benzylpenicilloyl polylysine	2207
+Fostamatinib	7465
+Cyclosporine	10105
+Icatibant	624
+Vasopressin	554
+Desmopressin	554
+Lypressin	554
+Atosiban	554
+Tolvaptan	554
+Terlipressin	554
+Conivaptan	554
+NADH	3163
+Aspartic acid	159
+Gilteritinib	558
+Fostamatinib	558
+Tiagabine	6529
+Nicotine	1138
+Galantamine	1138
+Ethanol	1138
+Chlormezanone	706
+Lorazepam	706
+Diazepam	706
+Clonazepam	706
+Zaleplon	706
+Zopiclone	706
+Temazepam	706
+Alprazolam	706
+Triazolam	706
+Ketazolam	706
+Clorazepic acid	706
+Flunitrazepam	706
+Cannabidiol	134
+Oxtriphylline	134
+Pentoxifylline	134
+Adenosine	134
+Lamotrigine	134
+Enprofylline	134
+Tramadol	134
+Dyphylline	134
+Defibrotide	134
+Istradefylline	134
+Caffeine	134
+Aminophylline	134
+Theophylline	134
+Gabapentin	134
+Olmesartan	185
+Angiotensin II	185
+Losartan	185
+Candesartan cilexetil	185
+Eprosartan	185
+Valsartan	185
+Azilsartan medoxomil	185
+Irbesartan	185
+Telmisartan	185
+Atosiban	5021
+Carbetocin	5021
+Oxytocin	5021
+Pyruvic acid	5313
+Calcium Citrate	6717
+Calcium Phosphate	6717
+Calcium phosphate dihydrate	6717
+Glutathione	2952
+Isopropyl alcohol	2643
+Ornithine	6541
+L-Lysine	6541
+NADH	219
+NADH	218
+Edotreotide gallium Ga-68	6751
+Lutetium Lu 177 dotatate	6751
+Somatostatin	6751
+Octreotide	6751
+Pasireotide	6751
+Pasireotide	6752
+Lanreotide	6752
+Edotreotide gallium Ga-68	6752
+Dotatate gallium Ga-68	6752
+Somatostatin	6752
+Lutetium Lu 177 dotatate	6752
+Octreotide	6752
+Galantamine	1143
+Levacetylmethadol	1143
+Pentolinium	1143
+Nicotine	1143
+Dextromethorphan	1143
+Fluoxetine	1143
+Ethanol	1143
+Lasmiditan	3355
+Rizatriptan	3355
+Naratriptan	3355
+Sumatriptan	3355
+Dihydroergocristine	3355
+Eletriptan	3355
+Ketamine	3355
+Zolmitriptan	3355
+Mianserin	3355
+Gilteritinib	3355
+Ergotamine	3355
+Methysergide	3355
+Olanzapine	3355
+Paroxetine	3355
+Ergoloid mesylate	3355
+Dihydroergocornine	3355
+Nafarelin	2798
+Goserelin	2798
+Triptorelin	2798
+Elagolix	2798
+Ganirelix	2798
+Leuprolide	2798
+Danazol	2798
+Gestrinone	2798
+Histrelin	2798
+Buserelin	2798
+Abarelix	2798
+Cetrorelix	2798
+Degarelix	2798
+Gonadorelin	2798
+Pramlintide	799
+Salmon Calcitonin	799
+Tretinoin	3933
+Ubidecarenone	6389
+Succinic acid	6389
+Carboxin	6389
+Zinc acetate	6278
+Ibuprofen	6278
+Zinc	6278
+Dexibuprofen	6278
+Zinc chloride	6278
+Acetylsalicylic acid	5596
+Fostamatinib	5596
+Ademetionine	4144
+Dutasteride	6716
+Spironolactone	6716
+Azelaic acid	6716
+Finasteride	6716
+Calcitriol	3206
+Carglumic acid	1373
+Gallium nitrate	6241
+Cladribine	6241
+Alemtuzumab	1043
+Lutetium Lu 177 dotatate	6754
+Somatostatin	6754
+Calcium Phosphate	844
+Calcium Citrate	844
+Calcium phosphate dihydrate	844
+Calcium levulinate	844
+Empagliflozin	6524
+Canagliflozin	6524
+Dapagliflozin	6524
+Ertugliflozin	6524
+Lamotrigine	2558
+Estazolam	2558
+Temazepam	2558
+Prasterone	2558
+Nitrazepam	2558
+Enflurane	2558
+Alprazolam	2558
+Phenytoin	2558
+Halothane	2558
+Flurazepam	2558
+Chlordiazepoxide	2558
+Butabarbital	2558
+Clotiazepam	2558
+Amobarbital	2558
+Glutethimide	2558
+Carisoprodol	2558
+Flumazenil	2558
+Midazolam	2558
+Stiripentol	2558
+Butalbital	2558
+Methoxyflurane	2558
+Memantine	2558
+Clonazepam	2558
+Prazepam	2558
+Sevoflurane	2558
+Desflurane	2558
+Talbutal	2558
+Thiopental	2558
+Halazepam	2558
+Quazepam	2558
+Pentobarbital	2558
+Taurine	2558
+Triazolam	2558
+Acamprosate	2558
+Lorazepam	2558
+Propofol	2558
+Flunitrazepam	2558
+Primidone	2558
+Secobarbital	2558
+Oxazepam	2558
+Apalutamide	2558
+Clobazam	2558
+Ethchlorvynol	2558
+Brexanolone	2558
+Ethanol	2558
+Zopiclone	2558
+Amoxapine	2558
+Clorazepic acid	2558
+Methylphenobarbital	2558
+Meprobamate	2558
+Lormetazepam	2558
+Olanzapine	2558
+Butobarbital	2558
+Diazepam	2558
+Methyprylon	2558
+Isoflurane	2558
+Medroxyprogesterone acetate	2558
+Etomidate	2558
+Bromazepam	2558
+Eszopiclone	2558
+Desvenlafaxine	6532
+Cyclobenzaprine	6532
+Meperidine	6532
+Trimipramine	6532
+Milnacipran	6532
+Loxapine	6532
+Lumateperone	6532
+Verapamil	6532
+Fluvoxamine	6532
+Pseudoephedrine	6532
+Dextromethorphan	6532
+Escitalopram	6532
+Atomoxetine	6532
+Metamfetamine	6532
+Desipramine	6532
+Amitriptyline	6532
+Venlafaxine	6532
+Doxepin	6532
+Amoxapine	6532
+Cocaine	6532
+Lorpiprazole	6532
+Mazindol	6532
+Nomifensine	6532
+Dexmethylphenidate	6532
+Protriptyline	6532
+Dexfenfluramine	6532
+Nortriptyline	6532
+Minaprine	6532
+Nefazodone	6532
+Butriptyline	6532
+Trazodone	6532
+Sibutramine	6532
+Dosulepin	6532
+Levomilnacipran	6532
+Mianserin	6532
+Duloxetine	6532
+Fluoxetine	6532
+Fenfluramine	6532
+Tramadol	6532
+Chlorpheniramine	6532
+Benzatropine	6532
+Zotepine	6532
+Sertraline	6532
+Imipramine	6532
+Clomipramine	6532
+Citalopram	6532
+Paroxetine	6532
+Vortioxetine	6532
+Tapentadol	6532
+Aripiprazole	6532
+Zimelidine	6532
+Phentermine	6532
+Vilazodone	6532
+Amphetamine	6532
+Dopamine	6532
+Resveratrol	207
+Arsenic trioxide	207
+Aldesleukin	3561
+Denileukin diftitox	3561
+NADH	11112
+Methotrexate	471
+Pemetrexed	471
+Copper	3189
+Copper	3187
+Copper	7529
+Copper	10963
+Sarilumab	2213
+Natalizumab	2213
+Cetuximab	2213
+Basiliximab	2213
+Trastuzumab	2213
+Efalizumab	2213
+Antithymocyte immunoglobulin (rabbit)	2213
+Abciximab	2213
+Gemtuzumab ozogamicin	2213
+Bevacizumab	2213
+Ibritumomab tiuxetan	2213
+Alefacept	2213
+Muromonab	2213
+Tositumomab	2213
+Human immunoglobulin G	2213
+Etanercept	2213
+Alemtuzumab	2213
+Palivizumab	2213
+Ethanol	3897
+Copper	7001
+Cholecystokinin	886
+Ceruletide	886
+Pentagastrin	887
+Cholecystokinin	887
+Bremelanotide	4160
+Galantamine	1136
+Bupropion	1136
+Amantadine	1136
+Ethanol	1136
+Methadone	1136
+Pentolinium	1136
+Dextromethorphan	1136
+Levacetylmethadol	1136
+Nicotine	1136
+Levamisole	1136
+Fluoxetine	1136
+Varenicline	1136
+NADH	5831
+Icosapent	6546
+Dronedarone	6546
+alpha-Linolenic acid	6546
+Pasireotide	6753
+Somatostatin	6753
+Lutetium Lu 177 dotatate	6753
+Edotreotide gallium Ga-68	6753
+Nitisinone	3242
+Sargramostim	1439
+Pyridoxal phosphate	1491
+Cysteine	1491
+Bremelanotide	4161
+Adenosine phosphate	2180
+Lenalidomide	1003
+Isoniazid	1557
+Molsidomine	2977
+Methylene blue	2977
+Plecanatide	2977
+Nitric Oxide	2977
+Riociguat	2977
+Isosorbide mononitrate	2977
+Sulfinpyrazone	4363
+Romidepsin	4363
+Durvalumab	941
+Abatacept	941
+Belatacept	941
+Fostamatinib	7272
+Sargramostim	6383
+Pyridoxal phosphate	6470
+Glycine	6470
+Glycine	6472
+Pyridoxal phosphate	6472
+Clorazepic acid	2556
+Eszopiclone	2556
+Memantine	2556
+Butabarbital	2556
+Prasterone	2556
+Carisoprodol	2556
+Clotiazepam	2556
+Halazepam	2556
+Desflurane	2556
+Medroxyprogesterone acetate	2556
+Olanzapine	2556
+Estazolam	2556
+Temazepam	2556
+Clobazam	2556
+Zopiclone	2556
+Prazepam	2556
+Amoxapine	2556
+Secobarbital	2556
+Phenytoin	2556
+Butobarbital	2556
+Ethchlorvynol	2556
+Isoflurane	2556
+Methoxyflurane	2556
+Enflurane	2556
+Butalbital	2556
+Nitrazepam	2556
+Triazolam	2556
+Bromazepam	2556
+Acamprosate	2556
+Stiripentol	2556
+Halothane	2556
+Brexanolone	2556
+Alprazolam	2556
+Glutethimide	2556
+Chlordiazepoxide	2556
+Midazolam	2556
+Talbutal	2556
+Oxazepam	2556
+Primidone	2556
+Clonazepam	2556
+Flunitrazepam	2556
+Lamotrigine	2556
+Apalutamide	2556
+Diazepam	2556
+Pentobarbital	2556
+Lormetazepam	2556
+Methyprylon	2556
+Meprobamate	2556
+Methylphenobarbital	2556
+Lorazepam	2556
+Thiopental	2556
+Quazepam	2556
+Flurazepam	2556
+Taurine	2556
+Amobarbital	2556
+Propofol	2556
+Sevoflurane	2556
+Ethanol	2556
+Flumazenil	2556
+Etomidate	2556
+Zolpidem	2556
+Risperidone	3363
+Lisuride	3363
+Aripiprazole lauroxil	3363
+Eletriptan	3363
+Bromocriptine	3363
+Maprotiline	3363
+Paliperidone	3363
+Ergoloid mesylate	3363
+Cyclobenzaprine	3363
+Chlorpromazine	3363
+Clozapine	3363
+Cabergoline	3363
+Zotepine	3363
+Epinastine	3363
+Gilteritinib	3363
+Iloperidone	3363
+Lofexidine	3363
+Amisulpride	3363
+Lurasidone	3363
+Vortioxetine	3363
+Mianserin	3363
+Methysergide	3363
+Amoxapine	3363
+Dopamine	3363
+Amitriptyline	3363
+Dihydroergocornine	3363
+Loxapine	3363
+Dihydroergocristine	3363
+Cyproheptadine	3363
+Asenapine	3363
+Aripiprazole	3363
+Imipramine	3363
+Paroxetine	3363
+Quetiapine	3363
+Haloperidol	3363
+Ziprasidone	3363
+Cannabidiol	1269
+Nabilone	1269
+Lasofoxifene	1269
+Dronabinol	1269
+Protirelin	7201
+Iloprost	5731
+Bupivacaine	5731
+Carboprost tromethamine	5731
+Misoprostol	5731
+Alprostadil	5731
+Dinoprostone	5731
+Bimatoprost	5731
+Corticorelin ovine triflutate	104909134
+Corticorelin ovine triflutate	1394
+Zonisamide	763
+Brinzolamide	763
+Zonisamide	767
+Urea	1499
+Levamlodipine	4843
+Triflusal	4843
+Dipyrithione	4843
+Dexamethasone	4843
+Miconazole	4843
+Citrulline	4843
+Drotrecogin alfa	5269
+Edotreotide gallium Ga-68	6755
+Somatostatin	6755
+Pasireotide	6755
+Octreotide	6755
+Lanreotide	6755
+Lutetium Lu 177 dotatate	6755
+Amoxapine	148
+Methoxamine	148
+Flupentixol	148
+DL-Methylephedrine	148
+Bromocriptine	148
+Tolazoline	148
+Apraclonidine	148
+Sertindole	148
+Haloperidol	148
+Nicergoline	148
+Escitalopram	148
+Phenylephrine	148
+Pseudoephedrine	148
+Asenapine	148
+Thioridazine	148
+Benzphetamine	148
+Pergolide	148
+Epinephrine	148
+Nortriptyline	148
+Desipramine	148
+Ranolazine	148
+Quinidine	148
+Mirtazapine	148
+Paroxetine	148
+Prazosin	148
+Nicardipine	148
+Buspirone	148
+Ergoloid mesylate	148
+Terazosin	148
+Dihydroergocornine	148
+Phendimetrazine	148
+Lamotrigine	148
+Phenoxybenzamine	148
+Olanzapine	148
+Trifluoperazine	148
+Ziprasidone	148
+Xylometazoline	148
+Loxapine	148
+Iloperidone	148
+Silodosin	148
+Amitriptyline	148
+Norepinephrine	148
+Cabergoline	148
+Tamsulosin	148
+Propiverine	148
+Alfuzosin	148
+Imipramine	148
+Pizotifen	148
+Ephedrine	148
+Trimipramine	148
+Lofexidine	148
+Prochlorperazine	148
+Chlorpromazine	148
+Methotrimeprazine	148
+Nefazodone	148
+Dipivefrin	148
+Amphetamine	148
+Trazodone	148
+Dronedarone	148
+Clonidine	148
+Propiomazine	148
+Dextroamphetamine	148
+Epinastine	148
+Doxepin	148
+Mianserin	148
+Aripiprazole lauroxil	148
+Carvedilol	148
+Dobutamine	148
+Tizanidine	148
+Paliperidone	148
+Phentolamine	148
+Doxazosin	148
+Indigotindisulfonic acid	148
+Tetryzoline	148
+Droxidopa	148
+Zuclopenthixol	148
+Metaraminol	148
+Droperidol	148
+Risperidone	148
+Mephentermine	148
+Clozapine	148
+Fenoldopam	148
+Quetiapine	148
+Oxymetazoline	148
+Naphazoline	148
+Ergotamine	148
+Ropinirole	148
+Moxisylyte	148
+Lorpiprazole	148
+Aripiprazole	148
+Dihydroergocristine	148
+Dapiprazole	148
+Racepinephrine	148
+Ergometrine	148
+Labetalol	148
+Promethazine	148
+Midodrine	148
+Promazine	148
+Verapamil	148
+Dosulepin	148
+Maprotiline	148
+Isometheptene	148
+Tolfenamic acid	5743
+Sulindac	5743
+Ibuprofen	5743
+Tiaprofenic acid	5743
+Salicylic acid	5743
+Trolamine salicylate	5743
+Salsalate	5743
+Antrafenine	5743
+Menthyl salicylate	5743
+Bendazac	5743
+Aminosalicylic acid	5743
+Dexketoprofen	5743
+Phenyl salicylate	5743
+Dexibuprofen	5743
+Suprofen	5743
+Piroxicam	5743
+Mesalazine	5743
+Cannabidiol	5743
+Ketorolac	5743
+Ketoprofen	5743
+Fish oil	5743
+Pomalidomide	5743
+Alclofenac	5743
+Thalidomide	5743
+Diflunisal	5743
+Valdecoxib	5743
+Naproxen	5743
+Etodolac	5743
+Resveratrol	5743
+Lenalidomide	5743
+Aceclofenac	5743
+Icosapent	5743
+Ginseng	5743
+Balsalazide	5743
+Lumiracoxib	5743
+Carprofen	5743
+Nabumetone	5743
+Bufexamac	5743
+Antipyrine	5743
+Diclofenac	5743
+Acetylsalicylic acid	5743
+Celecoxib	5743
+Flurbiprofen	5743
+Tenoxicam	5743
+Parecoxib	5743
+Loxoprofen	5743
+Nimesulide	5743
+Meloxicam	5743
+Tolmetin	5743
+Phenylbutazone	5743
+Mefenamic acid	5743
+Rofecoxib	5743
+Adapalene	5743
+Nepafenac	5743
+Oxaprozin	5743
+Etoricoxib	5743
+Indomethacin	5743
+Choline magnesium trisalicylate	5743
+Meclofenamic acid	5743
+Bromfenac	5743
+Dipyrithione	5743
+Acemetacin	5743
+Flufenamic acid	5743
+Acetaminophen	5743
+Lornoxicam	5743
+Sulfasalazine	5743
+Fenoprofen	5743
+Glycol salicylate	5743
+Terfenadine	3269
+Bromodiphenhydramine	3269
+Cyproheptadine	3269
+Amoxapine	3269
+Trimipramine	3269
+Clemastine	3269
+Brompheniramine	3269
+Diphenhydramine	3269
+Betahistine	3269
+Escitalopram	3269
+Cetirizine	3269
+Methotrimeprazine	3269
+Levocabastine	3269
+Zuclopenthixol	3269
+Haloperidol	3269
+Aripiprazole	3269
+Propiomazine	3269
+Lorpiprazole	3269
+Alcaftadine	3269
+Azatadine	3269
+Asenapine	3269
+Aripiprazole lauroxil	3269
+Mirtazapine	3269
+Thonzylamine	3269
+Diphenylpyraline	3269
+Tolazoline	3269
+Pizotifen	3269
+Buclizine	3269
+Dimenhydrinate	3269
+Olopatadine	3269
+Prochlorperazine	3269
+Tripelennamine	3269
+Chlorprothixene	3269
+Emedastine	3269
+Carbinoxamine	3269
+Bilastine	3269
+Dexbrompheniramine	3269
+Chlorpromazine	3269
+Meclizine	3269
+Desloratadine	3269
+Chlorcyclizine	3269
+Butriptyline	3269
+Iloperidone	3269
+Risperidone	3269
+Mepyramine	3269
+Citalopram	3269
+Fexofenadine	3269
+Loratadine	3269
+Ziprasidone	3269
+Antazoline	3269
+Amitriptyline	3269
+Flunarizine	3269
+Bepotastine	3269
+Trazodone	3269
+Promazine	3269
+Methdilazine	3269
+Clofedanol	3269
+Clozapine	3269
+Rupatadine	3269
+Hydroxyzine	3269
+Desipramine	3269
+Dimetindene	3269
+Loxapine	3269
+Alimemazine	3269
+Doxepin	3269
+Olanzapine	3269
+Promethazine	3269
+Pheniramine	3269
+Histamine	3269
+Nortriptyline	3269
+Triprolidine	3269
+Astemizole	3269
+Paliperidone	3269
+Dosulepin	3269
+Levocetirizine	3269
+Azelastine	3269
+Benzatropine	3269
+Paroxetine	3269
+Cinnarizine	3269
+Chlorpheniramine	3269
+Cariprazine	3269
+Phenindamine	3269
+Epinastine	3269
+Imipramine	3269
+Orphenadrine	3269
+Doxylamine	3269
+Dexchlorpheniramine maleate	3269
+Ketotifen	3269
+Mianserin	3269
+Cyclizine	3269
+Lamotrigine	3269
+Acrivastine	3269
+Quetiapine	3269
+Maprotiline	3269
+Terazosin	147
+Dapiprazole	147
+Clonidine	147
+Silodosin	147
+Pergolide	147
+Brexpiprazole	147
+Aripiprazole lauroxil	147
+Dobutamine	147
+Amoxapine	147
+Thioridazine	147
+Pizotifen	147
+Ziprasidone	147
+Chlorpromazine	147
+Mianserin	147
+Bromocriptine	147
+Prazosin	147
+DL-Methylephedrine	147
+Periciazine	147
+Buspirone	147
+Dihydroergocornine	147
+Phendimetrazine	147
+Imipramine	147
+Amitriptyline	147
+Methoxamine	147
+Nefazodone	147
+Propiomazine	147
+Doxazosin	147
+Droxidopa	147
+Dextroamphetamine	147
+Nicardipine	147
+Ergoloid mesylate	147
+Dosulepin	147
+Epinephrine	147
+Methotrimeprazine	147
+Amphetamine	147
+Phenoxybenzamine	147
+Xylometazoline	147
+Doxepin	147
+Labetalol	147
+Aripiprazole	147
+Moxisylyte	147
+Ropinirole	147
+Promazine	147
+Cabergoline	147
+Maprotiline	147
+Ranolazine	147
+Alfuzosin	147
+Quetiapine	147
+Desipramine	147
+Dronedarone	147
+Oxymetazoline	147
+Quinidine	147
+Mirtazapine	147
+Ergotamine	147
+Paroxetine	147
+Prochlorperazine	147
+Sertindole	147
+Carvedilol	147
+Clozapine	147
+Loxapine	147
+Escitalopram	147
+Tamsulosin	147
+Risperidone	147
+Verapamil	147
+Olanzapine	147
+Indigotindisulfonic acid	147
+Trimipramine	147
+Fenoldopam	147
+Lorpiprazole	147
+Racepinephrine	147
+Mephentermine	147
+Phentolamine	147
+Tizanidine	147
+Nortriptyline	147
+Paliperidone	147
+Norepinephrine	147
+Phenylephrine	147
+Midodrine	147
+Dihydroergocristine	147
+Modafinil	147
+Amitriptyline	4988
+Diphenoxylate	4988
+Pentazocine	4988
+Nalmefene	4988
+Remifentanil	4988
+Ketamine	4988
+Sufentanil	4988
+Levallorphan	4988
+Opium	4988
+Fentanyl	4988
+Codeine	4988
+Eluxadoline	4988
+Methadone	4988
+Naloxegol	4988
+Oxymorphone	4988
+Aripiprazole	4988
+Oxycodone	4988
+Naloxone	4988
+Naldemedine	4988
+Butorphanol	4988
+Levorphanol	4988
+Dextropropoxyphene	4988
+Dezocine	4988
+Buprenorphine	4988
+Cannabidiol	4988
+Alvimopan	4988
+Methylnaltrexone	4988
+Diamorphine	4988
+Pentoxyverine	4988
+Tramadol	4988
+Loperamide	4988
+Pholcodine	4988
+Ondansetron	4988
+Meperidine	4988
+Alfentanil	4988
+Nalbuphine	4988
+Tapentadol	4988
+Trimebutine	4988
+Hydromorphone	4988
+Morphine	4988
+Hydrocodone	4988
+Levacetylmethadol	4988
+Dextromethorphan	4988
+Naltrexone	4988
+Anileridine	4988
+Cholesterol	6095
+Misoprostol	5734
+Castor oil	5734
+Dinoprostone	5734
+Ropinirole	1814
+Pergolide	1814
+Buspirone	1814
+Paliperidone	1814
+Haloperidol	1814
+Olanzapine	1814
+Bromocriptine	1814
+Amisulpride	1814
+Yohimbine	1814
+Sulpiride	1814
+Aripiprazole lauroxil	1814
+Pramipexole	1814
+Ziprasidone	1814
+Dopamine	1814
+Amoxapine	1814
+Asenapine	1814
+Risperidone	1814
+Dihydro-alpha-ergocryptine	1814
+Cabergoline	1814
+Rotigotine	1814
+Aripiprazole	1814
+Clozapine	1814
+Ergoloid mesylate	1814
+Methotrimeprazine	1814
+Quetiapine	1814
+Loxapine	1814
+Domperidone	1814
+Epicriptine	1814
+Chlorpromazine	1814
+Pimozide	1814
+Mianserin	1814
+Chlorprothixene	1814
+Remoxipride	1814
+Dihydroergocristine	1814
+Iloperidone	1814
+Apomorphine	1814
+Levodopa	1814
+Lisuride	1814
+Cariprazine	1814
+Propoxycaine	6323
+Phenytoin	6323
+Phenazopyridine	6323
+Oxcarbazepine	6323
+Amylocaine	6323
+Phenacemide	6323
+Topiramate	6323
+Fish oil	6323
+Tetracaine	6323
+Ranolazine	6323
+Pentoxyverine	6323
+Zonisamide	6323
+Bioallethrin	6323
+Permethrin	6323
+Pramocaine	6323
+Brivaracetam	6323
+Carbamazepine	6323
+Valproic acid	6323
+Dichlorobenzyl alcohol	6323
+Nitrazepam	6323
+Oxcarbazepine	6329
+Flecainide	6329
+Lidocaine	6329
+Pramocaine	6329
+Bioallethrin	6329
+Tetracaine	6329
+Propoxycaine	6329
+Ranolazine	6329
+Dichlorobenzyl alcohol	6329
+Valproic acid	6329
+Carbamazepine	6329
+Propofol	6329
+Zonisamide	6329
+Pentoxyverine	6329
+Fish oil	6329
+Brivaracetam	6329
+Parachlorophenol	6329
+Amylocaine	6329
+Topiramate	6329
+Pyridoxal phosphate	875
+Ademetionine	875
+Cysteine	875
+Zinc acetate	3857
+Zinc	3857
+Copper	3857
+Zinc chloride	3857
+Calcium phosphate dihydrate	2201
+Calcium Phosphate	2201
+Calcium Citrate	2201
+Fostamatinib	7075
+Ezetimibe	6646
+Glutathione	2745
+Zinc acetate	3483
+Zinc chloride	3483
+Copper	3483
+Zinc	3483
+Mexiletine	196
+Resveratrol	196
+Flutamide	196
+Indigotindisulfonic acid	196
+Ginseng	196
+Nimodipine	196
+Cantharidin	196
+Diosmin	196
+Omeprazole	196
+Atorvastatin	196
+Leflunomide	196
+Zinc	3849
+Zinc chloride	3849
+Copper	3849
+Anthralin	3849
+Zinc acetate	3849
+Caffeine	5158
+Sunitinib	2324
+Fostamatinib	2324
+Sorafenib	2324
+Regorafenib	2324
+Axitinib	2324
+Pazopanib	2324
+Nintedanib	2324
+Lenvatinib	2324
+Midostaurin	3791
+Fostamatinib	3791
+Nintedanib	3791
+Regorafenib	3791
+Sorafenib	3791
+Ponatinib	3791
+Axitinib	3791
+Pazopanib	3791
+Cabozantinib	3791
+Lenvatinib	3791
+Ramucirumab	3791
+Erdafitinib	3791
+Sunitinib	3791
+Pyruvic acid	6567
+Tagraxofusp	402
+Binimetinib	5605
+Fostamatinib	5605
+Bosutinib	5605
+Trametinib	5605
+Tubocurarine	1139
+Amantadine	1139
+Secobarbital	1139
+Primidone	1139
+Galantamine	1139
+Pentobarbital	1139
+Methylphenobarbital	1139
+Acetylcholine	1139
+Phenobarbital	1139
+Varenicline	1139
+Thiopental	1139
+Nicotine	1139
+Dextromethorphan	1139
+Ethanol	1139
+Amobarbital	1139
+Cannabidiol	1139
+Choline	1139
+Mecamylamine	1139
+Butobarbital	1139
+Butabarbital	1139
+Choline salicylate	1139
+Methadone	1139
+Talbutal	1139
+Butalbital	1139
+Midostaurin	2322
+Nintedanib	2322
+Sorafenib	2322
+Ponatinib	2322
+Fedratinib	2322
+Pexidartinib	2322
+Fostamatinib	2322
+Brigatinib	2322
+Sunitinib	2322
+Gilteritinib	2322
+Dibotermin alfa	657
+Fostamatinib	91
+Fostamatinib	7046
+Copper	5176
+Fish oil	6720
+Omega-3-acid ethyl esters	6720
+Omega-3 fatty acids	6720
+Doconexent	6720
+Glutathione	2879
+NADH	3293
+Estradiol benzoate	3294
+Estradiol acetate	3294
+Estradiol dienanthate	3294
+Estradiol valerate	3294
+NADH	3294
+Estradiol cypionate	3294
+Estradiol	3294
+Triamterene	6337
+Amiloride	6337
+Foreskin fibroblast (neonatal)	7048
+Foreskin keratinocyte (neonatal)	7048
+Fostamatinib	7048
+Glycerin	7048
+Flufenamic acid	5468
+Curcumin	5468
+Telmisartan	5468
+Rosiglitazone	5468
+Oleic Acid	5468
+Indomethacin	5468
+Repaglinide	5468
+Fenofibric acid	5468
+Fish oil	5468
+Resveratrol	5468
+Omega-3 fatty acids	5468
+Doconexent	5468
+Amiodarone	5468
+Bezafibrate	5468
+Triclosan	5468
+alpha-Linolenic acid	5468
+Icosapent	5468
+Balsalazide	5468
+Ibuprofen	5468
+Nateglinide	5468
+Fenoprofen	5468
+Troglitazone	5468
+Sulfasalazine	5468
+Valproic acid	5468
+Pioglitazone	5468
+Glipizide	5468
+Dexibuprofen	5468
+Cannabidiol	5468
+Mesalazine	5468
+Vasopressin	552
+Lypressin	552
+Tolvaptan	552
+Conivaptan	552
+Atosiban	552
+Desmopressin	552
+Terlipressin	552
+Copper	6622
+Resveratrol	6622
+Phylloquinone	2677
+Glutamic acid	2677
+Drotrecogin alfa	2677
+Menadione	2677
+Kappadione	2677
+Coagulation factor VIIa Recombinant Human	2677
+Coagulation Factor IX (Recombinant)	2677
+Coagulation Factor IX Human	2677
+Anisindione	2677
+Interferon gamma-1b	3460
+Alendronic acid	523
+Etidronic acid	523
+Tiludronic acid	523
+Arsenic trioxide	1026
+Omacetaxine mepesuccinate	6122
+Xanthinol	6122
+Topiramate	2897
+Glutamic acid	2897
+Ferrous succinate	2237
+Ferrous fumarate	2237
+Ferrous glycine sulfate	2237
+Ferrous gluconate	2237
+Iron	2237
+Ferrous ascorbate	2237
+Acetohydroxamic acid	4321
+Chondroitin sulfate	2668
+Avatrombopag	4352
+Romiplostim	4352
+Eltrombopag	4352
+Lusutrombopag	4352
+Polatuzumab vedotin	974
+Niacin	4837
+Carfilzomib	5699
+NADH	131
+NADH	4190
+NADH	4191
+Xanthinol	4191
+Citric acid	4191
+Cefazolin	3600
+NADH	3030
+Ketamine	4985
+Codeine	4985
+Remifentanil	4985
+Oxycodone	4985
+Alvimopan	4985
+Loperamide	4985
+Eluxadoline	4985
+Sufentanil	4985
+Morphine	4985
+Naloxone	4985
+Pholcodine	4985
+Naldemedine	4985
+Buprenorphine	4985
+Butorphanol	4985
+Tramadol	4985
+Dextromethorphan	4985
+Tapentadol	4985
+Oxymorphone	4985
+Methadone	4985
+Hydrocodone	4985
+Amitriptyline	4985
+Diamorphine	4985
+Fentanyl	4985
+Levorphanol	4985
+Aripiprazole	4985
+Cannabidiol	4985
+Opium	4985
+Nalmefene	4985
+Dextropropoxyphene	4985
+Nalbuphine	4985
+Naltrexone	4985
+Diphenoxylate	4985
+Hydromorphone	4985
+Meperidine	4986
+Sufentanil	4986
+Fentanyl	4986
+Codeine	4986
+Remifentanil	4986
+Loperamide	4986
+Eluxadoline	4986
+Tramadol	4986
+Methylnaltrexone	4986
+Naltrexone	4986
+Aripiprazole	4986
+Alvimopan	4986
+Progesterone	4986
+Buprenorphine	4986
+Pentazocine	4986
+Ketamine	4986
+Oxycodone	4986
+Atomoxetine	4986
+Hydromorphone	4986
+Naldemedine	4986
+Morphine	4986
+Opium	4986
+Levomenthol	4986
+Lamotrigine	4986
+Naloxone	4986
+Pholcodine	4986
+Dextromethorphan	4986
+Mirtazapine	4986
+Nalbuphine	4986
+Amitriptyline	4986
+Dezocine	4986
+Dextropropoxyphene	4986
+Butorphanol	4986
+Tapentadol	4986
+Nalmefene	4986
+Pentoxyverine	4986
+Diamorphine	4986
+Mianserin	4986
+Levorphanol	4986
+Buprenorphine	4987
+Cinacalcet	846
+Calcium phosphate dihydrate	846
+Etelcalcetide	846
+Calcium Citrate	846
+Neomycin	846
+Calcium Phosphate	846
+Lauric acid	3172
+Dasatinib	1445
+Fostamatinib	1445
+Glycine	2617
+Folic acid	2352
+Acamprosate	2915
+Rufinamide	2915
+Chlorpromazine	3357
+Methylergometrine	3357
+Aripiprazole	3357
+Bromocriptine	3357
+Clomipramine	3357
+Yohimbine	3357
+Dihydroergotamine	3357
+Triflupromazine	3357
+Eletriptan	3357
+Pergolide	3357
+Dihydroergocristine	3357
+Ergoloid mesylate	3357
+Cariprazine	3357
+Cyclobenzaprine	3357
+Gilteritinib	3357
+Ergotamine	3357
+Amoxapine	3357
+Minaprine	3357
+Fenfluramine	3357
+Paroxetine	3357
+Doxepin	3357
+Apomorphine	3357
+Tegaserod	3357
+Cabergoline	3357
+Pizotifen	3357
+Asenapine	3357
+Mianserin	3357
+Lisuride	3357
+Methysergide	3357
+Ketamine	3357
+Dihydroergocornine	3357
+Chlorprothixene	3357
+Tamoxifen	5584
+Fostamatinib	5584
+Bremelanotide	4159
+Antithymocyte immunoglobulin (rabbit)	942
+Belatacept	942
+Abatacept	942
+Perampanel	2890
+Ethanol	2890
+Glutamic acid	2890
+Sevoflurane	2890
+Desflurane	2890
+Fluciclovine (18F)	2890
+Methoxyflurane	2890
+Isoflurane	2890
+Enflurane	2890
+Amobarbital	2891
+Thiopental	2891
+Pentobarbital	2891
+Butalbital	2891
+Primidone	2891
+Fluciclovine (18F)	2891
+Butabarbital	2891
+Ethanol	2891
+Quinidine barbiturate	2891
+Phenobarbital	2891
+Talbutal	2891
+Secobarbital	2891
+Glutamic acid	2891
+Butobarbital	2891
+Methylphenobarbital	2891
+Lithium carbonate	2892
+Ethanol	2892
+Fluciclovine (18F)	2892
+Glutamic acid	2892
+Lithium citrate	2892
+NADH	8644
+Rutin	8644
+Indomethacin	8644
+Flufenamic acid	8644
+Copanlisib	5290
+Alpelisib	5290
+Caffeine	5290
+Caffeine	5291
+Everolimus	2475
+Sirolimus	2475
+Temsirolimus	2475
+Fostamatinib	2475
+Pimecrolimus	2475
+Acetylsalicylic acid	836
+Minocycline	836
+Glycyrrhizic acid	836
+Fostamatinib	4145
+Zanubrutinib	7006
+Fostamatinib	7006
+Zanubrutinib	7294
+Fostamatinib	7294
+Dasatinib	27
+Fostamatinib	27
+Fostamatinib	2444
+Dasatinib	2444
+Regorafenib	2444
+Zanubrutinib	2444
+Copper	3064
+Cyanocobalamin	4524
+Glutamic acid	6507
+Glutamic acid	6506
+Aspartic acid	6505
+Glutamic acid	6505
+Isopropyl alcohol	8200
+Latanoprostene bunod	5737
+Dinoprost tromethamine	5737
+Travoprost	5737
+Latanoprost	5737
+Bimatoprost	5737
+Tafluprost	5737
+Bimatoprost	5733
+Misoprostol	5733
+Castor oil	5733
+Gemeprost	5733
+Dinoprostone	5733
+Dinoprostone	5732
+Alprostadil	5732
+Misoprostol	5732
+Gemeprost	5732
+Treprostinil	5739
+Epoprostenol	5739
+Selexipag	5739
+Dinoprost tromethamine	5739
+Iloprost	5739
+Levocarnitine	1384
+Zonisamide	766
+Methazolamide	766
+Diclofenamide	766
+Acetazolamide	766
+Semaglutide	2740
+Liraglutide	2740
+Exenatide	2740
+Lixisenatide	2740
+Glucagon	2740
+Albiglutide	2740
+Dulaglutide	2740
+NADH	221
+Fostamatinib	7535
+Fostamatinib	6850
+Copper	5902
+Copper	173
+Butalbital	1137
+Amantadine	1137
+Primidone	1137
+Isoflurane	1137
+Galantamine	1137
+Amobarbital	1137
+Pentobarbital	1137
+Estradiol dienanthate	1137
+Butabarbital	1137
+Physostigmine	1137
+Atropine	1137
+Nicotine	1137
+Methadone	1137
+Thiopental	1137
+Methylphenobarbital	1137
+Varenicline	1137
+Estradiol cypionate	1137
+Decamethonium	1137
+Ethanol	1137
+Butobarbital	1137
+Scopolamine	1137
+Estradiol	1137
+Dextromethorphan	1137
+Phenobarbital	1137
+Carbamazepine	1137
+Secobarbital	1137
+Estradiol benzoate	1137
+Talbutal	1137
+Estradiol valerate	1137
+Estradiol acetate	1137
+Mecamylamine	1137
+Zinc acetate	443
+Zinc	443
+Zinc chloride	443
+Aspartic acid	443
+Valproic acid	36
+Copper	23468
+Tamoxifen	5599
+Fostamatinib	5601
+Benzoic acid	6564
+Ceftriaxone	6564
+Benzylpenicillin	6564
+Oxacillin	6564
+Dexibuprofen	6564
+Ampicillin	6564
+Phenoxymethylpenicillin	6564
+Cefotaxime	6564
+Ethanol	3359
+Tapentadol	3359
+Methadone	3359
+Dolasetron	3359
+Ergoloid mesylate	3359
+Memantine	3359
+Olanzapine	3359
+Quetiapine	3359
+Clozapine	3359
+Trimipramine	3359
+Loxapine	3359
+Aripiprazole lauroxil	3359
+Amoxapine	3359
+Ziprasidone	3359
+Alosetron	3359
+Tropisetron	3359
+Dopamine	3359
+Dihydroergocristine	3359
+Cisapride	3359
+Rocuronium	3359
+Paroxetine	3359
+Ketamine	3359
+Metoclopramide	3359
+Ondansetron	3359
+Tubocurarine	3359
+Aripiprazole	3359
+Bupropion	3359
+Cannabidiol	3359
+Granisetron	3359
+Palonosetron	3359
+Procaine	3359
+Vortioxetine	3359
+Lamotrigine	3359
+Dihydroergocornine	3359
+Gilteritinib	3359
+Chloroprocaine	3359
+Glutathione	2949
+Melatonin	438
+Enalaprilat	623
+Zinc	623
+Zinc chloride	623
+Ramipril	623
+Zinc acetate	623
+Captopril	623
+Fostamatinib	5606
+Zinc chloride	79184
+Zinc	79184
+Zinc acetate	79184
+Zinc	7402
+Zinc acetate	7402
+Zinc chloride	7402
+Fluticasone propionate	5321
+Fluticasone	5321
+Procaine	5321
+Cannabidiol	2835
+Eszopiclone	2555
+Glutethimide	2555
+Butobarbital	2555
+Triazolam	2555
+Talbutal	2555
+Butabarbital	2555
+Amoxapine	2555
+Estazolam	2555
+Pentobarbital	2555
+Flurazepam	2555
+Secobarbital	2555
+Alprazolam	2555
+Chlordiazepoxide	2555
+Diazepam	2555
+Memantine	2555
+Stiripentol	2555
+Medroxyprogesterone acetate	2555
+Zopiclone	2555
+Bromazepam	2555
+Halazepam	2555
+Desflurane	2555
+Primidone	2555
+Quazepam	2555
+Nitrazepam	2555
+Meprobamate	2555
+Lamotrigine	2555
+Amobarbital	2555
+Prazepam	2555
+Methoxyflurane	2555
+Clobazam	2555
+Butalbital	2555
+Ethanol	2555
+Isoflurane	2555
+Zolpidem	2555
+Ethchlorvynol	2555
+Thiopental	2555
+Clonazepam	2555
+Enflurane	2555
+Olanzapine	2555
+Phenytoin	2555
+Clorazepic acid	2555
+Flunitrazepam	2555
+Halothane	2555
+Propofol	2555
+Oxazepam	2555
+Methyprylon	2555
+Prasterone	2555
+Lorazepam	2555
+Methylphenobarbital	2555
+Brexanolone	2555
+Sevoflurane	2555
+Etomidate	2555
+Quinidine barbiturate	2555
+Acamprosate	2555
+Clotiazepam	2555
+Apalutamide	2555
+Midazolam	2555
+Taurine	2555
+Temazepam	2555
+Flumazenil	2555
+Lormetazepam	2555
+Amoxapine	2561
+Memantine	2561
+Ethchlorvynol	2561
+Prasterone	2561
+Phenytoin	2561
+Oxazepam	2561
+Flumazenil	2561
+Propofol	2561
+Clonazepam	2561
+Ethanol	2561
+Flurazepam	2561
+Estazolam	2561
+Temazepam	2561
+Stiripentol	2561
+Methoxyflurane	2561
+Lorazepam	2561
+Halothane	2561
+Primidone	2561
+Clotiazepam	2561
+Pentobarbital	2561
+Quazepam	2561
+Butalbital	2561
+Brexanolone	2561
+Sevoflurane	2561
+Apalutamide	2561
+Etomidate	2561
+Clobazam	2561
+Lamotrigine	2561
+Triazolam	2561
+Clorazepic acid	2561
+Diazepam	2561
+Meprobamate	2561
+Carisoprodol	2561
+Bromazepam	2561
+Acamprosate	2561
+Methyprylon	2561
+Desflurane	2561
+Halazepam	2561
+Alprazolam	2561
+Chlordiazepoxide	2561
+Talbutal	2561
+Glutethimide	2561
+Ginkgo biloba	2561
+Nitrazepam	2561
+Isoflurane	2561
+Prazepam	2561
+Eszopiclone	2561
+Butabarbital	2561
+Enflurane	2561
+Medroxyprogesterone acetate	2561
+Fospropofol	2561
+Taurine	2561
+Glucagon	2642
+Secretin human	6344
+Vitamin A	220
+NADH	220
+Aripiprazole	3361
+Asenapine	3361
+Loxapine	3361
+Vasopressin	553
+Terlipressin	553
+Desmopressin	553
+Lypressin	553
+Atosiban	553
+Silver	84560
+Flavin adenine dinucleotide	7498
+Levocarnitine	7498
+Febuxostat	7498
+Allopurinol	7498
+Creatine	6535
+Resveratrol	4543
+Agomelatine	4543
+Ramelteon	4543
+Tasimelteon	4543
+Melatonin	4543
+Minoxidil	3758
+Bethanidine	3758
+Tolbutamide	3758
+Acetohexamide	3758
+Glimepiride	3758
+Yohimbine	3758
+Glymidine	3758
+Butamben	3758
+Dronedarone	3761
+Ranolazine	3761
+Carvedilol	3761
+Isavuconazole	3763
+Halothane	3763
+Ethanol	3763
+Fluciclovine (18F)	2893
+Ethanol	2893
+Glutamic acid	2893
+Tinzaparin	6387
+Glycine	6536
+NADH	4199
+Cannabidiol	2743
+Glycine	2743
+Memantine	2743
+Enflurane	2743
+Lindane	2743
+Lamotrigine	2557
+Stiripentol	2557
+Prazepam	2557
+Alprazolam	2557
+Taurine	2557
+Chlordiazepoxide	2557
+Amobarbital	2557
+Methoxyflurane	2557
+Sevoflurane	2557
+Secobarbital	2557
+Clonazepam	2557
+Flurazepam	2557
+Phenytoin	2557
+Butalbital	2557
+Flunitrazepam	2557
+Primidone	2557
+Triazolam	2557
+Midazolam	2557
+Ethchlorvynol	2557
+Pentobarbital	2557
+Methyprylon	2557
+Prasterone	2557
+Thiopental	2557
+Estazolam	2557
+Temazepam	2557
+Enflurane	2557
+Olanzapine	2557
+Butabarbital	2557
+Brexanolone	2557
+Acamprosate	2557
+Apalutamide	2557
+Talbutal	2557
+Ethanol	2557
+Eszopiclone	2557
+Bromazepam	2557
+Halazepam	2557
+Butobarbital	2557
+Glutethimide	2557
+Desflurane	2557
+Oxazepam	2557
+Clorazepic acid	2557
+Propofol	2557
+Meprobamate	2557
+Lorazepam	2557
+Etomidate	2557
+Amoxapine	2557
+Clobazam	2557
+Memantine	2557
+Flumazenil	2557
+Medroxyprogesterone acetate	2557
+Diazepam	2557
+Nitrazepam	2557
+Quazepam	2557
+Halothane	2557
+Isoflurane	2557
+Methylphenobarbital	2557
+Metreleptin	3953
+Tretinoin	6258
+Acitretin	6258
+Rosiglitazone	6258
+Alitretinoin	6258
+Bexarotene	6258
+Doconexent	6258
+Adapalene	6258
+Bezafibrate	6258
+Calcium carbimide	222
+NADH	222
+Cysteine	2729
+Glutamic acid	2729
+Glutamic acid	2730
+Cysteine	2730
+Ethanol	3762
+Dalfampridine	3746
+Ethanol	3760
+Atomoxetine	3760
+Halothane	3760
+Dronedarone	3760
+Interferon beta-1b	3455
+Interferon alfa-n1	3455
+Peginterferon alfa-2b	3455
+Nylidrin	3455
+Interferon beta-1a	3455
+Interferon alfacon-1	3455
+Interferon alfa-n3	3455
+Interferon alfa-2b	3455
+Interferon alfa-2a, Recombinant	3455
+Peginterferon alfa-2a	3455
+Acetylcysteine	2937
+Cysteine	2937
+Copper	2937
+Glutathione	2937
+Glycine	2937
+Phosphatidyl serine	9791
+Glutamic acid	6511
+Copper	6782
+NADH	275
+Fostamatinib	1452
+Enasidenib	3418
+Duvelisib	5294
+Fostamatinib	5294
+Insulin pork	4856
+Tenapanor	6550
+Inositol nicotinate	8843
+Niacin	8843
+Cyclosporine	819
+Cysteamine	4887
+NADH	223
+Parathyroid hormone	5746
+Moroctocog alfa	3998
+Antihemophilic factor, human recombinant	3998
+Lonoctocog alfa	3998
+Melatonin	4544
+Resveratrol	4544
+Tasimelteon	4544
+Ramelteon	4544
+Agomelatine	4544
+Orlistat	2194
+Zinc chloride	7284
+Zinc acetate	7284
+Zinc	7284
+NADH	501
+Glutamic acid	2747
+NADH	2747
+Choline salicylate	5130
+Choline	5130
+Cysteine	833
+Phosphatidyl serine	1608
+Carfilzomib	5690
+Calcium	1311
+Fostamatinib	1195
+Fostamatinib	1196
+Fostamatinib	1198
+Aflibercept	5228
+Aflibercept	7423
+Adenosine phosphate	3094
+Tretinoin	5918
+Fructose	2272
+NADH	4723
+Fostamatinib	2931
+Fostamatinib	2932
+Lithium citrate	2932
+Lithium carbonate	2932
+Cyclizine	6783
+Ribavirin	22978
+Zinc	6414
+Zinc acetate	6414
+Zinc chloride	6414
+Glutamic acid	8833
+Bleomycin	3980
+Amodiaquine	3176
+Chlorhexidine	3176
+NADH	3419
+Copper	3419
+Manganese	3419
+Xanthinol	3419
+Dihydroergocornine	3362
+Chlorpromazine	3362
+Iloperidone	3362
+Doxepin	3362
+Imipramine	3362
+Aripiprazole	3362
+Nortriptyline	3362
+Asenapine	3362
+Sertindole	3362
+Gilteritinib	3362
+Paroxetine	3362
+Amoxapine	3362
+Ergoloid mesylate	3362
+Olanzapine	3362
+Zotepine	3362
+Aripiprazole lauroxil	3362
+Amitriptyline	3362
+Mianserin	3362
+Cyclobenzaprine	3362
+Clozapine	3362
+Loxapine	3362
+Ziprasidone	3362
+Dihydroergocristine	3362
+Quetiapine	3362
+Haloperidol	3362
+Glyburide	1374
+Perhexiline	1374
+Levocarnitine	1374
+Glycine	2628
+Ornithine	2628
+gamma-Aminobutyric acid	2628
+Raloxifene	5272
+D-Methionine	10988
+Methionine	10988
+Biotin	3141
+Palmitic Acid	5538
+Ouabain	477
+Benzoic acid	9367
+Caffeine	5146
+Taurocholic acid	2172
+Cholic Acid	2172
+Dexlansoprazole	496
+Triamterene	6338
+Amiloride	6338
+Triamterene	6340
+Amiloride	6340
+Triamterene	6339
+Amiloride	6339
+Zanubrutinib	640
+Fostamatinib	640
+Manganese	3421
+NADH	3421
+Olsalazine	7172
+N-Acetylglucosamine	5973
+Fostamatinib	3654
+NADH	224
+Succinic acid	7915
+NADH	7915
+Chlormerodrin	7915
+Valproic acid	7915
+NADH	3295
+Maraviroc	1234
+Ibalizumab	1234
+Dasatinib	6777
+Zinc	333
+Zinc acetate	333
+Copper	333
+Zinc chloride	333
+Dronedarone	3784
+Bepridil	3784
+Isavuconazole	3784
+Lubiprostone	1181
+Acetylsalicylic acid	6197
+Fostamatinib	6197
+Fostamatinib	660
+Zanubrutinib	660
+Dexamethasone	190
+Tretinoin	190
+Azelaic acid	6718
+Finasteride	6718
+Copper	3068
+Copper	4060
+Fostamatinib	4751
+Fostamatinib	4752
+Fostamatinib	6787
+NADH	4702
+Dacarbazine	5226
+Gadopentetic acid	5226
+Ketotifen	5226
+Zanubrutinib	3718
+Fostamatinib	3718
+Baricitinib	3718
+Tofacitinib	3718
+Fostamatinib	5608
+L-Lysine	6542
+Ornithine	6542
+Benzoic acid	10247
+Ursodeoxycholic acid	1646
+NADH	1646
+Chenodeoxycholic acid	1646
+NADH	644
+Fostamatinib	5347
+Fostamatinib	1612
+Succinic acid	8802
+Fostamatinib	3984
+Dabrafenib	3984
+Fostamatinib	3985
+Fostamatinib	5602
+Dipyridamole	1827
+Pyruvic acid	6566
+Reserpine	6570
+Norepinephrine	6570
+Metamfetamine	6570
+Nimodipine	784
+Fish oil	784
+Phenytoin	784
+Bioallethrin	784
+Levomenthol	784
+Lacidipine	784
+Topiramate	784
+Ergocalciferol	784
+Trimebutine	784
+Ranolazine	784
+Manidipine	784
+Spironolactone	784
+Dronedarone	784
+Butamben	784
+Nifedipine	781
+Felodipine	781
+Bioallethrin	781
+Nitrendipine	781
+Nisoldipine	781
+Ibutilide	781
+Gabapentin enacarbil	781
+Pregabalin	781
+Gabapentin	781
+Ergocalciferol	781
+Spironolactone	781
+Isradipine	781
+Cyclandelate	781
+Nilvadipine	781
+Magnesium sulfate	781
+Butamben	781
+Nicardipine	781
+Ornithine	4946
+Tyrosine	8565
+Resveratrol	8565
+Acetylsalicylic acid	5571
+Fostamatinib	5571
+Fostamatinib	5563
+Acetylsalicylic acid	5563
+Glutamic acid	586
+Valine	586
+Pyridoxal phosphate	586
+Cyclothiazide	486
+Thimerosal	486
+Felodipine	5136
+Caffeine	5136
+Bepridil	5136
+Nicardipine	5136
+Dasatinib	2044
+Fostamatinib	2044
+Fostamatinib	2050
+Dasatinib	2050
+Fostamatinib	2047
+Fostamatinib	2043
+N-Acetylglucosamine	4669
+Glutamic acid	5832
+Potassium chloride	6558
+Torasemide	6558
+Bumetanide	6558
+Quinethazone	6558
+Diazoxide	6559
+Benzthiazide	6559
+Quinethazone	6559
+Bendroflumethiazide	6559
+Metolazone	6559
+Trichlormethiazide	6559
+Hydrochlorothiazide	6559
+Indapamide	6559
+Chlorothiazide	6559
+Polythiazide	6559
+Diacerein	7376
+Iopodic acid	1735
+Lomitapide	4547
+Adenosine phosphate	132
+Flavin adenine dinucleotide	2671
+Succinic acid	5019
+Ubidecarenone	4731
+NADH	4731
+Cladribine	5427
+Romidepsin	9759
+Belinostat	9759
+Zinc chloride	9759
+Panobinostat	9759
+Zinc acetate	9759
+Zinc	9759
+Copper	3692
+NADH	4700
+Ezogabine	9132
+NADH	51478
+Fostamatinib	150094
+Dabrafenib	150094
+Fostamatinib	54101
+Halothane	54331
+Glutathione	257202
+Zinc chloride	7167
+Zinc	7167
+Zinc acetate	7167
+Cefazolin	3558
+Pseudoephedrine	3558
+keyhole limpet hemocyanin	3558
+Copper	1973
+Botulinum toxin type A	6616
+Fluoxetine	1163
+Mogamulizumab	7852
+Ibalizumab	7852
+Plerixafor	7852
+Framycetin	7852
+Cysteamine	6750
+Propyl alcohol	4069
+Sucrose	4069
+Aspartic acid	4069
+Copper	567
+Calcium phosphate dihydrate	23413
+Calcium Phosphate	23413
+Calcium Citrate	23413
+Citric acid	11157
+Estradiol valerate	2104
+Estradiol acetate	2104
+Diethylstilbestrol	2104
+Cholic Acid	2104
+Estradiol benzoate	2104
+Tamoxifen	2104
+Estradiol	2104
+Estradiol cypionate	2104
+Estradiol dienanthate	2104
+Troglitazone	2104
+alpha-Tocopherol succinate	5516
+Vitamin E	5516
+D-alpha-Tocopherol acetate	5516
+Botulinum toxin type A	388
+Copper	8346
+Copper	8347
+Copper	8339
+Copper	8344
+Copper	8343
+Cyclosporine	5478
+Copper	5478
+Pimecrolimus	2280
+Tacrolimus	2280
+Sirolimus	2280
+Spironolactone	59284
+Butamben	59284
+Ergocalciferol	59284
+Bioallethrin	59284
+Pegademase	2885
+Azathioprine	5879
+Dextromethorphan	5879
+Botulinum Toxin Type B	6844
+Copper	10399
+Carvedilol	3759
+Dronedarone	3759
+Ranolazine	3759
+Copper	71
+Calcium	7134
+Bepridil	7134
+Levosimendan	7134
+Trifluoperazine	7134
+Felodipine	7134
+Vitamin E	5515
+D-alpha-Tocopherol acetate	5515
+alpha-Tocopherol succinate	5515
+Zinc chloride	1915
+Zinc acetate	1915
+Zinc	1915
+Copper	1915
+Sucrose	58
+Podofilox	7277
+Cabazitaxel	7277
+Vincristine	7277
+Albendazole	10383
+Mebendazole	10383
+Resveratrol	1457
+Fostamatinib	1457
+Zinc	3043
+Zinc chloride	3043
+Ferric pyrophosphate citrate	3043
+Nitrous acid	3043
+Zinc acetate	3043
+Copper	3043
+Oxygen	3043
+Sodium ferric gluconate complex	3043
+Iron Dextran	3043
+Pentaerythritol tetranitrate	3043
+Copper	3040
+Copper	3039
+Zinc acetate	3040
+Zinc acetate	3039
+Oxygen	3040
+Oxygen	3039
+Ferrous ascorbate	3040
+Ferrous ascorbate	3039
+Mefloquine	3040
+Mefloquine	3039
+Ferric pyrophosphate citrate	3040
+Ferric pyrophosphate citrate	3039
+Zinc	3040
+Zinc	3039
+Iron sucrose	3040
+Iron sucrose	3039
+Nitrous acid	3040
+Nitrous acid	3039
+Iron Dextran	3040
+Iron Dextran	3039
+Ferrous fumarate	3040
+Ferrous fumarate	3039
+Pentaerythritol tetranitrate	3040
+Pentaerythritol tetranitrate	3039
+Zinc chloride	3040
+Zinc chloride	3039
+Ferrous glycine sulfate	3040
+Ferrous glycine sulfate	3039
+Voxelotor	3040
+Voxelotor	3039
+Iron	3040
+Iron	3039
+Sodium ferric gluconate complex	3040
+Sodium ferric gluconate complex	3039
+Ferrous gluconate	3040
+Ferrous gluconate	3039
+Ferrous succinate	3040
+Ferrous succinate	3039
+Zinc acetate	5723
+Zinc chloride	5723
+Zinc	5723
+Sevoflurane	2564
+Ethanol	2564
+Methoxyflurane	2564
+Enflurane	2564
+Estazolam	2564
+Prazepam	2564
+Eszopiclone	2564
+Methyprylon	2564
+Memantine	2564
+Lamotrigine	2564
+Brexanolone	2564
+Clonazepam	2564
+Flurazepam	2564
+Amoxapine	2564
+Desflurane	2564
+Isoflurane	2564
+Pentobarbital	2564
+Temazepam	2564
+Halazepam	2564
+Clorazepic acid	2564
+Bromazepam	2564
+Butabarbital	2564
+Prasterone	2564
+Triazolam	2564
+Ketazolam	2564
+Diazepam	2564
+Glutethimide	2564
+Primidone	2564
+Acamprosate	2564
+Quazepam	2564
+Alprazolam	2564
+Taurine	2564
+Propofol	2564
+Oxazepam	2564
+Chlordiazepoxide	2564
+Lorazepam	2564
+Phenytoin	2564
+Flumazenil	2564
+Butalbital	2564
+Medroxyprogesterone acetate	2564
+Ethchlorvynol	2564
+Apalutamide	2564
+Stiripentol	2564
+Clobazam	2564
+Clotiazepam	2564
+Meprobamate	2564
+Talbutal	2564
+Etomidate	2564
+Nitrazepam	2564
+Halothane	2564
+Amiloride	41
+Guanidine	1742
+Fostamatinib	8396
+Adenine	6733
+Glutathione	9446
+Yohimbine	3766
+Butamben	3766
+Caffeine	5591
+Ornithine	384
+Estramustine	4130
+Coccidioides immitis spherule	3125
+Pidolic acid	6355
+Fostamatinib	4293
+Silver	4496
+Silver	4501
+Calcium Phosphate	4925
+Calcium Citrate	4925
+Calcium phosphate dihydrate	4925
+Hydrocortisone acetate	3291
+NADH	3291
+Hydrocortisone butyrate	3291
+Hydrocortisone cypionate	3291
+Hydrocortisone phosphate	3291
+Hydrocortisone valerate	3291
+Fluoxymesterone	3291
+Hydrocortisone probutate	3291
+Glutamic acid	18
+Pyridoxal phosphate	18
+Pyruvic acid	18
+Phenelzine	18
+Vigabatrin	18
+Olopatadine	6283
+Amlexanox	6283
+Zinc chloride	117159
+Zinc	117159
+Zinc acetate	117159
+Cystine	11136
+Glycerin	375
+Hyaluronic acid	7130
+Acetylsalicylic acid	7130
+Donepezil	7130
+Lauric acid	7436
+Palifermin	3339
+Gentamicin	4036
+Urokinase	4036
+Insulin pork	4036
+Dequalinium	331
+Desflurane	27032
+Sevoflurane	27032
+Calcium	27032
+Isoflurane	27032
+Halothane	27032
+Methoxyflurane	27032
+Enflurane	27032
+Minocycline	54205
+Ademetionine	4143
+Fostamatinib	8814
+Ribociclib	1021
+Palbociclib	1021
+Abemaciclib	1021
+Fostamatinib	5127
+Fostamatinib	5128
+Glycyrrhizic acid	4791
+Fish oil	4791
+Donepezil	4791
+Glucosamine	4791
+NADH	6652
+Gabapentin	774
+Spironolactone	774
+Amlodipine	774
+Butamben	774
+Verapamil	774
+Levetiracetam	774
+Ergocalciferol	774
+Bioallethrin	774
+Zinc acetate	4193
+Zinc	4193
+Zinc chloride	4193
+Nicardipine	5153
+Bepridil	5153
+Caffeine	5153
+Felodipine	5153
+Calcium	6711
+Bioallethrin	6332
+Carbamazepine	6332
+Dichlorobenzyl alcohol	6332
+Fish oil	6332
+Ranolazine	6332
+Tetracaine	6332
+Topiramate	6332
+Amylocaine	6332
+Propoxycaine	6332
+Oxcarbazepine	6332
+Valproic acid	6332
+Pentoxyverine	6332
+Brivaracetam	6332
+Pramocaine	6332
+Benralizumab	3568
+Omalizumab	2206
+Bioallethrin	776
+Trimebutine	776
+Dronedarone	776
+Levomenthol	776
+Topiramate	776
+Clevidipine	776
+Nimodipine	776
+Phenytoin	776
+Felodipine	776
+Spironolactone	776
+Lacidipine	776
+Ergocalciferol	776
+Nisoldipine	776
+Manidipine	776
+Fish oil	776
+Cinnarizine	776
+Levamlodipine	776
+Nitrendipine	776
+Butamben	776
+Ranolazine	776
+Nifedipine	776
+Ethanol	776
+Nilvadipine	776
+Isradipine	776
+Nicardipine	776
+Corticotropin	4158
+Tetracosactide	4158
+Seractide acetate	4158
+Bremelanotide	4158
+Afamelanotide	4157
+Bremelanotide	4157
+Sibutramine	6531
+Nefazodone	6531
+Dopamine	6531
+Chlorpheniramine	6531
+Dexmethylphenidate	6531
+Solriamfetol	6531
+Trimipramine	6531
+Bupropion	6531
+Escitalopram	6531
+Venlafaxine	6531
+Mianserin	6531
+Benzphetamine	6531
+Benzatropine	6531
+Desvenlafaxine	6531
+Duloxetine	6531
+Amphetamine	6531
+Nomifensine	6531
+Amoxapine	6531
+Dextroamphetamine	6531
+Meperidine	6531
+Diphenylpyraline	6531
+Loxapine	6531
+Mazindol	6531
+Chloroprocaine	6531
+Armodafinil	6531
+Modafinil	6531
+Pseudoephedrine	6531
+Aripiprazole	6531
+Procaine	6531
+Phenmetrazine	6531
+Sertraline	6531
+Cocaine	6531
+Phentermine	6531
+Imipramine	6531
+Diethylpropion	6531
+Methylphenidate	6531
+Metamfetamine	6531
+Cannabidiol	27163
+Teriflunomide	1723
+Atovaquone	1723
+Flavin mononucleotide	1723
+Leflunomide	1723
+Fostamatinib	5581
+Tamoxifen	5581
+NADH	4967
+Valproic acid	4967
+Xanthinol	4967
+Cholic Acid	1339
+NADH	4329
+NADH	622
+Amlodipine	782
+Bioallethrin	782
+Ibutilide	782
+Levomenthol	782
+Phenytoin	782
+Ethanol	782
+Trimebutine	782
+Nimodipine	782
+Lacidipine	782
+Spironolactone	782
+Topiramate	782
+Fish oil	782
+Manidipine	782
+Ranolazine	782
+Butamben	782
+Ergocalciferol	782
+Dronedarone	782
+Magnesium sulfate	782
+Tesamorelin	2692
+Sermorelin	2692
+Cobimetinib	5604
+Trametinib	5604
+Bosutinib	5604
+Ampicillin	7010
+Ponatinib	7010
+Regorafenib	7010
+Vandetanib	7010
+Fostamatinib	7010
+Fostamatinib	4294
+Ascorbic acid	5351
+Succinic acid	5351
+Calcium Phosphate	4924
+Calcium Citrate	4924
+Calcium phosphate dihydrate	4924
+Dactinomycin	7155
+Dexrazoxane	7155
+Daunorubicin	7155
+Etoposide	7155
+NADH	1579
+Glutathione	2948
+Acetylcysteine	95
+Aspartic acid	95
+Copper	95
+Icosapent	5467
+Valproic acid	5467
+Sulindac	5467
+Treprostinil	5467
+Fenofibric acid	5467
+Oleic Acid	5467
+Pioglitazone	5467
+Rosiglitazone	5467
+alpha-Linolenic acid	5467
+Bezafibrate	5467
+Glycerin	5467
+Fish oil	5467
+Troglitazone	5467
+Mycophenolate mofetil	5805
+Pidolic acid	7032
+Reteplase	5329
+Anistreplase	5329
+Tenecteplase	5329
+Urokinase	5329
+Alteplase	5329
+Teriparatide	5745
+Parathyroid hormone	5745
+Abaloparatide	5745
+Dimethyl fumarate	5970
+Glutamic acid	2346
+Capromab pendetide	2346
+Fostamatinib	5588
+Tamoxifen	5588
+Indomethacin	2739
+Glutathione	2739
+Fostamatinib	90
+NADH	1645
+Acetylsalicylic acid	1645
+Salicylic acid	1645
+Galantamine	1145
+Fostamatinib	4486
+Glutamic acid	2572
+Fostamatinib	5747
+Tamoxifen	5590
+Tramadol	2902
+Aripiprazole	2902
+Milnacipran	2902
+Memantine	2902
+Magnesium carbonate	2902
+Magnesium acetate tetrahydrate	2902
+Acamprosate	2902
+Prasterone	2902
+Secobarbital	2902
+Donepezil	2902
+Guaifenesin	2902
+Acetylcysteine	2902
+D-Serine	2902
+Orphenadrine	2902
+Atomoxetine	2902
+Phenobarbital	2902
+Glutamic acid	2902
+Fluciclovine (18F)	2902
+Pentobarbital	2902
+Ifenprodil	2902
+Methadone	2902
+Meperidine	2902
+Esketamine	2902
+Fostamatinib	5580
+Ingenol mebutate	5580
+Tamoxifen	5580
+Ethanol	1142
+Nicotine	1142
+Galantamine	1142
+Raltitrexed	2356
+Glutamic acid	2356
+Dopamine	6571
+Nomifensine	6571
+Benzphetamine	6571
+Dextroamphetamine	6571
+Amphetamine	6571
+Isometheptene	6571
+Ephedrine	6571
+Propylhexedrine	6571
+Norepinephrine	6571
+Mazindol	6571
+Deserpidine	6571
+Metamfetamine	6571
+Tetrabenazine	6571
+Deutetrabenazine	6571
+Haloperidol	6571
+Reserpine	6571
+Histamine	6571
+Zinc acetate	3699
+Zinc chloride	3699
+Zinc	3699
+Ibrutinib	695
+Zanubrutinib	695
+Dasatinib	695
+Fostamatinib	695
+Acalabrutinib	695
+Mercaptopurine	5471
+L-Glutamine	5471
+Dasatinib	5471
+Cyclobenzaprine	316
+Copper	5720
+Fostamatinib	7301
+Fluspirilene	786
+Lercanidipine	786
+Spironolactone	786
+Ibutilide	786
+Ergocalciferol	786
+Magnesium sulfate	786
+Ethanol	786
+Diltiazem	786
+Nitrendipine	786
+Butamben	786
+Bioallethrin	786
+Zinc	334
+Zinc acetate	334
+Zinc chloride	334
+Prasterone	6822
+Zinc chloride	5052
+Copper	5052
+Zinc	5052
+Zinc acetate	5052
+Galantamine	1144
+Copper	708
+Hyaluronic acid	708
+Glutamic acid	2028
+Papaverine	5142
+Caffeine	5142
+Iloprost	5142
+Pentoxifylline	5142
+Amrinone	5142
+Dyphylline	5142
+Roflumilast	5142
+Enprofylline	5142
+Crisaborole	5142
+Theophylline	5142
+Adenosine phosphate	5142
+Zonisamide	6324
+Valproic acid	6324
+Oxcarbazepine	6324
+Brivaracetam	6324
+Ranolazine	6324
+Dichlorobenzyl alcohol	6324
+Phenytoin	6324
+Fish oil	6324
+Isosorbide	598
+Isosorbide	4170
+Cystine	6519
+Cladribine	5426
+Ciprofibrate	5465
+Ibuprofen	5465
+Flufenamic acid	5465
+Rosiglitazone	5465
+alpha-Linolenic acid	5465
+Resveratrol	5465
+Omega-3 fatty acids	5465
+Lauric acid	5465
+Bezafibrate	5465
+Stearic acid	5465
+Gemfibrozil	5465
+Soybean oil	5465
+Fenofibric acid	5465
+Clofibrate	5465
+Fish oil	5465
+Oleic Acid	5465
+Dexibuprofen	5465
+Indomethacin	5465
+Palmitic Acid	5465
+Fenoprofen	5465
+Myrrh	5465
+Valproic acid	5465
+Icosapent	5465
+Troglitazone	5465
+Doconexent	5465
+Pioglitazone	5465
+Prasterone	5465
+Fenofibrate	5465
+Fostamatinib	10188
+Entrectinib	10188
+Antihemophilic factor, human recombinant	4035
+Moroctocog alfa	4035
+Tenecteplase	4035
+Coagulation Factor IX (Recombinant)	4035
+Lonoctocog alfa	4035
+Coagulation Factor IX Human	4035
+Copper	6426
+Dicoumarol	1429
+Bioallethrin	783
+Nicardipine	783
+Phenytoin	783
+Nilvadipine	783
+Nisoldipine	783
+Nifedipine	783
+Fish oil	783
+Levomenthol	783
+Felodipine	783
+Ergocalciferol	783
+Nitrendipine	783
+Butamben	783
+Manidipine	783
+Isradipine	783
+Ranolazine	783
+Topiramate	783
+Spironolactone	783
+Lacidipine	783
+Nimodipine	783
+Magnesium sulfate	783
+Trimebutine	783
+Dronedarone	783
+Imatinib	780
+Fostamatinib	780
+NADH	1962
+Aurothioglucose	108
+Roflumilast	5143
+Roflumilast	NA
+Dyphylline	5143
+Dyphylline	NA
+Caffeine	5143
+Caffeine	NA
+Iloprost	5143
+Iloprost	NA
+Crisaborole	5143
+Crisaborole	NA
+Iloprost	5144
+Crisaborole	5144
+Caffeine	5144
+Roflumilast	5144
+Dyphylline	5144
+Adenosine phosphate	5144
+Aurothioglucose	107
+Adenosine phosphate	107
+Pazopanib	3702
+Zanubrutinib	3702
+Fostamatinib	3702
+Glyburide	6833
+Repaglinide	6833
+Chlorpropamide	6833
+Glymidine	6833
+Tolbutamide	6833
+Glimepiride	6833
+Gliclazide	6833
+Gliquidone	6833
+Nateglinide	6833
+Glipizide	6833
+Tolazamide	6833
+Sevoflurane	3736
+Nifedipine	3736
+Dalfampridine	3736
+Isoflurane	3736
+Desflurane	3736
+Amitriptyline	3736
+Methoxyflurane	3736
+Amifampridine	3736
+Enflurane	3736
+Zinc chloride	55911
+Zinc	55911
+Zinc acetate	55911
+Copper	55911
+Nicotinamide	683
+Chlorzoxazone	3778
+Trimebutine	3778
+Cromoglicic acid	3778
+Diazoxide	3778
+Procaine	3778
+Dequalinium	3778
+Miconazole	3778
+Bendroflumethiazide	3778
+Halothane	3778
+Hydroflumethiazide	3778
+Hydrochlorothiazide	3778
+Succinic acid	444
+Aspartic acid	444
+Bepridil	3757
+Miconazole	3757
+Fluoxetine	3757
+Amitriptyline	3757
+Ibutilide	3757
+Pimozide	3757
+Erythromycin	3757
+Ciprofloxacin	3757
+Sotalol	3757
+Pitolisant	3757
+Amiodarone	3757
+Doxepin	3757
+Dronedarone	3757
+Nefazodone	3757
+Vernakalant	3757
+Cisapride	3757
+Quinidine	3757
+Fluvoxamine	3757
+Doxazosin	3757
+Halofantrine	3757
+Perhexiline	3757
+Imipramine	3757
+Terazosin	3757
+Chlorobutanol	3757
+Alfuzosin	3757
+Potassium nitrate	3757
+Phenytoin	3757
+Chlorpromazine	3757
+Propafenone	3757
+Disopyramide	3757
+Ketoconazole	3757
+Loratadine	3757
+Clarithromycin	3757
+Dofetilide	3757
+Prazosin	3757
+Sertindole	3757
+Verapamil	3757
+Carvedilol	3757
+Astemizole	3757
+Flecainide	3757
+Procainamide	3757
+Tamoxifen	3757
+Amsacrine	3757
+Isavuconazole	3757
+Pentoxyverine	3757
+Thioridazine	3757
+Terfenadine	3757
+Fostamatinib	5871
+Fostamatinib	7786
+Fostamatinib	10461
+Guaifenesin	2903
+Halothane	2903
+Acetylcysteine	2903
+Phenobarbital	2903
+Acamprosate	2903
+Magnesium acetate tetrahydrate	2903
+Secobarbital	2903
+Esketamine	2903
+Milnacipran	2903
+Fluciclovine (18F)	2903
+Meperidine	2903
+Pentobarbital	2903
+Memantine	2903
+Aripiprazole	2903
+Atomoxetine	2903
+Tramadol	2903
+Methadone	2903
+Donepezil	2903
+Glutamic acid	2903
+Glycine	2903
+Felbamate	2903
+Magnesium carbonate	2903
+Prasterone	2903
+Flavin mononucleotide	1806
+Tegafur-uracil	1806
+Gimeracil	1806
+Flavin adenine dinucleotide	1806
+Pentobarbital	2898
+Butalbital	2898
+Primidone	2898
+Phenobarbital	2898
+Amobarbital	2898
+Talbutal	2898
+Butabarbital	2898
+Secobarbital	2898
+Butobarbital	2898
+Methylphenobarbital	2898
+Thiopental	2898
+Topiramate	2898
+Glutamic acid	2898
+Topiramate	2899
+Glutamic acid	2899
+Biotin	31
+Adenine	4507
+Adenosine phosphate	5562
+Fostamatinib	5562
+Phenformin	5562
+Acetylsalicylic acid	5562
+Diacerein	10062
+Fostamatinib	5058
+Fostamatinib	5607
+Acetylsalicylic acid	5598
+Fostamatinib	5598
+Fostamatinib	5062
+Succinic acid	9058
+Fostamatinib	6788
+Haloperidol	2904
+Felbamate	2904
+Magnesium carbonate	2904
+Taurine	2904
+Guaifenesin	2904
+Acetylcysteine	2904
+Milnacipran	2904
+Memantine	2904
+Tramadol	2904
+Magnesium acetate tetrahydrate	2904
+Esketamine	2904
+Prasterone	2904
+Phenobarbital	2904
+Secobarbital	2904
+Ifenprodil	2904
+Acamprosate	2904
+Glutamic acid	2904
+Fluciclovine (18F)	2904
+Lumateperone	2904
+Atomoxetine	2904
+Meperidine	2904
+Methadone	2904
+Aripiprazole	2904
+Donepezil	2904
+Pentobarbital	2904
+Isopropyl alcohol	1118
+Binimetinib	4214
+Fostamatinib	4214
+Fostamatinib	5593
+Glutamic acid	2911
+Nedocromil	5729
+Caffeine	472
+Etidronic acid	5802
+Alendronic acid	5802
+Caffeine	5140
+Amrinone	5140
+Choline	5337
+Choline salicylate	5337
+Xanthinol	23530
+NADH	23530
+Netarsudil	6093
+Fostamatinib	8711
+Ixabepilone	10381
+Fostamatinib	8899
+Fostamatinib	8737
+Zinc chloride	3065
+Romidepsin	3065
+Panobinostat	3065
+Fingolimod	3065
+Zinc	3065
+Zinc acetate	3065
+Arsenic trioxide	3065
+Belinostat	3065
+Vorinostat	3065
+Fostamatinib	816
+Fostamatinib	818
+Bosutinib	818
+Fostamatinib	817
+Chlormerodrin	6557
+Methyclothiazide	6557
+Chlorthalidone	6557
+Potassium chloride	6557
+Etacrynic acid	6557
+Quinethazone	6557
+Torasemide	6557
+Furosemide	6557
+Piretanide	6557
+Bumetanide	6557
+Hydroflumethiazide	6557
+Fostamatinib	1859
+NADH	7264
+Prucalopride	3360
+Metoclopramide	3360
+Paroxetine	3360
+Gilteritinib	3360
+Ondansetron	3360
+Tegaserod	3360
+Ergoloid mesylate	3360
+Dihydroergocornine	3360
+Cisapride	3360
+Dihydroergocristine	3360
+Ethanol	779
+Magnesium sulfate	779
+Bioallethrin	779
+Nilvadipine	779
+Nisoldipine	779
+Lacidipine	779
+Topiramate	779
+Nifedipine	779
+Phenytoin	779
+Levomenthol	779
+Nimodipine	779
+Ranolazine	779
+Nitrendipine	779
+Fish oil	779
+Ergocalciferol	779
+Manidipine	779
+Pinaverium	779
+Spironolactone	779
+Felodipine	779
+Isradipine	779
+Butamben	779
+Clevidipine	779
+Cinnarizine	779
+Dronedarone	779
+Trimebutine	779
+Isopropyl alcohol	7919
+Fostamatinib	659
+Dibotermin alfa	659
+Fostamatinib	5753
+Zanubrutinib	5753
+Vandetanib	5753
+Bioallethrin	775
+Magnesium sulfate	775
+Diltiazem	775
+Nicardipine	775
+Ibutilide	775
+Felodipine	775
+Calcium	775
+Trimebutine	775
+Lacidipine	775
+Propiverine	775
+Topiramate	775
+Phenytoin	775
+Clevidipine	775
+Nitrendipine	775
+Dronedarone	775
+Amlodipine	775
+Ergocalciferol	775
+Verapamil	775
+Manidipine	775
+Levamlodipine	775
+Levomenthol	775
+Spironolactone	775
+Ranolazine	775
+Cinnarizine	775
+Nilvadipine	775
+Nimodipine	775
+Nifedipine	775
+Isradipine	775
+Drotaverine	775
+Isavuconazole	775
+Butamben	775
+Ethanol	775
+Fish oil	775
+Nisoldipine	775
+Calcium Phosphate	828
+Calcium phosphate dihydrate	828
+Calcium Citrate	828
+Caffeine	5150
+Dyphylline	5150
+Vardenafil	5149
+Sildenafil	5149
+Dalfampridine	3748
+Fostamatinib	8536
+Glycine	570
+Caffeine	5137
+Dimethyl fumarate	9817
+Fostamatinib	9641
+Dacarbazine	23649
+Fostamatinib	2185
+Leflunomide	2185
+Baricitinib	2185
+Cannabidiol	2841
+Glycine	2841
+Creatine	2593
+Guanidine	2593
+Enoximone	5139
+Caffeine	5139
+Aminophylline	5139
+Milrinone	5139
+Oxtriphylline	5139
+Anagrelide	5139
+Levosimendan	5139
+Theophylline	5139
+Cilostazol	5139
+Amrinone	5139
+Estradiol cypionate	8678
+Estradiol acetate	8678
+Estradiol benzoate	8678
+Estradiol	8678
+Estradiol valerate	8678
+Estradiol dienanthate	8678
+Yohimbine	3768
+Dofetilide	3768
+Butamben	3768
+Ranolazine	3768
+Dronedarone	3768
+Hyaluronic acid	3026
+Isavuconazole	6331
+Ajmaline	6331
+Mephenytoin	6331
+Valproic acid	6331
+Encainide	6331
+Brivaracetam	6331
+Fish oil	6331
+Cocaine	6331
+Flecainide	6331
+Pramocaine	6331
+Tocainide	6331
+Zonisamide	6331
+Mexiletine	6331
+Prilocaine	6331
+Moricizine	6331
+Dichlorobenzyl alcohol	6331
+Topiramate	6331
+Carbamazepine	6331
+Benzonatate	6331
+Indecainide	6331
+Procainamide	6331
+Pentoxyverine	6331
+Fosphenytoin	6331
+Cinchocaine	6331
+Phenytoin	6331
+Bioallethrin	6331
+Lidocaine	6331
+Amylocaine	6331
+Oxcarbazepine	6331
+Quinidine barbiturate	6331
+Propoxycaine	6331
+Propafenone	6331
+Disopyramide	6331
+Tetracaine	6331
+Dronedarone	6331
+Quinidine	6331
+Vernakalant	6331
+Ethotoin	6331
+Hexylcaine	6331
+Riluzole	6331
+Ranolazine	6331
+Terbinafine	6713
+Butenafine	6713
+Naftifine	6713
+Palmitic Acid	3174
+Ethanol	3177
+Caffeine	3709
+Caffeine	3710
+Zinc	3700
+Zinc chloride	3700
+Zinc acetate	3700
+Oprelvekin	3590
+Glycerin	3708
+Caffeine	3708
+Thiamylal	3767
+Ibutilide	3767
+Isavuconazole	3767
+Tolazamide	3767
+Diazoxide	3767
+Glyburide	3767
+Butamben	3767
+Levosimendan	3767
+Verapamil	3767
+Yohimbine	3767
+Glimepiride	3767
+Fostamatinib	9833
+Miglitol	23193
+Dalfampridine	3745
+Citric acid	107080644
+Citric acid	27232
+Ademetionine	107080644
+Ademetionine	27232
+Glycine	107080644
+Glycine	27232
+Glutamic acid	2917
+Glutamic acid	2914
+Silver	4520
+Tramadol	2905
+Fluciclovine (18F)	2905
+Phenobarbital	2905
+Magnesium carbonate	2905
+Memantine	2905
+Milnacipran	2905
+Aripiprazole	2905
+Guaifenesin	2905
+Acamprosate	2905
+Glycine	2905
+Atomoxetine	2905
+Magnesium acetate tetrahydrate	2905
+Prasterone	2905
+Secobarbital	2905
+Esketamine	2905
+Meperidine	2905
+Pentobarbital	2905
+Glutamic acid	2905
+Donepezil	2905
+Methadone	2905
+Doxorubicin	9221
+Pheniramine	9970
+Ketoconazole	9970
+Doxylamine	9970
+Resveratrol	9970
+Triclosan	9970
+Atorvastatin	9970
+Meclizine	9970
+Phenolphthalein	9970
+Cholesterol	9970
+Loperamide	9970
+Prasterone	9970
+L-Lysine	3735
+Flavin adenine dinucleotide	51
+Dextromethorphan	4689
+Pembrolizumab	5133
+Nivolumab	5133
+Cemiplimab	5133
+Dichloroacetic acid	5163
+Tamoxifen	10682
+Fostamatinib	5587
+Theophylline	23420
+Copper	10728
+Acetaminophen	10728
+Fostamatinib	11329
+Alitretinoin	5673
+Niacin	23475
+Afatinib	2066
+Brigatinib	2066
+Zanubrutinib	2066
+Fostamatinib	2066
+Fostamatinib	2045
+Fostamatinib	6195
+Copper	8175
+Calcium Phosphate	9104
+Calcium Citrate	9104
+Calcium phosphate dihydrate	9104
+Fostamatinib	7016
+Estradiol cypionate	10499
+Estradiol	10499
+Estradiol valerate	10499
+Estradiol acetate	10499
+Diethylstilbestrol	10499
+Estradiol benzoate	10499
+Estradiol dienanthate	10499
+NADH	50814
+Fostamatinib	4638
+Manganese	10454
+Asparagine	6510
+Fluciclovine (18F)	6510
+Regorafenib	5600
+NADH	6307
+Galantamine	1135
+Tubocurarine	1135
+Vecuronium	1135
+Pipecuronium	1135
+Metocurine	1135
+Atracurium besylate	1135
+Pancuronium	1135
+Carbamoylcholine	1135
+Gallamine triethiodide	1135
+Cisatracurium	1135
+Ethanol	1135
+Nicotine	1135
+Fluoxetine	1135
+Rocuronium	1135
+Mecamylamine	1135
+Procaine	1135
+Mivacurium	1135
+Biperiden	1135
+Metocurine iodide	1135
+Doxacurium	1135
+Dextromethorphan	1135
+Decamethonium	1135
+Nicotine	8973
+Ethanol	8973
+Galantamine	8973
+Varenicline	8973
+Phenformin	3764
+Yohimbine	3764
+Thiamylal	3764
+Glyburide	3764
+Levosimendan	3764
+Gliquidone	3764
+Butamben	3764
+Pramocaine	6335
+Oxcarbazepine	6335
+Amylocaine	6335
+Brivaracetam	6335
+Tetracaine	6335
+Pentoxyverine	6335
+Ranolazine	6335
+Bioallethrin	6335
+Topiramate	6335
+Dichlorobenzyl alcohol	6335
+Zonisamide	6335
+Propoxycaine	6335
+Lacosamide	6335
+Fish oil	6335
+Valproic acid	6335
+Rufinamide	6335
+Carbamazepine	6335
+Lidocaine	6335
+Topiramate	777
+Butamben	777
+Ergocalciferol	777
+Bioallethrin	777
+Lamotrigine	777
+Spironolactone	777
+Glutamic acid	2900
+Topiramate	2900
+Metformin	2110
+Insulin pork	3490
+Larotrectinib	4916
+Entrectinib	4916
+Fostamatinib	4916
+Dalfampridine	3744
+Ampicillin	6565
+Benzylpenicillin	6565
+Oxacillin	6565
+Cefotaxime	6565
+Chlordiazepoxide	2559
+Prasterone	2559
+Flunitrazepam	2559
+Enflurane	2559
+Phenytoin	2559
+Ethanol	2559
+Butabarbital	2559
+Triazolam	2559
+Alprazolam	2559
+Desflurane	2559
+Lamotrigine	2559
+Thiopental	2559
+Clonazepam	2559
+Nitrazepam	2559
+Stiripentol	2559
+Talbutal	2559
+Apalutamide	2559
+Ethchlorvynol	2559
+Flurazepam	2559
+Amobarbital	2559
+Butobarbital	2559
+Oxazepam	2559
+Methoxyflurane	2559
+Pentobarbital	2559
+Flumazenil	2559
+Prazepam	2559
+Estazolam	2559
+Halazepam	2559
+Brexanolone	2559
+Temazepam	2559
+Memantine	2559
+Acamprosate	2559
+Propofol	2559
+Primidone	2559
+Halothane	2559
+Lorazepam	2559
+Methyprylon	2559
+Butalbital	2559
+Amoxapine	2559
+Etomidate	2559
+Secobarbital	2559
+Clobazam	2559
+Meprobamate	2559
+Isoflurane	2559
+Quazepam	2559
+Diazepam	2559
+Methylphenobarbital	2559
+Taurine	2559
+Medroxyprogesterone acetate	2559
+Clorazepic acid	2559
+Olanzapine	2559
+Midazolam	2559
+Sevoflurane	2559
+Bromazepam	2559
+Glutethimide	2559
+Eszopiclone	2559
+Topiramate	2901
+Glutamic acid	2901
+Fostamatinib	5585
+Fostamatinib	5586
+Amiloride	40
+Voretigene neparvovec	6121
+Dasatinib	1432
+Fostamatinib	1432
+Ixekizumab	3605
+Secukinumab	3605
+Procaine	3779
+Miconazole	3779
+Trimebutine	3779
+Amphetamine	9607
+Fostamatinib	4296
+Ferrous gluconate	2395
+Iron	2395
+Ferrous glycine sulfate	2395
+Ferrous fumarate	2395
+Ferrous ascorbate	2395
+Ferrous succinate	2395
+Ubrogepant	10203
+Erenumab	10203
+Fostamatinib	4915
+Esketamine	4915
+Amitriptyline	4915
+Entrectinib	4915
+Larotrectinib	4915
+Epoprostenol	5740
+Phenylbutazone	5740
+Tretinoin	5166
+Acetylsalicylic acid	5597
+Carvedilol	3091
+Hydralazine	3091
+Flavone	1545
+Cannabidiol	1545
+NADH	4698
+Pyridoxal phosphate	8942
+Eliglustat	7357
+Miglustat	7357
+Phosphatidyl serine	8527
+Glutathione	2940
+Pyridoxal phosphate	883
+Glutathione	3029
+Benzthiazide	768
+Sodium carbonate	768
+Zonisamide	768
+Hydroflumethiazide	768
+Flavin adenine dinucleotide	4704
+NADH	4704
+NADH	10873
+Fostamatinib	5260
+Regorafenib	4921
+Fostamatinib	4921
+NADH	3033
+Omega-3-carboxylic acids	3033
+Tioconazole	1595
+Itraconazole	1595
+Phenelzine	8639
+Hydralazine	8639
+Azelastine	4056
+Glutathione	4056
+Cysteine	1036
+NADH	1036
+Arsenic trioxide	7296
+Flavin adenine dinucleotide	7296
+Fostamatinib	22848
+Coccidioides immitis spherule	3127
+Fostamatinib	91807
+Ascorbic acid	64175
+Succinic acid	64175
+Ceftriaxone	9356
+Cefotaxime	9356
+Probenecid	9356
+Fostamatinib	388228
+Fostamatinib	80122
+Fostamatinib	51086
+Glutamic acid	124454
+Hyaluronic acid	22927
+Memantine	NA
+Fish oil	338557
+Fostamatinib	120892
+Glutamic acid	51557
+Crofelemer	55107
+Fostamatinib	55561
+Perindopril	6424
+Cyclothiazide	6424
+Glutamic acid	55191
+Glycine	10249
+Copper	341208
+Ascorbic acid	79676
+Ascorbic acid	121642
+Vitamin A	54884
+Fostamatinib	341676
+Pyridoxal phosphate	23042
+Pyridoxal phosphate	102724985
+Fostamatinib	25989
+Aspartic acid	55157
+Citrulline	353238
+Hyaluronic acid	143903
+Tretinoin	340665
+Alitretinoin	340665
+Halothane	387129
+Pyridoxal phosphate	285313
+Glutamic acid	56267
+Pyridoxal phosphate	56267
+NADH	160287
+Fostamatinib	389840
+Pyridoxal phosphate	339896
+Pidolic acid	440021
+Ergoloid mesylate	200909
+Dihydroergocristine	200909
+Gilteritinib	200909
+Ethanol	200909
+Paroxetine	200909
+Dihydroergocornine	200909
+Vinblastine	7846
+Mebendazole	7846
+Albendazole	7846
+Calcium phosphate dihydrate	84467
+Calcium Phosphate	84467
+Calcium Citrate	84467
+Fostamatinib	2011
+Brivaracetam	9900
+Levetiracetam	9900
+Aspartic acid	80150
+Asparagine	80150
+Tetrachlorodecaoxide	10296
+Fostamatinib	57551
+Cladribine	50484
+Sertraline	222962
+Glutathione	221357
+Glycine	206358
+Levomenthol	79054
+Camphor	79054
+Cannabidiol	79054
+Deoxycholic acid	79631
+Bioallethrin	93589
+Ergocalciferol	93589
+Spironolactone	93589
+Butamben	93589
+Fostamatinib	23332
+Lactose	360203
+Isopropyl alcohol	51181
+Theophylline	79608
+Resveratrol	161198
+Procaine	374569
+Fostamatinib	11011
+Calcium phosphate dihydrate	93664
+Calcium Phosphate	93664
+Calcium Citrate	93664
+Hyaluronic acid	404037
+Fostamatinib	415116
+Tetrachlorodecaoxide	9332
+Miconazole	27345
+Trimebutine	27345
+Procaine	27345
+NADH	126328
+Flavin adenine dinucleotide	56605
+Fostamatinib	340156
+Zinc chloride	388697
+Zinc acetate	388697
+Zinc	388697
+Fostamatinib	57118
+Pyridoxal phosphate	85007
+Cyanocobalamin	166785
+Hydroxocobalamin	166785
+Fostamatinib	8491
+Succinic acid	55214
+Ascorbic acid	55214
+Succinic acid	10536
+Ascorbic acid	10536
+Fostamatinib	8550
+Zonisamide	6330
+Oxcarbazepine	6330
+Valproic acid	6330
+Fish oil	6330
+Ranolazine	6330
+Dichlorobenzyl alcohol	6330
+Brivaracetam	6330
+Telotristat ethyl	121278
+Fostamatinib	167359
+Threonine	79896
+Pyridoxal phosphate	79896
+Fostamatinib	9706
+Butamben	55799
+Nilvadipine	55799
+Ergocalciferol	55799
+Bioallethrin	55799
+Amlodipine	55799
+Spironolactone	55799
+Menadione	154807
+Aspartic acid	122622
+Glutamic acid	162417
+Estazolam	2565
+Lamotrigine	2565
+Clotiazepam	2565
+Brexanolone	2565
+Pentobarbital	2565
+Apalutamide	2565
+Halazepam	2565
+Prasterone	2565
+Amoxapine	2565
+Clonazepam	2565
+Medroxyprogesterone acetate	2565
+Sevoflurane	2565
+Quazepam	2565
+Butabarbital	2565
+Temazepam	2565
+Clorazepic acid	2565
+Ethchlorvynol	2565
+Oxazepam	2565
+Primidone	2565
+Enflurane	2565
+Glutethimide	2565
+Isoflurane	2565
+Stiripentol	2565
+Etomidate	2565
+Halothane	2565
+Methoxyflurane	2565
+Flurazepam	2565
+Memantine	2565
+Clobazam	2565
+Chlordiazepoxide	2565
+Alprazolam	2565
+Lorazepam	2565
+Ketazolam	2565
+Phenytoin	2565
+Meprobamate	2565
+Bromazepam	2565
+Flumazenil	2565
+Butalbital	2565
+Prazepam	2565
+Ethanol	2565
+Methyprylon	2565
+Taurine	2565
+Nitrazepam	2565
+Triazolam	2565
+Desflurane	2565
+Diazepam	2565
+Propofol	2565
+Eszopiclone	2565
+Olanzapine	2565
+Talbutal	2565
+Acamprosate	2565
+Ademetionine	23070
+Zonisamide	377677
+Silver	4499
+Fostamatinib	50488
+Ascorbic acid	55239
+Fostamatinib	166614
+Fostamatinib	84254
+Pyridoxal phosphate	51166
+Glutamic acid	51166
+Indomethacin	145482
+Levocarnitine	123096
+Zinc	199699
+Zinc acetate	199699
+Zinc chloride	199699
+Botulinum Toxin Type B	127833
+Vitamin A	112724
+Alirocumab	255738
+alpha-Linolenic acid	7442
+Tramadol	7442
+Acetaminophen	7442
+Icosapent	7442
+Camphor	7442
+Cannabidiol	7442
+Zucapsaicin	7442
+Capsicum oleoresin	7442
+Capsaicin	7442
+Cannabidiol	162514
+Eugenol	162514
+Camphor	162514
+Levomenthol	162514
+Fostamatinib	53904
+Fostamatinib	255239
+Tretinoin	9052
+Fostamatinib	79858
+Dabrafenib	79858
+Lonoctocog alfa	90411
+Moroctocog alfa	90411
+Antihemophilic factor, human recombinant	90411
+Fostamatinib	56997
+Calcium	57526
+Fostamatinib	79837
+Vitamin A	51109
+Probenecid	9376
+Gemfibrozil	9376
+Ceftriaxone	9376
+Avatrombopag	9376
+Benzylpenicillin	9376
+Cefotaxime	9376
+Resveratrol	55300
+Choline salicylate	162466
+Choline	162466
+Theophylline	81502
+Procaine	116443
+Guaifenesin	116443
+Magnesium acetate tetrahydrate	116443
+Aripiprazole	116443
+Prasterone	116443
+Fluciclovine (18F)	116443
+Methadone	116443
+Ethanol	116443
+Memantine	116443
+Profenamine	116443
+Atomoxetine	116443
+Tramadol	116443
+Phenobarbital	116443
+Glutamic acid	116443
+Magnesium carbonate	116443
+Halothane	116443
+Chloroprocaine	116443
+Acetylcysteine	116443
+Secobarbital	116443
+Milnacipran	116443
+Ketamine	116443
+Amantadine	116443
+Dextromethorphan	116443
+Felbamate	116443
+Acamprosate	116443
+Donepezil	116443
+Orphenadrine	116443
+Esketamine	116443
+Pentobarbital	116443
+Acetylsalicylic acid	225689
+Fostamatinib	225689
+Fostamatinib	91754
+Pyridoxal phosphate	84706
+Glutamic acid	84706
+Phenelzine	84706
+Glyburide	54795
+Fostamatinib	140901
+Inositol nicotinate	338442
+Clotrimazole	338442
+Niacin	338442
+Deoxycholic acid	151306
+Chenodeoxycholic acid	151306
+Cholic Acid	151306
+Sucrose	80834
+Glutathione	493869
+Miglitol	2595
+Phosphatidyl serine	949
+Glycine	219970
+Fostamatinib	202374
+Belinostat	51564
+Panobinostat	51564
+Tromethamine	124583
+Hyaluronic acid	55576
+Succinic acid	64849
+Ergoloid mesylate	170572
+Dihydroergocristine	170572
+Ethanol	170572
+Dihydroergocornine	170572
+Paroxetine	170572
+Gilteritinib	170572
+Ergocalciferol	59283
+Spironolactone	59283
+Bioallethrin	59283
+Butamben	59283
+Ornithine	84889
+Fluciclovine (18F)	84889
+L-Lysine	84889
+Pseudoephedrine	122953
+Sennosides	360
+NADH	7923
+Isoprenaline	8503
+Dasatinib	8013
+Human immunoglobulin G	2210
+Prasterone	2100
+Estradiol cypionate	2100
+Bazedoxifene	2100
+Estrone sulfate	2100
+Estriol	2100
+Estradiol acetate	2100
+Estradiol	2100
+Octocrylene	2100
+Estradiol benzoate	2100
+Estradiol dienanthate	2100
+Tamoxifen	2100
+Raloxifene	2100
+Trilostane	2100
+Estrone	2100
+Estramustine	2100
+Oxybenzone	2100
+Progesterone	2100
+Diethylstilbestrol	2100
+Enzacamene	2100
+Conjugated estrogens	2100
+Estradiol valerate	2100
+Arzoxifene	2100
+Lasofoxifene	2100
+Eugenol	2100
+Flecainide	6262
+Tetracaine	6262
+Melatonin	6096
+Theophylline	3066
+Lovastatin	3066
+Romidepsin	3066
+Tixocortol	3066
+Belinostat	3066
+Valproic acid	3066
+Vorinostat	3066
+Oxtriphylline	3066
+Panobinostat	3066
+Aminophylline	3066
+Atorvastatin	3066
+Simvastatin	3066
+Pravastatin	3066
+Fluvastatin	3066
+Fostamatinib	8999
+Vitamin A	5959
+NADH	5959
+Isavuconazole	3765
+Ethanol	3765
+Macimorelin	2693
+Sulfinpyrazone	1244
+Potassium perchlorate	6528
+Fostamatinib	11184
+Resveratrol	8570
+Flavin adenine dinucleotide	2639
+Trimebutine	3780
+Procaine	3780
+Miconazole	3780
+Dalfampridine	9312
+Methionine	635
+Citric acid	635
+Antithymocyte immunoglobulin (rabbit)	3140
+Flavin mononucleotide	55312
+Riboflavin	55312
+Glycine	92292
+Topotecan	116447
+Irinotecan	116447
+Ferrous succinate	252969
+Ferrous fumarate	252969
+Iron	252969
+Ferrous glycine sulfate	252969
+Ferrous ascorbate	252969
+Ferrous gluconate	252969
+Copper	252969
+Belinostat	83933
+Panobinostat	83933
+Bufexamac	83933
+Pyridoxal phosphate	113451
+Fostamatinib	23678
+Fostamatinib	100533105
+Insulin pork	94121
+NADH	29920
+Flavin mononucleotide	60490
+Fostamatinib	79934
+Panobinostat	79885
+Belinostat	79885
+Pyridoxal phosphate	55034
+Hydroxocobalamin	326625
+Ferrous succinate	79661
+Iron	79661
+Ferrous glycine sulfate	79661
+Ferrous ascorbate	79661
+Tromethamine	79661
+Ferrous fumarate	79661
+Ferrous gluconate	79661
+Copper	79661
+Calcium phosphate dihydrate	140576
+Calcium Citrate	140576
+Calcium Phosphate	140576
+Pyridoxal phosphate	113675
+Pyridoxal phosphate	57026
+Hesperidin	9212
+Fostamatinib	9212
+Aspartic acid	91703
+Pyridoxal phosphate	51540
+Asparagine	79731
+Succinic acid	8801
+Prothrombin	1361
+Ascorbic acid	112398
+Calcium Phosphate	125972
+Calcium Citrate	125972
+Calcium phosphate dihydrate	125972
+Fostamatinib	57787
+Cyclosporine	5535
+Vitamin A	145226
+Fostamatinib	57172
+Enfortumab vedotin	81607
+Zinc acetate	114770
+Copper	114770
+Zinc chloride	114770
+Zinc	114770
+Omega-3-carboxylic acids	84649
+Fish oil	84649
+Dalfampridine	3747
+Fostamatinib	4750
+Fostamatinib	65061
+Ascorbic acid	221120
+Probenecid	24145
+Thrombin	9002
+alpha-Linolenic acid	9971
+Deoxycholic acid	9971
+Obeticholic acid	9971
+Chenodeoxycholic acid	9971
+Myrrh	9971
+Cholic Acid	9971
+Ursodeoxycholic acid	9971
+Taurocholic acid	9971
+Dextroamphetamine	134864
+Amphetamine	134864
+Metamfetamine	134864
+Lisdexamfetamine	134864
+Propylhexedrine	134864
+Dalfampridine	3743
+Biotin	56922
+Flavin adenine dinucleotide	259307
+Citric acid	259307
+Fostamatinib	10645
+Sulfinpyrazone	116085
+Lesinurad	116085
+Hyaluronic acid	145864
+Glutathione	2882
+Pomalidomide	51185
+Thalidomide	51185
+Lenalidomide	51185
+Lenograstim	1441
+Pegfilgrastim	1441
+Lipegfilgrastim	1441
+Filgrastim	1441
+Valproic acid	6326
+Bioallethrin	6326
+Zonisamide	6326
+Propoxycaine	6326
+Phenytoin	6326
+Oxcarbazepine	6326
+Tetracaine	6326
+Brivaracetam	6326
+Pramocaine	6326
+Propofol	6326
+Lamotrigine	6326
+Pentoxyverine	6326
+Carbamazepine	6326
+Topiramate	6326
+Dichlorobenzyl alcohol	6326
+Fish oil	6326
+Metergoline	6326
+Amylocaine	6326
+Amylmetacresol	6326
+Ranolazine	6326
+Tramadol	6326
+Glutamic acid	2571
+Pyridoxal phosphate	2571
+Anthralin	3859
+Griseofulvin	3859
+Copper	11315
+Oseltamivir	4758
+Estradiol cypionate	2852
+Estradiol valerate	2852
+Estradiol acetate	2852
+Estradiol	2852
+Estradiol dienanthate	2852
+Estradiol benzoate	2852
+Eslicarbazepine acetate	5025
+Eslicarbazepine	5025
+Calcium Citrate	6284
+Amlexanox	6284
+Calcium	6284
+Calcium Phosphate	6284
+Calcium phosphate dihydrate	6284
+Calcium chloride	6284
+Olopatadine	6284
+Capsaicin	11331
+Asparagine	10991
+Fostamatinib	9088
+Succinic acid	6391
+Calcium Citrate	11261
+Calcium phosphate dihydrate	11261
+Calcium Phosphate	11261
+Haloperidol	2847
+Methionine	4548
+Thimerosal	4548
+Cyanocobalamin	4548
+Hydroxocobalamin	4548
+Yohimbine	3772
+Butamben	3772
+NADH	3028
+Omega-3-carboxylic acids	3028
+Dextromethorphan	10280
+Noscapine	10280
+Haloperidol	10280
+Remoxipride	10280
+Hydrocodone	10280
+Cocaine	10280
+Sertraline	10280
+Prasterone	10280
+Pentazocine	10280
+Pentoxyverine	10280
+Nortriptyline	10280
+Amitriptyline	10280
+Glutathione	4258
+Fostamatinib	4215
+Fostamatinib	2030
+Troglitazone	2030
+Ethanol	2030
+Calcium Citrate	10519
+Calcium phosphate dihydrate	10519
+Calcium Phosphate	10519
+Theophylline	8904
+Sonidegib	6608
+Fluocinonide	6608
+Glasdegib	6608
+Halcinonide	6608
+Vismodegib	6608
+Bromazepam	2567
+Glutethimide	2567
+Halothane	2567
+Flumazenil	2567
+Prasterone	2567
+Prazepam	2567
+Enflurane	2567
+Halazepam	2567
+Medroxyprogesterone acetate	2567
+Methoxyflurane	2567
+Estazolam	2567
+Quazepam	2567
+Oxazepam	2567
+Clotiazepam	2567
+Propofol	2567
+Apalutamide	2567
+Lamotrigine	2567
+Amoxapine	2567
+Chlordiazepoxide	2567
+Triazolam	2567
+Clonazepam	2567
+Diazepam	2567
+Temazepam	2567
+Meprobamate	2567
+Pentobarbital	2567
+Brexanolone	2567
+Eszopiclone	2567
+Stiripentol	2567
+Memantine	2567
+Phenytoin	2567
+Acamprosate	2567
+Nitrazepam	2567
+Primidone	2567
+Desflurane	2567
+Isoflurane	2567
+Lorazepam	2567
+Taurine	2567
+Butabarbital	2567
+Flurazepam	2567
+Olanzapine	2567
+Butalbital	2567
+Etomidate	2567
+Talbutal	2567
+Sevoflurane	2567
+Alprazolam	2567
+Ethanol	2567
+Clorazepic acid	2567
+Clobazam	2567
+Ethchlorvynol	2567
+Methyprylon	2567
+Romosozumab	50964
+Phenindione	79001
+Menadione	79001
+Acenocoumarol	79001
+Warfarin	79001
+Phenprocoumon	79001
+Dicoumarol	79001
+Fostamatinib	27102
+Fostamatinib	83732
+Vitamin A	10901
+Fostamatinib	8569
+Polyethylene glycol 400	10553
+Isopropyl alcohol	55256
+Phosphatidyl serine	81490
+Fostamatinib	55781
+Threonine	80222
+Succinic acid	56670
+Fostamatinib	83942
+Ornithine	83884
+Hydroxocobalamin	81693
+Butamben	59285
+Spironolactone	59285
+Ergocalciferol	59285
+Bioallethrin	59285
+Citric acid	3704
+Zinc chloride	55869
+Vorinostat	55869
+Ferrous gluconate	55869
+Iron	55869
+Zinc	55869
+Belinostat	55869
+Ferrous succinate	55869
+Zinc acetate	55869
+Ferrous ascorbate	55869
+Ferrous glycine sulfate	55869
+Panobinostat	55869
+Ferrous fumarate	55869
+Adenine	55825
+Ascorbic acid	8284
+Succinic acid	64064
+Moexipril	59272
+Fostamatinib	65975
+Pyridoxal phosphate	64902
+Glycine	64902
+Pyruvic acid	64902
+NADH	92483
+Cysteine	80704
+Hyaluronic acid	50939
+Succinic acid	6561
+Citric acid	7371
+Fostamatinib	85443
+Omega-3-carboxylic acids	6785
+alpha-Linolenic acid	6785
+Pyridoxal phosphate	63826
+Ferrous succinate	54583
+Ferrous glycine sulfate	54583
+Iron	54583
+Ferrous gluconate	54583
+Ferrous fumarate	54583
+Ascorbic acid	54583
+Ferrous ascorbate	54583
+Citric acid	58190
+Pentolinium	57053
+Succinylcholine	57053
+Diroximel fumarate	57053
+Ethanol	57053
+Trimethaphan	57053
+Nicotine	57053
+Chloroprocaine	57053
+Galantamine	57053
+Levocarnitine	6583
+Fostamatinib	81788
+Fostamatinib	23235
+Lomustine	81551
+Glutamic acid	83733
+Prenylamine	85366
+Fostamatinib	85366
+Siponimod	53637
+Fingolimod	53637
+Cangrelor	64805
+Clopidogrel	64805
+Ticagrelor	64805
+Treprostinil	64805
+Prasugrel	64805
+Ticlopidine	64805
+Epoprostenol	64805
+Doxazosin	81033
+Miconazole	81033
+Amitriptyline	81033
+Terazosin	81033
+Ibutilide	81033
+Fostamatinib	9748
+Fostamatinib	51347
+Methionine	23743
+Miconazole	3781
+Procaine	3781
+Trimebutine	3781
+Fostamatinib	28996
+Potassium chloride	57468
+Bumetanide	57468
+Doxepin	59340
+Mianserin	59340
+Histamine	59340
+Loxapine	59340
+Pheniramine	59340
+Aripiprazole	59340
+Clozapine	59340
+Chlorpromazine	59340
+Amoxapine	59340
+Amitriptyline	59340
+Thiamine	27010
+Fostamatinib	6725
+Fostamatinib	10114
+Fostamatinib	1263
+Vindesine	81027
+Cabazitaxel	81027
+Paclitaxel	81027
+Docetaxel	81027
+Eribulin	81027
+Glutathione	119391
+Glycine	140679
+Ascorbic acid	112399
+Spironolactone	79644
+Glutamic acid	79751
+Cysteine	79587
+gamma-Hydroxybutyric acid	79581
+Fostamatinib	57396
+Citric acid	59338
+Diacerein	64816
+Cannabidiol	59341
+Butamben	59341
+Vitamin A	57665
+Fostamatinib	2872
+Ademetionine	57412
+Mifamurtide	64127
+Pyrantel	2859
+Furosemide	2859
+Biotin	64087
+Caffeine	50940
+Tadalafil	50940
+Pyridoxal phosphate	51091
+Dyphylline	27115
+Caffeine	27115
+Miconazole	27094
+Procaine	27094
+Trimebutine	27094
+Fenofibric acid	64386
+Fenofibrate	64386
+Doxapram	51305
+Halothane	51305
+Gemfibrozil	28234
+Clarithromycin	28234
+Risankizumab	51561
+Ustekinumab	51561
+Guselkumab	51561
+Tildrakizumab	51561
+Glycerin	51477
+Elotuzumab	57823
+Fostamatinib	106821730
+Fostamatinib	56924
+Propanoic acid	10243
+Adenosine phosphate	55902
+Cladribine	56655
+Tretinoin	56603
+Gabapentin	56479
+Ezogabine	56479
+Hydroxychloroquine	54106
+Chloroquine	54106
+Imiquimod	51311
+Cladribine	54107
+Fostamatinib	54861
+Fostamatinib	27148
+NADH	56901
+Glutathione	51022
+Amitriptyline	90134
+Ibutilide	90134
+Terazosin	90134
+Doxazosin	90134
+Miconazole	90134
+Nedocromil	57105
+Zonisamide	56934
+Lesinurad	55867
+Ceftriaxone	55867
+Probenecid	55867
+Cefotaxime	55867
+Dalfampridine	3750
+Phenylalanine	10056
+Fostamatinib	55589
+Adenosine phosphate	84532
+Pyridoxal phosphate	55304
+Ascorbic acid	55217
+Succinic acid	55217
+Flavin mononucleotide	55163
+Pyridoxal phosphate	55163
+Fostamatinib	51135
+5-O-phosphono-alpha-D-ribofuranosyl diphosphate	54963
+Nicotinamide	23408
+Phosphatidyl serine	55627
+Ascorbic acid	54681
+Brivaracetam	6328
+Propoxycaine	6328
+Bioallethrin	6328
+Zonisamide	6328
+Lacosamide	6328
+Topiramate	6328
+Valproic acid	6328
+Pramocaine	6328
+Amylocaine	6328
+Phenytoin	6328
+Carbamazepine	6328
+Fish oil	6328
+Pentoxyverine	6328
+Oxcarbazepine	6328
+Dichlorobenzyl alcohol	6328
+Tetracaine	6328
+Ranolazine	6328
+Amiodarone	9254
+Bioallethrin	9254
+Bepridil	9254
+Spironolactone	9254
+Gabapentin enacarbil	9254
+Gabapentin	9254
+Nitrendipine	9254
+Isradipine	9254
+Butamben	9254
+Felodipine	9254
+Ergocalciferol	9254
+Tretinoin	29991
+Phosphatidyl serine	55512
+Dichlorobenzyl alcohol	55800
+Oxcarbazepine	55800
+Zonisamide	55800
+Fish oil	55800
+Valproic acid	55800
+Brivaracetam	55800
+Ranolazine	55800
+Hydroxychloroquine	51284
+Imiquimod	51284
+Dasatinib	51776
+Fostamatinib	51776
+Flavin mononucleotide	51179
+Vitamin A	50700
+Probenecid	50833
+Apomorphine	50632
+Clozapine	50632
+Trifluoperazine	50632
+Fostamatinib	10769
+Lauric acid	51228
+Oleic Acid	51228
+Lactose	51228
+Ferrous succinate	51327
+Ferrous ascorbate	51327
+Ferrous glycine sulfate	51327
+Ferrous gluconate	51327
+Iron	51327
+Ferrous fumarate	51327
+Aminosalicylic acid	30814
+Nimesulide	30814
+Oxyphenbutazone	30814
+Glycerin	30814
+Durvalumab	29126
+Atezolizumab	29126
+Avelumab	29126
+Disopyramide	3751
+Dalfampridine	3751
+Imipramine	3751
+NADH	51079
+Fostamatinib	4139
+Paramethadione	8911
+Zonisamide	8911
+Spironolactone	8911
+Manidipine	8911
+Flunarizine	8911
+Amlodipine	8911
+Cannabidiol	8911
+Cinnarizine	8911
+Nylidrin	8911
+Butamben	8911
+Bioallethrin	8911
+Trimebutine	8911
+Ergocalciferol	8911
+Glycine	51268
+Fostamatinib	57144
+Fostamatinib	51765
+Fostamatinib	440275
+Succinic acid	8803
+Fostamatinib	5298
+Hydroxocobalamin	4552
+Methionine	4552
+Cyanocobalamin	4552
+NADH	1717
+Butamben	27092
+Bioallethrin	27092
+Ergocalciferol	27092
+Spironolactone	27092
+Panobinostat	10013
+Belinostat	10013
+Romidepsin	10013
+Vorinostat	10013
+Bufexamac	10013
+gamma-Aminobutyric acid	2550
+Taurine	2550
+Vigabatrin	2550
+Baclofen	2550
+Calcium phosphate dihydrate	553115
+Calcium Phosphate	553115
+Calcium Citrate	553115
+Succinic acid	1468
+NADH	10157
+Glutamic acid	10157
+Vitamin E	284904
+D-alpha-Tocopherol acetate	284904
+alpha-Tocopherol succinate	284904
+alpha-Tocopherol succinate	266629
+Vitamin E	266629
+D-alpha-Tocopherol acetate	266629
+Fostamatinib	9263
+Titanium dioxide	8685
+Silicon dioxide	8685
+Fostamatinib	27347
+Ergocalciferol	27091
+Butamben	27091
+Bioallethrin	27091
+Spironolactone	27091
+Fostamatinib	285220
+Phosphatidyl serine	23761
+Trimebutine	3782
+Procaine	3782
+Miconazole	3782
+Fostamatinib	53632
+Acetylsalicylic acid	53632
+Fostamatinib	51422
+Acetylsalicylic acid	51422
+Ethanol	55584
+Galantamine	55584
+Nicotine	55584
+Tryptophan	10352
+Niraparib	10038
+Rucaparib	10038
+Olaparib	10038
+Talazoparib	10038
+Ezetimibe	29881
+Fostamatinib	29110
+Copper	6866
+Phenylalanine	23428
+Ascorbic acid	9963
+Flavin adenine dinucleotide	51706
+Potassium chloride	9990
+NADH	55967
+Glutamic acid	27165
+Cocaine	11280
+Zonisamide	11280
+Carbamazepine	11280
+Fish oil	11280
+Bioallethrin	11280
+Pentoxyverine	11280
+Pramocaine	11280
+Propoxycaine	11280
+Ranolazine	11280
+Brivaracetam	11280
+Dichlorobenzyl alcohol	11280
+Topiramate	11280
+Amylocaine	11280
+Tetracaine	11280
+Valproic acid	11280
+Oxcarbazepine	11280
+Fostamatinib	23604
+N-Acetylglucosamine	55577
+Flavin mononucleotide	54363
+Aspartic acid	10165
+Vinblastine	51175
+Vinblastine	51174
+Etacrynic acid	51176
+Disopyramide	3752
+Vernakalant	3752
+Imipramine	3752
+Dalfampridine	3752
+Isavuconazole	3752
+Dronedarone	3752
+N-Acetylglucosamine	51172
+Fostamatinib	27330
+Fostamatinib	23043
+Levocarnitine	54677
+Fostamatinib	9874
+Pidolic acid	10863
+Flavin adenine dinucleotide	27034
+Panobinostat	9734
+Valproic acid	9734
+Belinostat	9734
+Ivabradine	610
+Fostamatinib	9344
+Glutamic acid	23549
+Calcium phosphate dihydrate	9378
+Calcium Phosphate	9378
+Calcium Citrate	9378
+Citrulline	29943
+Glutamic acid	2894
+Calcium Phosphate	8618
+Calcium Citrate	8618
+Calcium phosphate dihydrate	8618
+Citrulline	51702
+Zonisamide	23632
+Acetazolamide	23632
+Cholesterol	26253
+Fluciclovine (18F)	9056
+Citrulline	23569
+Azithromycin	23569
+Tetracycline	23569
+Streptomycin	23569
+Fostamatinib	238
+Lorlatinib	238
+Brigatinib	238
+Crizotinib	238
+Gilteritinib	238
+Ceritinib	238
+Alectinib	238
+Ornithine	51686
+Triazolam	55879
+Primidone	55879
+Chlordiazepoxide	55879
+Diazepam	55879
+Ethchlorvynol	55879
+Taurine	55879
+Alprazolam	55879
+Eszopiclone	55879
+Methoxyflurane	55879
+Phenytoin	55879
+Stiripentol	55879
+Propofol	55879
+Acamprosate	55879
+Glutethimide	55879
+Estazolam	55879
+Quazepam	55879
+Lorazepam	55879
+Amoxapine	55879
+Lamotrigine	55879
+Oxazepam	55879
+Prazepam	55879
+Brexanolone	55879
+Talbutal	55879
+Bromazepam	55879
+Nitrazepam	55879
+Halazepam	55879
+Isoflurane	55879
+Temazepam	55879
+Prasterone	55879
+Butalbital	55879
+Memantine	55879
+Etomidate	55879
+Apalutamide	55879
+Methyprylon	55879
+Enflurane	55879
+Ethanol	55879
+Clobazam	55879
+Flumazenil	55879
+Desflurane	55879
+Medroxyprogesterone acetate	55879
+Meprobamate	55879
+Clorazepic acid	55879
+Flurazepam	55879
+Clonazepam	55879
+Halothane	55879
+Sevoflurane	55879
+Butabarbital	55879
+Pentobarbital	55879
+Lauric acid	26279
+Stearic acid	26279
+Drotrecogin alfa	10544
+Tetradecyl hydrogen sulfate (ester)	10544
+Avatrombopag	9429
+Yohimbine	3770
+Dronedarone	3770
+Ranolazine	3770
+Butamben	3770
+Bumetanide	6560
+Potassium chloride	6560
+Thimerosal	23657
+Riluzole	23657
+Acetylcysteine	23657
+Glutamic acid	23657
+Sulfasalazine	23657
+Cystine	23657
+Fostamatinib	22858
+Fostamatinib	6795
+Ranolazine	6334
+Tetracaine	6334
+Carbamazepine	6334
+Dichlorobenzyl alcohol	6334
+Amylocaine	6334
+Topiramate	6334
+Valproic acid	6334
+Bioallethrin	6334
+Pramocaine	6334
+Pentoxyverine	6334
+Fish oil	6334
+Brivaracetam	6334
+Propoxycaine	6334
+Oxcarbazepine	6334
+Phenytoin	6334
+Anthralin	9479
+Panobinostat	10014
+Belinostat	10014
+Fostamatinib	815
+Pazopanib	10019
+Triflusal	10846
+Dipyridamole	10846
+Papaverine	10846
+Caffeine	10846
+Lipoic acid	51601
+Quinidine	9424
+Ibutilide	9424
+Montelukast	10800
+Zafirlukast	10800
+Nedocromil	10800
+Citric acid	10673
+Belimumab	10673
+Phenylalanine	2193
+Biotin	8884
+Lipoic acid	8884
+Zonisamide	11238
+Pseudoephedrine	22809
+Fostamatinib	23012
+Fostamatinib	22983
+Tizanidine	11188
+Moxonidine	11188
+Citrulline	11240
+Fostamatinib	23387
+Phosphatidyl serine	10396
+Glutathione	373156
+Rimonabant	9290
+Cannabidiol	9290
+Bosutinib	10746
+Fostamatinib	10746
+Tyrosine	51067
+Glycine	9152
+Sucrose	51493
+Oseltamivir	4759
+Zanamivir	4759
+Fostamatinib	9149
+Adenosine phosphate	5564
+Metformin	5564
+Fostamatinib	5564
+Acetylsalicylic acid	5564
+Silver	9633
+Fostamatinib	11183
+Theophylline	26140
+Cyanocobalamin	25974
+Hydroxocobalamin	25974
+Choline salicylate	9468
+Choline	9468
+Histamine	11255
+Aripiprazole	11255
+Pitolisant	11255
+Olopatadine	11255
+Betahistine	11255
+Cannabidiol	51393
+Oxygen	27035
+Dinoprost	11251
+Indomethacin	11251
+Alprostadil	11251
+Iloprost	11251
+Dinoprostone	11251
+Sulindac	11251
+Urokinase	6768
+Tetracaine	6336
+Procaine	6336
+Brivaracetam	6336
+Amylocaine	6336
+Orphenadrine	6336
+Oxybuprocaine	6336
+Propoxycaine	6336
+Cocaine	6336
+Benzocaine	6336
+Cinchocaine	6336
+Lacosamide	6336
+Dyclonine	6336
+Hexylcaine	6336
+Levobupivacaine	6336
+Chloroprocaine	6336
+Proparacaine	6336
+Carbamazepine	6336
+Bioallethrin	6336
+Ropivacaine	6336
+Fish oil	6336
+Oxcarbazepine	6336
+Dichlorobenzyl alcohol	6336
+Lidocaine	6336
+Valproic acid	6336
+Pramocaine	6336
+Ranolazine	6336
+Pentoxyverine	6336
+Topiramate	6336
+Mepivacaine	6336
+Bupivacaine	6336
+Cysteine	51380
+Pyridoxal phosphate	51380
+Fostamatinib	11213
+Pyridoxal phosphate	29968
+Glutamic acid	29968
+Ornithine	10166
+Glutamic acid	10404
+Citric acid	9955
+Potassium chloride	10723
+Trimebutine	10242
+Miconazole	10242
+Procaine	10242
+Cefotaxime	10864
+Cysteine	9054
+Pyridoxal phosphate	9054
+Spironolactone	10369
+Ethanol	10369
+Butamben	10369
+Ergocalciferol	10369
+Bioallethrin	10369
+Fostamatinib	8428
+Rucaparib	10039
+Olaparib	10039
+Gemfibrozil	10599
+Telaprevir	10599
+Clarithromycin	10599
+NADH	4715
+Fostamatinib	4216
+Morphine	23643
+Lauric acid	23643
+5cocktail	5243
+5cocktail	4363
+5cocktail	1244
+5cocktail	1555
+5cocktail	1576
+5cocktail	6580
+5cocktail	9356
+5cocktail	10599
+5cocktail	54106
+5cocktail	51284
+5cocktail	7124
+5cocktail	2939
+5cocktail	8856
+5cocktail	4924
+kaletra	8856
+kaletra	5243
+kaletra	4363
+kaletra	1244
+kaletra	1555
+kaletra	1576
+kaletra	6580
+kaletra	9356
+kaletra	10599
+lopinavir	5243
+lopinavir	4363
+lopinavir	1244
+lopinavir	1555
+lopinavir	1576
+lopinavir	6580
+lopinavir	9356
+lopinavir	10599
+remdesivir	4924
