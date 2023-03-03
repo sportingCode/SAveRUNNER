@@ -1,40 +1,37 @@
 computeClusterInfo <- function(node,adj,cluster,filename_out){
   
-  SimMat <- matrix(0, nrow = nrow(adj), ncol = ncol(adj))
-  SimMat[upper.tri(SimMat)] <- adj[upper.tri(adj)]
-  rownames(SimMat) <- node
-  colnames(SimMat) <- node
+  cluster <- split(cluster,cluster$cluster)
   
-  list <- split(cluster,cluster$cluster)
-  
-  cluster_quality <- lapply(names(list), function(x){
+  cluster_info <- lapply(names(cluster), function(x){
     
-    member <- list[[x]]$node
+    member <- cluster[[x]]$node
+    not_member <- setdiff(node,member)
     
-    Win <- SimMat[member,member]
-    Wtot <- SimMat[member,]
+    Win <- adj[member,member]
+    Wout <- adj[member,not_member]
     
-    class(Win) <- "numeric"
-    class(Wtot) <- "numeric"
+    deg_in <- sum(Win)/2
+    deg_out <- sum(Wout)
     
-    w_in <- sum(Win)
-    w_out <- sum(Wtot)
+    deg_tot <- deg_in + deg_out
     
-    P <- length(member) / length(node)
+    size <- length(member)
     
-    QC <- w_in / (w_out + P)
+    P <- size / length(node)
+    
+    QC <- deg_in / (deg_tot + P)
     
     df <- data.frame(cluster = as.numeric(x),
-                     size = length(member),
-                     node_density = P,
-                     internal_weight = w_in,
-                     total_weight = w_out,
+                     size = size,
+                     density = P,
+                     internal_degree = deg_in,
+                     total_degree = deg_tot,
                      quality = QC,
                      members = paste(member, collapse = "/"))
     
   })
   
-  clusterInfo <- rbindlist(cluster_quality)
+  clusterInfo <- rbindlist(cluster_info)
   
   write.table(clusterInfo, filename_out, sep ="\t", quote=F, row.names = F, col.names = T)
   
