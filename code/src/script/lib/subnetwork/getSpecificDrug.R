@@ -4,7 +4,7 @@ getSpecificDrug <- function(network,disease,filename_out){
   
   list <- suppressWarnings(lapply(l,function(x){
     
-    if(length(x)==1 & x == disease) return(x)
+    if(length(x)==1) return(x)
     
   }))
   
